@@ -4,7 +4,7 @@ A package with illustrations for Sociocracy 3.0 Patterns.
 
 This package contains many the illustrations I have created for Sociocracy 3.0 (a.k.a. S3). 
 
-For the moment, the illustrations are available as png files with 140dpi, both with white and transparent backgrounds.
+For the moment, the illustrations are available as png files with 140dpi, both with white and transparent backgrounds, in English and German versions.
 
 
 ## License 
