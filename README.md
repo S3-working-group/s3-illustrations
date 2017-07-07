@@ -7,6 +7,21 @@ This package contains many the illustrations I have created for Sociocracy 3.0 (
 For the moment, the illustrations are available as png files with 140dpi, both with white and transparent backgrounds, in English and German versions.
 
 
+## Translation:
+
+
+
+## Scripts:
+
+`extract-strings.sh` extracts all translatable strings from source files into pot-files. 
+
+`upload-translations.sh` uploads the pot-files to crowdin
+
+`export-en.sh` exports the English illustrations to png files with 140dpi, with and without transparent background.
+
+These scripts rely on OmniGraffle and a set of [commandline tools](https://github.com/bboc/omnigraffle-export), both of which are currently only available on OS-X.
+
+
 ## License 
 
 
