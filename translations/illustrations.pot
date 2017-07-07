@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+
+#: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-equivalence-effectiveness:0
+#: illustrations.graffle/logbook:0 illustrations.graffle/roles:0
+msgid ""
+msgstr ""
+
+#: illustrations.graffle/balance-autonomy-collaboration:0
+msgid "autonomy"
+msgstr "autonomy"
+
+#: illustrations.graffle/balance-autonomy-collaboration:0
+msgid "collaboration"
+msgstr "collaboration"
+
+#: illustrations.graffle/balance-equivalence-effectiveness:0
+msgid "equivalence"
+msgstr "equivalence"
+
+#: illustrations.graffle/balance-equivalence-effectiveness:0
+msgid "effectiveness"
+msgstr "effectiveness"
+
+#: illustrations.graffle/logbook:0
+msgid "Logbook"
+msgstr "Logbook"

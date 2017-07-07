@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+
+#: structural-patterns.graffle/backbone-organization:0
+#: structural-patterns.graffle/backbone-organization-text:0
+#: structural-patterns.graffle/circles-and-links:0
+#: structural-patterns.graffle/double-link:0
+#: structural-patterns.graffle/double-linked-hierarchy:0
+#: structural-patterns.graffle/double-linked-hierarchy-with-legend:0
+#: structural-patterns.graffle/fractal-organization:0
+#: structural-patterns.graffle/helping-team:0
+#: structural-patterns.graffle/link:0
+#: structural-patterns.graffle/macro-and-meta-combined:0
+#: structural-patterns.graffle/nested-circle:0
+#: structural-patterns.graffle/peach-organization:0
+#: structural-patterns.graffle/service-circle:0
+#: structural-patterns.graffle/single-circle:0
+msgid ""
+msgstr ""
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid "representative of … "
+msgstr "representative of … "
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid "parent organization"
+msgstr "parent organization"
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid ""
+"… parent organization’s\n"
+"perspective"
+msgstr ""
+"… parent organization’s\n"
+"perspective"
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid "backbone organization"
+msgstr "backbone organization"
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid "steward"
+msgstr "steward"
+
+#: structural-patterns.graffle/backbone-organization-text:0
+msgid ""
+"… backbone organization’s \n"
+"perspective"
+msgstr ""
+"… backbone organization’s \n"
+"perspective"
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "link"
+msgstr "link"
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "circle"
+msgstr "circle"
+
+#: structural-patterns.graffle/circles-and-links:0
+msgid "double-link"
+msgstr "double-link"
+
+#: structural-patterns.graffle/double-linked-hierarchy-with-legend:0
+msgid "holding circle"
+msgstr "holding circle"
+
+#: structural-patterns.graffle/double-linked-hierarchy-with-legend:0
+msgid "general circle"
+msgstr "general circle"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "2nd tier"
+msgstr "2nd tier"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "A"
+msgstr "A"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "C"
+msgstr "C"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "B"
+msgstr "B"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "D"
+msgstr "D"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "domain D"
+msgstr "domain D"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "domain A"
+msgstr "domain A"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "domain B"
+msgstr "domain B"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "domain C"
+msgstr "domain C"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"backbone \n"
+"organization"
+msgstr ""
+"backbone \n"
+"organization"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"peach\n"
+"organization"
+msgstr ""
+"peach\n"
+"organization"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid ""
+"double-linked \n"
+"hierarchy"
+msgstr ""
+"double-linked \n"
+"hierarchy"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid "fractal organization"
+msgstr "fractal organization"

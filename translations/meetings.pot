@@ -1,0 +1,183 @@
+#
+msgid ""
+msgstr ""
+
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+#: meetings.graffle/planning-review-standup:0
+msgid ""
+"daily\n"
+"standup"
+msgstr ""
+"daily\n"
+"standup"
+
+#: meetings.graffle/continuous-flow:0
+msgid "incremental delivery of value"
+msgstr "incremental delivery of value"
+
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+#: meetings.graffle/retrospective:0
+msgid "governance backlog"
+msgstr "governance backlog"
+
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+#: meetings.graffle/retrospective:0
+msgid "retrospective"
+msgstr "retrospective"
+
+#: meetings.graffle/continuous-flow:0
+msgid "fixed interval between retrospectives"
+msgstr "fixed interval between retrospectives"
+
+#: meetings.graffle/continuous-flow:0
+msgid "continuous flow"
+msgstr "continuous flow"
+
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+msgid "backlog"
+msgstr "backlog"
+
+#: meetings.graffle/coordination-meeting:0
+#: meetings.graffle/governance-meeting:0
+msgid "Opening Round"
+msgstr "Opening Round"
+
+#: meetings.graffle/coordination-meeting:0
+msgid "Closing Round"
+msgstr "Closing Round"
+
+#: meetings.graffle/coordination-meeting:0
+msgid "Status Reports"
+msgstr "Status Reports"
+
+#: meetings.graffle/coordination-meeting:0
+#: meetings.graffle/governance-meeting:0
+msgid "Agenda Items"
+msgstr "Agenda Items"
+
+#: meetings.graffle/coordination-meeting:0
+msgid "Meeting Review"
+msgstr "Meeting Review"
+
+#: meetings.graffle/coordination-meeting:0
+#: meetings.graffle/governance-meeting:0
+msgid "⟳"
+msgstr "⟳"
+
+#: meetings.graffle/evaluate-interactions:0
+msgid "Evaluate Interaction"
+msgstr "Evaluate Interaction"
+
+#: meetings.graffle/evaluate-interactions:0
+msgid "Workshop/Meeting"
+msgstr "Workshop/Meeting"
+
+#: meetings.graffle/evaluate-interactions:0
+#: meetings.graffle/governance-meeting:0
+msgid "Closing"
+msgstr "Closing"
+
+#: meetings.graffle/evaluate-interactions:0
+msgid "Opening"
+msgstr "Opening"
+
+#: meetings.graffle/governance-meeting:0
+msgid "Meeting Evaluation"
+msgstr "Meeting Evaluation"
+
+#: meetings.graffle/governance-meeting:0
+msgid "Administrative Matters"
+msgstr "Administrative Matters"
+
+#: meetings.graffle/iterations:0
+msgid ""
+msgstr ""
+
+#: meetings.graffle/iterations:0
+msgid "iterative process"
+msgstr "iterative process"
+
+#: meetings.graffle/iterations:0
+msgid ""
+"iteration\n"
+"backlog"
+msgstr ""
+"iteration\n"
+"backlog"
+
+#: meetings.graffle/iterations:0
+msgid "iteration planning"
+msgstr "iteration planning"
+
+#: meetings.graffle/iterations:0
+msgid "process iteration backlog"
+msgstr "process iteration backlog"
+
+#: meetings.graffle/iterations:0
+msgid ""
+"delivery \n"
+"of value"
+msgstr ""
+"delivery \n"
+"of value"
+
+#: meetings.graffle/iterations:0
+msgid "fixed  iteration length"
+msgstr "fixed  iteration length"
+
+#: meetings.graffle/iterations:0 meetings.graffle/planning-review-standup:0
+msgid "review"
+msgstr "review"
+
+#: meetings.graffle/planning-review:0
+#: meetings.graffle/planning-review-standup:0
+msgid "work"
+msgstr "work"
+
+#: meetings.graffle/planning-review:0
+msgid ""
+"review\n"
+"meeting"
+msgstr ""
+"review\n"
+"meeting"
+
+#: meetings.graffle/planning-review:0
+msgid "planning meeting"
+msgstr "planning meeting"
+
+#: meetings.graffle/planning-review-standup:0
+msgid "planning"
+msgstr "planning"
+
+#: meetings.graffle/retrospective:0
+msgid "decision"
+msgstr "decision"
+
+#: meetings.graffle/retrospective:0
+msgid ""
+"governance\n"
+"driver"
+msgstr ""
+"governance\n"
+"driver"
+
+#: meetings.graffle/retrospective:0
+msgid ""
+"operational\n"
+"driver"
+msgstr ""
+"operational\n"
+"driver"
+
+#: meetings.graffle/retrospective:0
+msgid ""
+"operational\n"
+"backlog"
+msgstr ""
+"operational\n"
+"backlog"
+
+#: meetings.graffle/retrospective:0
+msgid "logbook"
+msgstr "logbook"

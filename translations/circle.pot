@@ -1,0 +1,57 @@
+#
+msgid ""
+msgstr ""
+
+#: circle.graffle/circle:0 circle.graffle/circle-driver:0
+#: circle.graffle/enter-leave-circle:0 circle.graffle/facilitator:0
+#: circle.graffle/rounds:0 circle.graffle/transparent-salary:0
+msgid ""
+msgstr ""
+
+#: circle.graffle/circle-driver:0
+msgid "driver"
+msgstr "driver"
+
+#: circle.graffle/facilitator:0 circle.graffle/rounds:0
+msgid "facilitator"
+msgstr "facilitator"
+
+#: circle.graffle/rounds:0
+msgid "last"
+msgstr "last"
+
+#: circle.graffle/rounds:0
+msgid "first"
+msgstr "first"
+
+#: circle.graffle/transparent-salary:0
+msgid "$23.000"
+msgstr "$23.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$32.000"
+msgstr "$32.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$12.000"
+msgstr "$12.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$38.000"
+msgstr "$38.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$28.000"
+msgstr "$28.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$43.000"
+msgstr "$43.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$66.000"
+msgstr "$66.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$47.000"
+msgstr "$47.000"

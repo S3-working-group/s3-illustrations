@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+
+#: agreements.graffle/cdm-condensed:0
+msgid "Celebrate Agreement"
+msgstr "Celebrate Agreement"
+
+#: agreements.graffle/cdm-condensed:0
+msgid "Brief Response"
+msgstr "Brief Response"
+
+#: agreements.graffle/cdm-condensed:0
+msgid "Resolve Objections"
+msgstr "Resolve Objections"
+
+#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
+msgid " 🎉"
+msgstr " 🎉"
+
+#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/proposal-forming-medium:0 agreements.graffle/selection:0
+msgid "⟳"
+msgstr "⟳"
+
+#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Consent to Driver"
+msgstr "Consent to Driver"
+
+#: agreements.graffle/cdm-condensed:0
+msgid "Present Proposal"
+msgstr "Present Proposal"
+
+#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
+msgid "Harvest Objections"
+msgstr "Harvest Objections"
+
+#: agreements.graffle/cdm-condensed:0
+msgid "(Consider Concerns)"
+msgstr "(Consider Concerns)"
+
+#: agreements.graffle/cdm-condensed:0
+msgid "Clarifying Questions"
+msgstr "Clarifying Questions"
+
+#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Present Driver"
+msgstr "Present Driver"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "(hear reports)"
+msgstr "(hear reports)"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "drop agreement"
+msgstr "drop agreement"
+
+#: agreements.graffle/evaluate-agreements:0
+#: agreements.graffle/resolve-objections-process:0
+msgid ""
+msgstr ""
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "follow-up"
+msgstr "follow-up"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "review agreement"
+msgstr "review agreement"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "review driver"
+msgstr "review driver"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid ""
+"keep \n"
+"agreement"
+msgstr ""
+"keep \n"
+"agreement"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "preparation"
+msgstr "preparation"
+
+#: agreements.graffle/evaluate-agreements:0
+msgid "update agreement"
+msgstr "update agreement"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Design Proposal(s)"
+msgstr "Design Proposal(s)"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Information Gathering Questions"
+msgstr "Information Gathering Questions"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Record Considerations"
+msgstr "Record Considerations"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Questions about Driver"
+msgstr "Questions about Driver"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "(Select Tuners)"
+msgstr "(Select Tuners)"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Collect Ideas"
+msgstr "Collect Ideas"
+
+#: agreements.graffle/resolve-objections:0
+msgid "defer"
+msgstr "defer"
+
+#: agreements.graffle/resolve-objections:0
+msgid "ask “who can resolve this?”"
+msgstr "ask “who can resolve this?”"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"timeboxed dialogue \n"
+"(2 or 3 people)"
+msgstr ""
+"timeboxed dialogue \n"
+"(2 or 3 people)"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"ask member\n"
+" with objection \n"
+"to amend proposal"
+msgstr ""
+"ask member\n"
+" with objection \n"
+"to amend proposal"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"Pick the most promising option \n"
+"(repeat until resolved)"
+msgstr ""
+"Pick the most promising option \n"
+"(repeat until resolved)"
+
+#: agreements.graffle/resolve-objections:0
+msgid "individual"
+msgstr "individual"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"ask proposal owner\n"
+" to amend proposal"
+msgstr ""
+"ask proposal owner\n"
+" to amend proposal"
+
+#: agreements.graffle/resolve-objections:0
+msgid "group"
+msgstr "group"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"round: “how would \n"
+"you solve this?”"
+msgstr ""
+"round: “how would \n"
+"you solve this?”"
+
+#: agreements.graffle/resolve-objections:0
+msgid "refer driver to proposal forming"
+msgstr "refer driver to proposal forming"
+
+#: agreements.graffle/resolve-objections:0
+msgid "timeboxed group discussion"
+msgstr "timeboxed group discussion"
+
+#: agreements.graffle/resolve-objections:0
+msgid "re-work – send back to superset/subset circle"
+msgstr "re-work – send back to superset/subset circle"
+
+#: agreements.graffle/resolve-objections:0
+msgid "form group to review, research, revise"
+msgstr "form group to review, research, revise"
+
+#: agreements.graffle/resolve-objections:0
+msgid "Resolve objections \n"
+msgstr "Resolve objections \n"
+
+#: agreements.graffle/resolve-objections:0
+msgid "drop the proposal"
+msgstr "drop the proposal"
+
+#: agreements.graffle/resolve-objections:0
+msgid ""
+"facilitator \n"
+"amends proposal"
+msgstr ""
+"facilitator \n"
+"amends proposal"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "hear next objection"
+msgstr "hear next objection"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "amend proposal (or decide to defer/drop)"
+msgstr "amend proposal (or decide to defer/drop)"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "yes"
+msgstr "yes"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "no"
+msgstr "no"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "any objections to amendment?"
+msgstr "any objections to amendment?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "resolve objections to amendment"
+msgstr "resolve objections to amendment"
+
+#: agreements.graffle/selection:0
+msgid "Information Gathering"
+msgstr "Information Gathering"
+
+#: agreements.graffle/selection:0
+msgid "Nomination Changes"
+msgstr "Nomination Changes"
+
+#: agreements.graffle/selection:0
+msgid "Reasons for Nominations"
+msgstr "Reasons for Nominations"
+
+#: agreements.graffle/selection:0
+msgid "Address and Resolve"
+msgstr "Address and Resolve"
+
+#: agreements.graffle/selection:0
+msgid "Celebrate"
+msgstr "Celebrate"
+
+#: agreements.graffle/selection:0
+msgid "Record Nominations"
+msgstr "Record Nominations"
+
+#: agreements.graffle/selection:0
+msgid "Propose a Nominee"
+msgstr "Propose a Nominee"
+
+#: agreements.graffle/selection:0
+msgid "Present Role Description"
+msgstr "Present Role Description"
