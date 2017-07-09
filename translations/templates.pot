@@ -168,6 +168,10 @@ msgid "Domain Name"
 msgstr "Domain Name"
 
 #: templates.graffle/outcome-and-criteria:0
+msgid "✔︎"
+msgstr "✔︎"
+
+#: templates.graffle/outcome-and-criteria:0
 msgid "Metrics"
 msgstr "Metrics"
 

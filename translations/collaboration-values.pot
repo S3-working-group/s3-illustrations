@@ -34,12 +34,12 @@ msgid "driver"
 msgstr "driver"
 
 #: collaboration-values.graffle/s3-organization:0
-msgid "strategy"
-msgstr "strategy"
-
-#: collaboration-values.graffle/s3-organization:0
 msgid "the seven principles"
 msgstr "the seven principles"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "strategy"
+msgstr "strategy"
 
 #: collaboration-values.graffle/values-7principles:0
 msgid "seven principles"
