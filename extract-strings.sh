@@ -1,3 +1,3 @@
-ls -b src | xargs -I {} og6-translate extract  "src/{}"
+ls -b src | xargs -I {} ogtranslate extract  "src/{}"
 mkdir translations
 mv src/*.pot translations/
