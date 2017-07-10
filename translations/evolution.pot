@@ -9,8 +9,7 @@ msgstr ""
 #: evolution.graffle/driver-agreement-improvement:0
 #: evolution.graffle/driver-domain-selection-development:0
 #: evolution.graffle/driver-role-selection-development:0
-#: evolution.graffle/experiments-phases:0 evolution.graffle/kaizen:0
-#: evolution.graffle/kaizen-plain:0 evolution.graffle/kaizen-values:0
+#: evolution.graffle/experiments-phases:0
 msgid ""
 msgstr ""
 
@@ -70,7 +69,7 @@ msgstr "strategy"
 #: evolution.graffle/driver-agreement-improvement:0
 #: evolution.graffle/driver-domain-selection-development:0
 #: evolution.graffle/driver-role-selection-development:0
-#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-values:0
+#: evolution.graffle/kaizen:0
 msgid "driver"
 msgstr "driver"
 
@@ -206,11 +205,6 @@ msgstr "evolve"
 #: evolution.graffle/kaizen-values:0
 msgid "evaluate"
 msgstr "evaluate"
-
-#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
-#: evolution.graffle/kaizen-values:0
-msgid "experiment\n"
-msgstr "experiment\n"
 
 #: evolution.graffle/kaizen-values:0
 msgid "shared values"

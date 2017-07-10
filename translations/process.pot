@@ -277,6 +277,10 @@ msgstr ""
 "Refine and consent to driver description."
 
 #: process.graffle/navigate-via-tension-print:0
+msgid "Circle or Role Process"
+msgstr "Circle or Role Process"
+
+#: process.graffle/navigate-via-tension-print:0
 msgid ""
 "Act\n"
 "\n"
@@ -285,10 +289,6 @@ msgstr ""
 "Act\n"
 "\n"
 "Decide what to do and do it."
-
-#: process.graffle/navigate-via-tension-print:0
-msgid "Circle or Role Process"
-msgstr "Circle or Role Process"
 
 #: process.graffle/navigate-via-tension-print:0
 msgid "Drop it."
