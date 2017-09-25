@@ -1,0 +1,42 @@
+
+fonts:
+    ArialUnicodeMS: none
+    Menlo-Regular: none
+    OpenSans: none
+    OpenSans-Italic: none
+    OpenSans-Light: none
+    OpenSans-Semibold: none
+    OpenSansLight-Italic: none
+    PingFangSC-Light: none
+    STIXGeneral-Regular: none
+    Ubuntu-Light: none
+colors:
+    h000000: none
+    h2F2F2F: none
+    h3F3F3F: none
+    h434343: none
+    hB4B4B4: none
+    hFFFFFF: none
+    h992727: none
+    hABA300: none
+    hDBD000: none
+    hDBD100: none
+    hFF524F: none
+    hFF7F00: none
+    hFF7F32: none
+    hFF7F33: none
+    hFF8000: none
+    hFFFC2D: none
+    h218041: none
+    h2F6A49: none
+    h316F4C: none
+    h337650: none
+    h337651: none
+    h48A771: none
+    hACD8C2: none
+    h1B91FF: none
+    h310067: none
+    h444C6F: none
+    h6E7BB4: none
+    h8AB0FF: none
+    hB7C8ED: none
