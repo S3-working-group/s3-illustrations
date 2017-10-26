@@ -2,14 +2,13 @@
 msgid ""
 msgstr ""
 
-#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
-#: meetings.graffle/planning-review-standup:0
+#: meetings.graffle/continuous-flow:0 meetings.graffle/coordination-meeting:0
+#: meetings.graffle/evaluate-interactions:0
+#: meetings.graffle/governance-meeting:0 meetings.graffle/iterations:0
+#: meetings.graffle/planning-review:0
+#: meetings.graffle/planning-review-standup:0 meetings.graffle/retrospective:0
 msgid ""
-"daily\n"
-"standup"
 msgstr ""
-"daily\n"
-"standup"
 
 #: meetings.graffle/continuous-flow:0
 msgid "incremental delivery of value"
@@ -90,10 +89,6 @@ msgid "Administrative Matters"
 msgstr "Administrative Matters"
 
 #: meetings.graffle/iterations:0
-msgid ""
-msgstr ""
-
-#: meetings.graffle/iterations:0
 msgid "iterative process"
 msgstr "iterative process"
 
@@ -128,11 +123,6 @@ msgstr "fixed  iteration length"
 #: meetings.graffle/iterations:0 meetings.graffle/planning-review-standup:0
 msgid "review"
 msgstr "review"
-
-#: meetings.graffle/planning-review:0
-#: meetings.graffle/planning-review-standup:0
-msgid "work"
-msgstr "work"
 
 #: meetings.graffle/planning-review:0
 msgid ""

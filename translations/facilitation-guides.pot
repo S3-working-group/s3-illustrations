@@ -2,23 +2,18 @@
 msgid ""
 msgstr ""
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 msgstr ""
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
-msgid "How can we respond to the drivers? "
-msgstr "How can we respond to the drivers? "
-
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Populate and define domains"
 msgstr "Populate and define domains"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\t▪\tlist actors on large cards\n"
 "\t▪\tadd reference number and stick to a board"
@@ -26,8 +21,8 @@ msgstr ""
 "\t▪\tlist actors on large cards\n"
 "\t▪\tadd reference number and stick to a board"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\t▪\tcreate actor-centric or needs-centric clusters (or a combination of "
 "both)"
@@ -35,18 +30,18 @@ msgstr ""
 "\t▪\tcreate actor-centric or needs-centric clusters (or a combination of "
 "both)"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "What else do we need to consider… "
 msgstr "What else do we need to consider… "
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "What is needed (drivers)…"
 msgstr "What is needed (drivers)…"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\t▪\tstick the driver cards around the actors\n"
 "\t▪\tadd the reference number of the actor to the driver cards\n"
@@ -54,13 +49,24 @@ msgstr ""
 "\t▪\tstick the driver cards around the actors\n"
 "\t▪\tadd the reference number of the actor to the driver cards\n"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid ""
+"\t▪\tclear enough articulation?\n"
+"\t▪\trelevant for us to respond to?\n"
+"\t▪\tquestions about the driver"
+msgstr ""
+"\t▪\tclear enough articulation?\n"
+"\t▪\trelevant for us to respond to?\n"
+"\t▪\tquestions about the driver"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Who will be impacted? "
 msgstr "Who will be impacted? "
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\n"
 "\t▪\tlink between domains if needed\n"
@@ -70,19 +76,8 @@ msgstr ""
 "\t▪\tlink between domains if needed\n"
 "\t▪\tform delegate/service/coord. circles as required"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
-msgid ""
-"\n"
-"What deliverables could help?\n"
-"What values could guide our work?"
-msgstr ""
-"\n"
-"What deliverables could help?\n"
-"What values could guide our work?"
-
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "Account for drivers that \n"
 "extend beyond the scope\n"
@@ -92,8 +87,8 @@ msgstr ""
 "extend beyond the scope\n"
 " of one domain"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\t▪\tin the smaller groups: describe the primary driver of the domain and "
 "agree on a meaningful name"
@@ -101,54 +96,51 @@ msgstr ""
 "\t▪\tin the smaller groups: describe the primary driver of the domain and "
 "agree on a meaningful name"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
 msgid ""
-"\t▪\tclear enough articulation?\n"
-"\t▪\trelevant for us to respond to?\n"
-"\t▪\tquestions about the driver"
+"\n"
+"What values could guide our work?"
 msgstr ""
-"\t▪\tclear enough articulation?\n"
-"\t▪\trelevant for us to respond to?\n"
-"\t▪\tquestions about the driver"
+"\n"
+"What values could guide our work?"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "1"
 msgstr "1"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "3"
 msgstr "3"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "2"
 msgstr "2"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "5"
 msgstr "5"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "4"
 msgstr "4"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "7"
 msgstr "7"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "6"
 msgstr "6"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "… to respond to the \n"
 "primary driver ?"
@@ -156,13 +148,13 @@ msgstr ""
 "… to respond to the \n"
 "primary driver ?"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "8"
 msgstr "8"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "Present & consent to \n"
 "the primary driver."
@@ -170,13 +162,13 @@ msgstr ""
 "Present & consent to \n"
 "the primary driver."
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Sort & prioritize drivers "
 msgstr "Sort & prioritize drivers "
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "…in the context of what we \n"
 "want to achieve?\n"
@@ -188,13 +180,13 @@ msgstr ""
 "Collect drivers on smaller cards\n"
 "“they / we need (to)__”"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "9"
 msgstr "9"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\n"
 "\t▪\tPass on drivers belonging to other domains\n"
@@ -206,8 +198,8 @@ msgstr ""
 "\t▪\tidentify and add missing drivers \n"
 "\t▪\tdecide on a strategy for domain"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "Distribute people according to experience and interest, to account for all "
 "domains"
@@ -215,18 +207,18 @@ msgstr ""
 "Distribute people according to experience and interest, to account for all "
 "domains"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Why are we here?"
 msgstr "Why are we here?"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
-msgid "\t▪\tcollect ideas on smaller cards and stick to corresponding driver"
-msgstr "\t▪\tcollect ideas on smaller cards and stick to corresponding driver"
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Who has expertise on how to respond?"
+msgstr "Who has expertise on how to respond?"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\tThings to decide (governance) Things to do (operations)\n"
 "Prioritize backlogs\n"
@@ -236,23 +228,28 @@ msgstr ""
 "Prioritize backlogs\n"
 " Eliminate waste\n"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\t▪\tadd names to driver card"
+msgstr "\t▪\tadd names to driver card"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Celebrate! "
 msgstr "Celebrate! "
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Identify domains"
 msgstr "Identify domains"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "✓"
 msgstr "✓"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "\t▪\thear short reports\n"
 "\t▪\tagree together how to proceed\n"
@@ -262,13 +259,13 @@ msgstr ""
 "\t▪\tagree together how to proceed\n"
 "\t▪\texisting orgs: what drivers can be passed to existing domains?\n"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "Connecting domains"
 msgstr "Connecting domains"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "Cluster actors and/or drivers \n"
 "into coherent domains"
@@ -276,8 +273,8 @@ msgstr ""
 "Cluster actors and/or drivers \n"
 "into coherent domains"
 
-#: facilitation-guides.graffle/driver-mapping:0
-#: facilitation-guides.graffle/driver-mapping-print:0
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid ""
 "Consider who can: \n"
 "…benefit? …be harmed? \n"
@@ -286,3 +283,7 @@ msgstr ""
 "Consider who can: \n"
 "…benefit? …be harmed? \n"
 "…help? …stand in the way?"
+
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\n"
+msgstr "\n"

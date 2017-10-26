@@ -3,16 +3,19 @@ msgid ""
 msgstr ""
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
 #: illustrations.graffle/balance-equivalence-effectiveness:0
 #: illustrations.graffle/logbook:0 illustrations.graffle/roles:0
 msgid ""
 msgstr ""
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
 msgid "autonomy"
 msgstr "autonomy"
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
 msgid "collaboration"
 msgstr "collaboration"
 

@@ -2,6 +2,8 @@
 msgid ""
 msgstr ""
 
+#: pattern-group-headers.graffle/all-groups:0
+#: pattern-group-headers.graffle/all-groups-dark:0
 #: pattern-group-headers.graffle/header-group-1:0
 #: pattern-group-headers.graffle/header-group-10:0
 #: pattern-group-headers.graffle/header-group-2:0

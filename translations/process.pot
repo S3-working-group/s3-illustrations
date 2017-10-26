@@ -2,6 +2,13 @@
 msgid ""
 msgstr ""
 
+#: process.graffle/adapt-pattern-to-context:0 process.graffle/driver-mapping:0
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+#: process.graffle/opening-salaries:0 process.graffle/peer-review:0
+msgid ""
+msgstr ""
+
 #: process.graffle/adapt-pattern-to-context:0
 msgid "Test Adaptation"
 msgstr "Test Adaptation"
@@ -27,16 +34,20 @@ msgid "Consent to Adaptation"
 msgstr "Consent to Adaptation"
 
 #: process.graffle/driver-mapping:0
+msgid "Primary Driver"
+msgstr "Primary Driver"
+
+#: process.graffle/driver-mapping:0
 msgid "Identify Actors"
 msgstr "Identify Actors"
 
 #: process.graffle/driver-mapping:0
-msgid "Sort & Prioritize Drivers"
-msgstr "Sort & Prioritize Drivers"
-
-#: process.graffle/driver-mapping:0
 msgid "Connect Domains"
 msgstr "Connect Domains"
+
+#: process.graffle/driver-mapping:0
+msgid "What’s missing?"
+msgstr "What’s missing?"
 
 #: process.graffle/driver-mapping:0
 msgid "Identify Deliverables"
@@ -47,112 +58,52 @@ msgid "Identify Needs"
 msgstr "Identify Needs"
 
 #: process.graffle/driver-mapping:0
-msgid "Primary Driver"
-msgstr "Primary Driver"
-
-#: process.graffle/driver-mapping:0
-msgid "What’s missing?"
-msgstr "What’s missing?"
+msgid "Form Domains"
+msgstr "Form Domains"
 
 #: process.graffle/driver-mapping:0
 msgid "Populate & Define Domains"
 msgstr "Populate & Define Domains"
 
 #: process.graffle/driver-mapping:0
-msgid "Form Domains"
-msgstr "Form Domains"
-
-#: process.graffle/effectiveness-review:0
-msgid "Collect Improvement Suggestions "
-msgstr "Collect Improvement Suggestions "
-
-#: process.graffle/effectiveness-review:0
-msgid "Invite Contributors"
-msgstr "Invite Contributors"
-
-#: process.graffle/effectiveness-review:0
-msgid "Co-Create Development Plan"
-msgstr "Co-Create Development Plan"
-
-#: process.graffle/effectiveness-review:0
-msgid "Consent to Plan"
-msgstr "Consent to Plan"
-
-#: process.graffle/effectiveness-review:0
-msgid "Present Role Description and Strategy"
-msgstr "Present Role Description and Strategy"
-
-#: process.graffle/effectiveness-review:0
-msgid "⟳"
-msgstr "⟳"
-
-#: process.graffle/effectiveness-review:0
-msgid "Collect Appreciations"
-msgstr "Collect Appreciations"
+msgid "Sort & Prioritize Drivers"
+msgstr "Sort & Prioritize Drivers"
 
 #: process.graffle/navigate-via-tension:0
-msgid ""
-"Qualify Organizational Drivers\n"
-"\n"
-"Can this help or harm \n"
-"the organization?"
-msgstr ""
-"Qualify Organizational Drivers\n"
-"\n"
-"Can this help or harm \n"
-"the organization?"
-
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-slides:0
-msgid "Is the description of the driver clear enough?"
-msgstr "Is the description of the driver clear enough?"
-
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-print:0
 #: process.graffle/navigate-via-tension-slides:0
 msgid "yes"
 msgstr "yes"
 
 #: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Understand Driver\n"
-"\n"
-"Describe the situation: what’s happening, what’s needed?"
-msgstr ""
-"Understand Driver\n"
-"\n"
-"Describe the situation: what’s happening, what’s needed?"
-
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-print:0
 msgid "Qualify Drivers"
 msgstr "Qualify Drivers"
 
 #: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
-msgid ""
-"Is the driver relevant \n"
-"for us to respond to?"
-msgstr ""
-"Is the driver relevant \n"
-"for us to respond to?"
-
-#: process.graffle/navigate-via-tension:0
-msgid ""
-"Act\n"
-"\n"
-"or schedule for later"
-msgstr ""
-"Act\n"
-"\n"
-"or schedule for later"
-
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-print:0
-#: process.graffle/navigate-via-tension-slides:0
 msgid "Notice Tension"
 msgstr "Notice Tension"
+
+#: process.graffle/navigate-via-tension:0
+msgid ""
+"Understand Driver\n"
+"\n"
+"Describe the situation: what’s happening, what’s needed?"
+msgstr ""
+"Understand Driver\n"
+"\n"
+"Describe the situation: what’s happening, what’s needed?"
+
+#: process.graffle/navigate-via-tension:0
+msgid ""
+"Qualify Organizational Drivers\n"
+"\n"
+"Can this help or harm \n"
+"the organization?"
+msgstr ""
+"Qualify Organizational Drivers\n"
+"\n"
+"Can this help or harm \n"
+"the organization?"
 
 #: process.graffle/navigate-via-tension:0
 msgid ""
@@ -173,7 +124,16 @@ msgid "Individual Accountability"
 msgstr "Individual Accountability"
 
 #: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-print:0
+msgid ""
+"Act\n"
+"\n"
+"or schedule for later"
+msgstr ""
+"Act\n"
+"\n"
+"or schedule for later"
+
+#: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
 msgid "no"
 msgstr "no"
@@ -204,14 +164,6 @@ msgstr "Accountability of Circle or Person in a Role\n"
 
 #: process.graffle/navigate-via-tension:0
 msgid ""
-"\n"
-"Consent to Driver"
-msgstr ""
-"\n"
-"Consent to Driver"
-
-#: process.graffle/navigate-via-tension:0
-msgid ""
 "Decide \n"
 "\n"
 "How will we respond?"
@@ -219,80 +171,6 @@ msgstr ""
 "Decide \n"
 "\n"
 "How will we respond?"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Decide\n"
-"\n"
-"Is it necessary to \n"
-"act on this now?"
-msgstr ""
-"Decide\n"
-"\n"
-"Is it necessary to \n"
-"act on this now?"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid "Individual Process"
-msgstr "Individual Process"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"\t▪\tdrop it\n"
-"\t▪\tschedule for later \n"
-"\t▪\trefer to another domain"
-msgstr ""
-"\t▪\tdrop it\n"
-"\t▪\tschedule for later \n"
-"\t▪\trefer to another domain"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Decide \n"
-"\n"
-"Is it necessary to act on this driver in this domain right now?"
-msgstr ""
-"Decide \n"
-"\n"
-"Is it necessary to act on this driver in this domain right now?"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Delegate\n"
-"\n"
-"Refer driver to appropriate domain (circle or role)."
-msgstr ""
-"Delegate\n"
-"\n"
-"Refer driver to appropriate domain (circle or role)."
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Understand Driver\n"
-"\n"
-"Refine and consent to driver description."
-msgstr ""
-"Understand Driver\n"
-"\n"
-"Refine and consent to driver description."
-
-#: process.graffle/navigate-via-tension-print:0
-msgid "Circle or Role Process"
-msgstr "Circle or Role Process"
-
-#: process.graffle/navigate-via-tension-print:0
-msgid ""
-"Act\n"
-"\n"
-"Decide what to do and do it."
-msgstr ""
-"Act\n"
-"\n"
-"Decide what to do and do it."
-
-#: process.graffle/navigate-via-tension-print:0
-msgid "Drop it."
-msgstr "Drop it."
 
 #: process.graffle/navigate-via-tension-slides:0
 msgid ""
@@ -303,8 +181,8 @@ msgstr ""
 "to them"
 
 #: process.graffle/navigate-via-tension-slides:0
-msgid "Understand Driver"
-msgstr "Understand Driver"
+msgid "Is the description of the driver clear enough?"
+msgstr "Is the description of the driver clear enough?"
 
 #: process.graffle/navigate-via-tension-slides:0
 msgid ""
@@ -323,50 +201,22 @@ msgid ""
 msgstr ""
 "Act\n"
 "(or schedule for later)"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid ""
+"Is the driver relevant \n"
+"for us to respond to?"
+msgstr ""
+"Is the driver relevant \n"
+"for us to respond to?"
 
 #: process.graffle/navigate-via-tension-slides:0
 msgid "Consent to Driver"
 msgstr "Consent to Driver"
 
 #: process.graffle/navigate-via-tension-slides:0
-msgid "Qualify Driver"
-msgstr "Qualify Driver"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid "Decide"
-msgstr "Decide"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid "Describe situation: what’s happening, what’s needed?"
-msgstr "Describe situation: what’s happening, what’s needed?"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid ""
-"Can this help or harm \n"
-"the organization?"
-msgstr ""
-"Can this help or harm \n"
-"the organization?"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid "How will we respond?"
-msgstr "How will we respond?"
-
-#: process.graffle/navigate-via-tension-slides:0
 msgid "Those Accountable for the Domain"
 msgstr "Those Accountable for the Domain"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid ""
-"Whose domain of \n"
-"accountablity is this?"
-msgstr ""
-"Whose domain of \n"
-"accountablity is this?"
-
-#: process.graffle/navigate-via-tension-slides:0
-msgid "Delegate"
-msgstr "Delegate"
 
 #: process.graffle/opening-salaries:0
 msgid "Transition to New Formula"
@@ -411,3 +261,31 @@ msgstr "Transparency-First Approach"
 #: process.graffle/opening-salaries:0
 msgid "Agree on Transition"
 msgstr "Agree on Transition"
+
+#: process.graffle/peer-review:0
+msgid "Collect Improvement Suggestions "
+msgstr "Collect Improvement Suggestions "
+
+#: process.graffle/peer-review:0
+msgid "Invite Contributors"
+msgstr "Invite Contributors"
+
+#: process.graffle/peer-review:0
+msgid "Co-Create Development Plan"
+msgstr "Co-Create Development Plan"
+
+#: process.graffle/peer-review:0
+msgid "Consent to Plan"
+msgstr "Consent to Plan"
+
+#: process.graffle/peer-review:0
+msgid "Present Domain Description and Strategy"
+msgstr "Present Domain Description and Strategy"
+
+#: process.graffle/peer-review:0
+msgid "⟳"
+msgstr "⟳"
+
+#: process.graffle/peer-review:0
+msgid "Collect Appreciations"
+msgstr "Collect Appreciations"
