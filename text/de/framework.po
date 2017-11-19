@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+""
+
+#: framework.graffle/design-goals:0
+msgid "design\n"
+"goals"
+msgstr "Design-\n"
+"ziele"
+
+#: framework.graffle/pattern-map:0
+msgid "Sociocracy 3.0 "
+msgstr "Soziokratie 3.0"
+
+#: framework.graffle/pattern-map:0
+msgid "A Practical Guide For Evolving \n"
+"Agile and Resilient Organizations"
+msgstr "Ein Leitfaden zur Entwicklung \n"
+"agiler and resilienter Organisationen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "defining agreements"
+msgstr "klare Vereinbarungen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "co-creation and evolution"
+msgstr "Mitgestaltung und Evolution"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "focused interactions"
+msgstr "fokussierte Interaktionen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+#: framework.graffle/s3-principles-plain:0
+msgid "S3"
+msgstr "S3"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "bringing in S3"
+msgstr "S3 Einführen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "organizational structure"
+msgstr "Organisationsstruktur"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "enablers of co-creation"
+msgstr "Mitgestaltung ermöglichen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "building organizations"
+msgstr "Organisationsentwicklung"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "organizing work"
+msgstr "Arbeitsorganisation"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "peer development"
+msgstr "gemeinsame Entwicklung"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "meeting practices"
+msgstr "effektive Meetings"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "transparency"
+msgstr "Transparenz"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "consent"
+msgstr "Konsent"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "empiricism"
+msgstr "Empirismus"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "continuous improvement"
+msgstr "kontinuierliche Verbesserung"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "accountability"
+msgstr "Verantwortung"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "effectiveness"
+msgstr "Effektivität"
+
+#: framework.graffle/s3-principles-plain:0
+msgid "equivalence"
+msgstr "Gleichstellung"
+

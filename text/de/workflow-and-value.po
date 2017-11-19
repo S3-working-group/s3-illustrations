@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+""
+
+#: workflow-and-value.graffle/card:0
+msgid "★★"
+msgstr "★★"
+
+#: workflow-and-value.graffle/card:0
+msgid "due: 1.4.2017"
+msgstr "fällig: 1.4.2017"
+
+#: workflow-and-value.graffle/card:0
+msgid "Update the fiddly thing so it doesn’t not break when somebody looks at it sideways."
+msgstr "Das frickelige Ding befestigen, damit es nicht zerbricht, wenn es jemand schief ansieht."
+
+#: workflow-and-value.graffle/card:0
+msgid "30.3.2017"
+msgstr "30.3.2017"
+
+#: workflow-and-value.graffle/card:0
+msgid "#37"
+msgstr "#37"
+
+#: workflow-and-value.graffle/card:0
+msgid "BLOCKED: \n"
+"ask Carl about deployment, he’s  on on holiday. "
+msgstr "BLOCKIERT:\n"
+"kann nur von Karl erledigt werden, der ist im Urlaub."
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "waste"
+msgstr "Verschwendung"
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "value"
+msgstr "Wert"
+
+#: workflow-and-value.graffle/sales:0
+msgid "leads"
+msgstr "Leads"
+
+#: workflow-and-value.graffle/sales:0
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+#: workflow-and-value.graffle/support:0
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "done"
+msgstr "erledigt"
+
+#: workflow-and-value.graffle/sales:0
+msgid "blocked"
+msgstr "blockiert"
+
+#: workflow-and-value.graffle/sales:0
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "negotiate"
+msgstr "verhandeln"
+
+#: workflow-and-value.graffle/sales:0
+msgid "create quote"
+msgstr "Angebot\n"
+"erstellen"
+
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "doing"
+msgstr "doing"
+
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+msgid "to do"
+msgstr "to do"
+
+#: workflow-and-value.graffle/scaling-process:0
+msgid "circle A"
+msgstr "Kreis A"
+
+#: workflow-and-value.graffle/scaling-process:0
+msgid "circle B"
+msgstr "Kreis B"
+
+#: workflow-and-value.graffle/simple-process:0
+msgid "work items"
+msgstr "Arbeitsaufgaben"
+
+#: workflow-and-value.graffle/support:0
+msgid "in progress"
+msgstr "in Arbeit"
+
+#: workflow-and-value.graffle/support:0
+msgid "questions"
+msgstr "Fragen"
+
+#: workflow-and-value.graffle/support:0
+msgid "get client feedback"
+msgstr "Kundenfeedback einholen"
+
+#: workflow-and-value.graffle/support:0
+msgid "confirm solution"
+msgstr "Lösung bestätigen"
+
+#: workflow-and-value.graffle/support:0
+msgid "problems"
+msgstr "Probleme"
+
+#: workflow-and-value.graffle/support:0
+msgid "important"
+msgstr "wichtig"
+
+#: workflow-and-value.graffle/support:0
+msgid "hold: requires support contract"
+msgstr "Halt: erfordert Support-Vertrag"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "tasks"
+msgstr "Aufgaben"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Isaac"
+msgstr "Isaac"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "ready"
+msgstr "bereit"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "review"
+msgstr "Review"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "acceptance"
+msgstr "Prüfung"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "publish"
+msgstr "veröffentlichen"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "writing"
+msgstr "schreiben"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Carla"
+msgstr "Carla"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "stories"
+msgstr "Stories"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Frank"
+msgstr "Frank"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "backlog"
+msgstr "Backlog"
+
+#: workflow-and-value.graffle/types-of-flow:0
+msgid "flow of value"
+msgstr "Wertfluss"
+
+#: workflow-and-value.graffle/types-of-flow:0
+msgid "flow of\n"
+" information"
+msgstr "Informationsfluss"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle B"
+msgstr "Kreis B"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle C"
+msgstr "Kreis C"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle D"
+msgstr "Kreis D"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "identify leads"
+msgstr "Leads identifizieren"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle A"
+msgstr "Kreis A"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "deliver"
+msgstr "ausliefern"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "establish interest"
+msgstr "Interesse bestätigen"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Work in Progess"
+msgstr "in Arbeiten"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "test"
+msgstr "Test"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "WIP Circle A"
+msgstr "WIP Kreis A"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "order"
+msgstr "Auftrag"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "produce"
+msgstr "produzieren"
+

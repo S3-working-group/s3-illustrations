@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+""
+
+#: collaboration-values.graffle/artful-participation:0
+msgid "“Is my behavior in this \n"
+"moment the greatest contribution I can make \n"
+"to the effectiveness of this collaboration?”"
+msgstr "“Ist mein Verhalten der beste\n"
+"Beitrag, den ich zur dieser \n"
+"Zusammenarbeit im Moment leisten kann?”"
+
+#: collaboration-values.graffle/chosen-values:0
+#: collaboration-values.graffle/values-7principles:0
+#: collaboration-values.graffle/values-step1:0
+#: collaboration-values.graffle/values-step2:0
+#: collaboration-values.graffle/values-step3:0
+msgid "collaboration"
+msgstr "Zusammenarbeit"
+
+#: collaboration-values.graffle/chosen-values:0
+#: collaboration-values.graffle/s3-organization:0
+msgid "chosen values"
+msgstr "Gewählte Werte"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "the seven principles"
+msgstr "die sieben Prinzipien"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "driver"
+msgstr "Treiber"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "strategy"
+msgstr "Strategie"
+
+#: collaboration-values.graffle/values-7principles:0
+msgid "seven principles"
+msgstr "sieben Prinzipien"
+
+#: collaboration-values.graffle/values-7principles:0
+#: collaboration-values.graffle/values-step2:0
+#: collaboration-values.graffle/values-step3:0
+msgid "values"
+msgstr "Werte"
+

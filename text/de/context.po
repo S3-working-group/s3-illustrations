@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+""
+
+#: context.graffle/history:0
+msgid "1.0"
+msgstr "1.0"
+
+#: context.graffle/history:0
+msgid "Auguste Comte\n"
+"(1851)"
+msgstr "Auguste Comte\n"
+"(1851)"
+
+#: context.graffle/history:0
+msgid "Kees Boeke\n"
+"(1926)"
+msgstr "Kees Boeke\n"
+"(1926)"
+
+#: context.graffle/history:0
+msgid "2.0"
+msgstr "2.0"
+
+#: context.graffle/history:0
+msgid "agile & lean"
+msgstr "agile & lean"
+
+#: context.graffle/history:0
+msgid "Quaker \n"
+msgstr "Quäker-"
+
+#: context.graffle/history:0
+msgid "Bernhard Bockelbrink\n"
+"James Priest (2015)"
+msgstr "Bernhard Bockelbrink\n"
+"James Priest (2015)"
+
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "®"
+msgstr "®"
+
+#: context.graffle/history:0
+msgid "3.0"
+msgstr "3.0"
+
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "Holacracy"
+msgstr "Holakratie"
+
+#: context.graffle/history:0
+msgid "Gerard Endenburg\n"
+"(1970)"
+msgstr "Gerard Endenburg\n"
+"(1970)"
+
+#: context.graffle/history:0
+msgid "Lester Frank Ward\n"
+"(1881)"
+msgstr "Lester Frank Ward\n"
+"(1881)"
+
+#: context.graffle/history:0
+msgid "meeting practice"
+msgstr "Kreistreffen"
+
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "sociocracy"
+msgstr "Soziokratie"
+
+#: context.graffle/history:0
+msgid "Brian Robertson\n"
+"(2008)"
+msgstr "Brian Robertson\n"
+"(2008)"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "Models of Management"
+msgstr "Managementparadigmen"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "sociocracy30.org"
+msgstr "sociocracy30.org"
+
+#: context.graffle/models-of-management:0
+msgid "A response to Dion Hinchcliffe’s “comparing various models of management with Holacracy”. It adds sociocracy to the picture, in the variants of Sociocracy by the Sociocracy Group (TSG) and Sociocracy 3.0. (Both Holacracy and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the table are differences and additions to Hinchcliffe’s comparison."
+msgstr "Eine Antwort auf Dion Hinchcliffes “comparing various models of management with Holacracy”, die die Soziokratische Kreismethode (SKM) und Soziokratie 3.0. in den Vergleich mit einbezieht. (Sowohl Holakratie als auch Soziokratie 3.0 entlehnen wesentliche Konzepte aus der SKM). In der Tabelle hervorgehoben sind Unterschiede und Ergänzungen zum Hinchcliffes Vergleich."
+
+#: context.graffle/sociocracy-variants:0
+msgid "Sociocracy 3.0\n"
+"(S3)"
+msgstr "Soziokratie 3.0\n"
+"(S3)"
+
+#: context.graffle/sociocracy-variants:0
+msgid "(Dynamic Governance,\n"
+" Circle Forward)"
+msgstr "(Dynamic Governance,\n"
+" Circle Forward)"
+
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "An illustration developed from Dion Hinchcliffe’s “comparing various models of management with Holacracy”. Both Holacracy and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the table are differences and additions to Hinchcliffe’s comparison"
+msgstr "Entwickelt aus Dion Hinchcliffes “comparing various models of management with Holacracy” [Sowohl Holakratie als auch Soziokratie 3.0 entlehnen wesentliche Konzepte aus der soziokratischen Kreismethode (SKM)]. "
+
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Sociocracy, Holacracy, Sociocracy 3.0"
+msgstr "Soziokratie, Holacracy, Soziokratie 3.0"
+

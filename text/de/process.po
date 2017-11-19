@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+""
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Test Adaptation"
+msgstr "Anpassung testen"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Pattern"
+msgstr "Pattern verstehen"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Proposal for Adaptation"
+msgstr "Vorschlag zur Anpassung"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Understand Context"
+msgstr "Kontext verstehen"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Evaluate and Evolve"
+msgstr "Evaluieren und entwickeln"
+
+#: process.graffle/adapt-pattern-to-context:0
+msgid "Consent to Adaptation"
+msgstr "Konsent zur Anpassung"
+
+#: process.graffle/driver-mapping:0
+msgid "Primary Driver"
+msgstr "Primärtreiber"
+
+#: process.graffle/driver-mapping:0
+msgid "Connect Domains"
+msgstr "Domänen verbinden"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Actors"
+msgstr "Aktuere identifizieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Deliverables"
+msgstr "Leistungen identifizieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Identify Needs"
+msgstr "Bedarf ermitteln"
+
+#: process.graffle/driver-mapping:0
+msgid "What’s missing?"
+msgstr "Was fehlt noch?"
+
+#: process.graffle/driver-mapping:0
+msgid "Form Domains"
+msgstr "Domänen bilden"
+
+#: process.graffle/driver-mapping:0
+msgid "Populate & Define Domains"
+msgstr "Domänen besetzen und definieren"
+
+#: process.graffle/driver-mapping:0
+msgid "Sort & Prioritize Drivers"
+msgstr "Treiber sortieren & priorisieren"
+
+#: process.graffle/navigate-via-tension:0
+msgid "▪"
+msgstr "▪"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "yes"
+msgstr "ja"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Qualify Drivers"
+msgstr "Treiber beurteilen"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Notice Tension"
+msgstr "Spannung erkennen"
+
+#: process.graffle/navigate-via-tension:0
+msgid "\tdrop it \n"
+"\t"
+msgstr "\tignorieren"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Understand Driver\n\n"
+"Describe the situation: what’s happening, what’s needed?"
+msgstr "Treiber verstehen\n\n"
+"Beschreibe die Situation: was passiert, und was wird benötigt?"
+
+#: process.graffle/navigate-via-tension:0
+msgid "\trefer to another domain"
+msgstr "\tan andere Domäne übergeben"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Qualify Organizational Drivers\n\n"
+"Can this help or harm \n"
+"the organization?"
+msgstr "Organisationstreiber beurteilen\n\n"
+"Hilft oder schadet es der Organisation?\n"
+
+#: process.graffle/navigate-via-tension:0
+msgid "pass the driver \n"
+"to them"
+msgstr "Treiber übergeben"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Drop it"
+msgstr "ignorieren"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Individual Accountability"
+msgstr "Persönliche Verantwortung"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Act\n\n"
+"or schedule for later"
+msgstr "Handeln\n\n"
+"oder vertagen"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "no"
+msgstr "nein"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Delegate\n\n"
+"Whose domain of \n"
+"accountablity is this?"
+msgstr "Delegieren\n\n"
+"Wer ist zuständig?"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Accountability of Circle or Person in a Role\n"
+msgstr "Verantwortung von Kreis oder Rolle"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Decide \n\n"
+"How will we respond?"
+msgstr "Entscheiden\n\n"
+"Wie werden wir reagieren?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "pass driver \n"
+"to them"
+msgstr "Treiber übergeben"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Is the description of the driver clear enough?"
+msgstr "Ist die Beschreibung des Treibers klar genug?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Drop \n"
+"(or refer\n"
+" to another domain)"
+msgstr " verwerfen (oder an andere Domäne übergeben)"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Act\n"
+"(or schedule for later)"
+msgstr "Handeln\n"
+"(oder vertagen)"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Is the driver relevant \n"
+"for us to respond to?"
+msgstr "Betrifft uns dieser Treiber?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Consent to Driver"
+msgstr "Konsent: Treiber"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Those Accountable for the Domain"
+msgstr "die Domänenverantwortlichen"
+
+#: process.graffle/opening-salaries:0
+msgid "Transition to New Formula"
+msgstr "Umstellung auf neue Formel"
+
+#: process.graffle/opening-salaries:0
+msgid "Create/Update Salary Formula"
+msgstr "Gehaltsformel erstellen/anpassen"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary"
+msgstr "Transparente Gehälter"
+
+#: process.graffle/opening-salaries:0
+msgid "Open Salary "
+msgstr "Transparente Gehälter"
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Salary Formula"
+msgstr "Gehaltsformel vereinbaren"
+
+#: process.graffle/opening-salaries:0
+msgid "Consult Those Affected"
+msgstr "Betroffene konsultieren"
+
+#: process.graffle/opening-salaries:0
+msgid "Fairness-First Approach"
+msgstr "Fairness-First-Ansatz"
+
+#: process.graffle/opening-salaries:0
+msgid "Implement"
+msgstr "Umsetzen"
+
+#: process.graffle/opening-salaries:0
+msgid "Review and Evolve"
+msgstr "Evaluation und Evolution"
+
+#: process.graffle/opening-salaries:0
+msgid "Transparency-First Approach"
+msgstr "Transparency-First-Ansatz"
+
+#: process.graffle/opening-salaries:0
+msgid "Agree on Transition"
+msgstr "Übergang vereinbaren"
+
+#: process.graffle/peer-review:0
+msgid "Collect Improvement Suggestions "
+msgstr "Verbesserungsvorschläge sammeln "
+
+#: process.graffle/peer-review:0
+msgid "Invite Contributors"
+msgstr "Teilnehmer einladen"
+
+#: process.graffle/peer-review:0
+msgid "Co-Create Development Plan"
+msgstr "Entwicklungsplan erarbeiten"
+
+#: process.graffle/peer-review:0
+msgid "Consent to Plan"
+msgstr "Entwicklungsplan beschliessen"
+
+#: process.graffle/peer-review:0
+msgid "Present Domain Description and Strategy"
+msgstr "Domänenbeschreibung und Strategie vorstellen"
+
+#: process.graffle/peer-review:0
+msgid "⟳"
+msgstr "⟳"
+
+#: process.graffle/peer-review:0
+msgid "Collect Appreciations"
+msgstr "Würdigungen"
+

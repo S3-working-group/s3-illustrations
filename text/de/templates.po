@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+""
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/proposal-template:0
+msgid "Who is accountable?"
+msgstr "Verantwortliche(r)"
+
+#: templates.graffle/agreement-template:0
+msgid "Description"
+msgstr "Beschreibung"
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
+#: templates.graffle/domain-description-template:0
+msgid "Date/Version"
+msgstr "Datum/Version"
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/proposal-template:0
+#: templates.graffle/role-description-template:0
+msgid "Driver"
+msgstr "Treiber"
+
+#: templates.graffle/agreement-template:0
+msgid "Appendix"
+msgstr "Anhang"
+
+#: templates.graffle/agreement-template:0
+msgid "(Concerns)"
+msgstr "(Bedenken)"
+
+#: templates.graffle/agreement-template:0
+msgid "Previous Versions"
+msgstr "Vorherige Versionen"
+
+#: templates.graffle/agreement-template:0
+msgid "Title of Agreement"
+msgstr "Name der Vereinbarung"
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/outcome-and-criteria:0
+msgid "Evaluation Criteria"
+msgstr "Evaluationskriterien"
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
+#: templates.graffle/domain-description-template:0
+msgid "Review Date"
+msgstr "Review Datum"
+
+#: templates.graffle/agreement-template:0
+msgid "References"
+msgstr "Referenzen"
+
+#: templates.graffle/agreement-template:0
+msgid "￼"
+msgstr "￼"
+
+#: templates.graffle/development-plan-template:0
+msgid "Development Plan"
+msgstr "Entwicklungsplan"
+
+#: templates.graffle/development-plan-template:0
+msgid "for <Domain Name>"
+msgstr "für < Domänen-Namen >"
+
+#: templates.graffle/domain-description-template:0
+msgid "Term (for a role)"
+msgstr "Dauer (Rolle)"
+
+#: templates.graffle/domain-description-template:0
+msgid "Name of the Domain"
+msgstr "Name der Domäne"
+
+#: templates.graffle/domain-template:0
+msgid "Primary Driver"
+msgstr "Primärtreiber"
+
+#: templates.graffle/domain-template:0
+msgid "Work Backlog"
+msgstr "Arbeits-Backlog"
+
+#: templates.graffle/domain-template:0
+msgid "Additional Information (as valuable)"
+msgstr "Weitere Informationen (soweit relevant)"
+
+#: templates.graffle/domain-template:0
+msgid "Governance Backlog"
+msgstr "Steuerungs-Backlog"
+
+#: templates.graffle/domain-template:0
+msgid "Domain Name"
+msgstr "Name der Domäne"
+
+#: templates.graffle/outcome-and-criteria:0
+msgid "Metrics"
+msgstr "Metriken"
+
+#: templates.graffle/outcome-and-criteria:0
+msgid "Intended Outcome"
+msgstr "angestrebtes Ergebnis"
+
+#: templates.graffle/proposal-template:0
+msgid "Proposal Text"
+msgstr "Text des Vorschlags"
+
+#: templates.graffle/proposal-template:0
+msgid "Evaluation Date and/or Frequency"
+msgstr "Review-Datum oder -frequenz"
+
+#: templates.graffle/proposal-template:0
+msgid "Title of Proposal"
+msgstr "Titel des Vorschlags"
+
+#: templates.graffle/proposal-template:0
+msgid "Evaluation Process and Criteria"
+msgstr "Bewertungsverfahren und -kriterien"
+
+#: templates.graffle/role-description-template:0
+msgid "Schedule for Peer Reviews"
+msgstr "Termine für Entwicklungsgespräche"
+
+#: templates.graffle/role-description-template:0
+msgid "Skills, Experience, Qualities, Time"
+msgstr "Fähigkeiten, Erfahrung, Eigenschaften, Zeit"
+
+#: templates.graffle/role-description-template:0
+msgid "Term (date of next selection)"
+msgstr "Dauer (Datum der nächsten Wahl)"
+
+#: templates.graffle/role-description-template:0
+msgid "Name of the Role"
+msgstr "Name der Rolle"
+
+#: templates.graffle/role-description-template:0
+msgid "Responsibilities, Resources"
+msgstr "Aufgaben, Ressourcen"
+
+#: templates.graffle/role-description-template:0
+msgid "Date"
+msgstr "Datum Review"
+

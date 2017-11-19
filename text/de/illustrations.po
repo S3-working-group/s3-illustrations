@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+""
+
+#: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
+msgid "collaboration"
+msgstr "Zusammenarbeit"
+
+#: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
+msgid "autonomy"
+msgstr "Autonomie"
+
+#: illustrations.graffle/balance-equivalence-effectiveness:0
+msgid "equivalence"
+msgstr "Gleichstellung"
+
+#: illustrations.graffle/balance-equivalence-effectiveness:0
+msgid "effectiveness"
+msgstr "Effektivität"
+
+#: illustrations.graffle/logbook:0
+msgid "Logbook"
+msgstr "Logbuch"
+
