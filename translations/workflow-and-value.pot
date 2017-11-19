@@ -2,18 +2,6 @@
 msgid ""
 msgstr ""
 
-#: workflow-and-value.graffle/align-flow:0 workflow-and-value.graffle/card:0
-#: workflow-and-value.graffle/drivers-value-waste:0
-#: workflow-and-value.graffle/sales:0
-#: workflow-and-value.graffle/scaling-process:0
-#: workflow-and-value.graffle/simple-process:0
-#: workflow-and-value.graffle/support:0
-#: workflow-and-value.graffle/swim-lanes:0
-#: workflow-and-value.graffle/types-of-flow:0
-#: workflow-and-value.graffle/wip-and-value:0
-msgid ""
-msgstr ""
-
 #: workflow-and-value.graffle/card:0
 msgid "★★"
 msgstr "★★"

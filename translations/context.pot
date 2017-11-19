@@ -2,12 +2,6 @@
 msgid ""
 msgstr ""
 
-#: context.graffle/history:0 context.graffle/models-of-management:0
-#: context.graffle/models-of-management-plain:0
-#: context.graffle/sociocracy-vs-holacracy:0
-msgid ""
-msgstr ""
-
 #: context.graffle/history:0
 msgid "1.0"
 msgstr "1.0"
@@ -48,13 +42,17 @@ msgstr ""
 "Bernhard Bockelbrink\n"
 "James Priest (2015)"
 
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "®"
+msgstr "®"
+
 #: context.graffle/history:0
 msgid "3.0"
 msgstr "3.0"
 
 #: context.graffle/history:0 context.graffle/sociocracy-variants:0
-msgid "Holacracy®"
-msgstr "Holacracy®"
+msgid "Holacracy"
+msgstr "Holacracy"
 
 #: context.graffle/history:0
 msgid ""

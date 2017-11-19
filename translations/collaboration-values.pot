@@ -26,10 +26,6 @@ msgid "chosen values"
 msgstr "chosen values"
 
 #: collaboration-values.graffle/s3-organization:0
-msgid ""
-msgstr ""
-
-#: collaboration-values.graffle/s3-organization:0
 msgid "the seven principles"
 msgstr "the seven principles"
 

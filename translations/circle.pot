@@ -2,13 +2,6 @@
 msgid ""
 msgstr ""
 
-#: circle.graffle/circle:0 circle.graffle/circle 2:0
-#: circle.graffle/circle-driver:0 circle.graffle/enter-leave-circle:0
-#: circle.graffle/facilitator:0 circle.graffle/rounds:0
-#: circle.graffle/transparent-salary:0
-msgid ""
-msgstr ""
-
 #: circle.graffle/facilitator:0 circle.graffle/rounds:0
 msgid "facilitator"
 msgstr "facilitator"

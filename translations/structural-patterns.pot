@@ -3,25 +3,6 @@ msgid ""
 msgstr ""
 
 #: structural-patterns.graffle/circles-and-links:0
-#: structural-patterns.graffle/coordination-circle:0
-#: structural-patterns.graffle/delegate-circle:0
-#: structural-patterns.graffle/double-link:0
-#: structural-patterns.graffle/double-linked-hierarchy:0
-#: structural-patterns.graffle/fractal-organization:0
-#: structural-patterns.graffle/helping-team:0
-#: structural-patterns.graffle/link:0
-#: structural-patterns.graffle/macro-and-meta-combined:0
-#: structural-patterns.graffle/nested-circle:0
-#: structural-patterns.graffle/open-domain:0
-#: structural-patterns.graffle/peach-organization:0
-#: structural-patterns.graffle/service-circle:0
-#: structural-patterns.graffle/service-organization:0
-#: structural-patterns.graffle/service-organization-text:0
-#: structural-patterns.graffle/single-circle:0
-msgid ""
-msgstr ""
-
-#: structural-patterns.graffle/circles-and-links:0
 msgid "link"
 msgstr "link"
 

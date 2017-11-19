@@ -2,13 +2,6 @@
 msgid ""
 msgstr ""
 
-#: process.graffle/adapt-pattern-to-context:0 process.graffle/driver-mapping:0
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-slides:0
-#: process.graffle/opening-salaries:0 process.graffle/peer-review:0
-msgid ""
-msgstr ""
-
 #: process.graffle/adapt-pattern-to-context:0
 msgid "Test Adaptation"
 msgstr "Test Adaptation"
@@ -38,16 +31,12 @@ msgid "Primary Driver"
 msgstr "Primary Driver"
 
 #: process.graffle/driver-mapping:0
-msgid "Identify Actors"
-msgstr "Identify Actors"
-
-#: process.graffle/driver-mapping:0
 msgid "Connect Domains"
 msgstr "Connect Domains"
 
 #: process.graffle/driver-mapping:0
-msgid "What’s missing?"
-msgstr "What’s missing?"
+msgid "Identify Actors"
+msgstr "Identify Actors"
 
 #: process.graffle/driver-mapping:0
 msgid "Identify Deliverables"
@@ -56,6 +45,10 @@ msgstr "Identify Deliverables"
 #: process.graffle/driver-mapping:0
 msgid "Identify Needs"
 msgstr "Identify Needs"
+
+#: process.graffle/driver-mapping:0
+msgid "What’s missing?"
+msgstr "What’s missing?"
 
 #: process.graffle/driver-mapping:0
 msgid "Form Domains"
@@ -68,6 +61,10 @@ msgstr "Populate & Define Domains"
 #: process.graffle/driver-mapping:0
 msgid "Sort & Prioritize Drivers"
 msgstr "Sort & Prioritize Drivers"
+
+#: process.graffle/navigate-via-tension:0
+msgid "▪"
+msgstr "▪"
 
 #: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
@@ -85,6 +82,14 @@ msgstr "Notice Tension"
 
 #: process.graffle/navigate-via-tension:0
 msgid ""
+"\tdrop it \n"
+"\t"
+msgstr ""
+"\tdrop it \n"
+"\t"
+
+#: process.graffle/navigate-via-tension:0
+msgid ""
 "Understand Driver\n"
 "\n"
 "Describe the situation: what’s happening, what’s needed?"
@@ -92,6 +97,10 @@ msgstr ""
 "Understand Driver\n"
 "\n"
 "Describe the situation: what’s happening, what’s needed?"
+
+#: process.graffle/navigate-via-tension:0
+msgid "\trefer to another domain"
+msgstr "\trefer to another domain"
 
 #: process.graffle/navigate-via-tension:0
 msgid ""
@@ -137,14 +146,6 @@ msgstr ""
 #: process.graffle/navigate-via-tension-slides:0
 msgid "no"
 msgstr "no"
-
-#: process.graffle/navigate-via-tension:0
-msgid ""
-"\t▪\tdrop it \n"
-"\t▪\trefer to another domain"
-msgstr ""
-"\t▪\tdrop it \n"
-"\t▪\trefer to another domain"
 
 #: process.graffle/navigate-via-tension:0
 msgid ""

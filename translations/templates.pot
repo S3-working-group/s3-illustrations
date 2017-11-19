@@ -3,16 +3,6 @@ msgid ""
 msgstr ""
 
 #: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
-#: templates.graffle/domain-description-template:0
-#: templates.graffle/domain-template:0
-#: templates.graffle/outcome-and-criteria:0
-#: templates.graffle/proposal-template:0
-#: templates.graffle/role-description-template:0
-msgid ""
-msgstr ""
-
-#: templates.graffle/agreement-template:0
 #: templates.graffle/proposal-template:0
 msgid "Who is accountable?"
 msgstr "Who is accountable?"
@@ -20,6 +10,12 @@ msgstr "Who is accountable?"
 #: templates.graffle/agreement-template:0
 msgid "Description"
 msgstr "Description"
+
+#: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
+#: templates.graffle/domain-description-template:0
+msgid "Date/Version"
+msgstr "Date/Version"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/proposal-template:0
@@ -30,12 +26,6 @@ msgstr "Driver"
 #: templates.graffle/agreement-template:0
 msgid "Appendix"
 msgstr "Appendix"
-
-#: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
-#: templates.graffle/domain-description-template:0
-msgid "Date/Version"
-msgstr "Date/Version"
 
 #: templates.graffle/agreement-template:0
 msgid "(Concerns)"

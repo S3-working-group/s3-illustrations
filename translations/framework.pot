@@ -2,13 +2,6 @@
 msgid ""
 msgstr ""
 
-#: framework.graffle/design-goals:0 framework.graffle/logo:0
-#: framework.graffle/pattern-map:0 framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0 framework.graffle/s3-principles:0
-#: framework.graffle/s3-principles-plain:0
-msgid ""
-msgstr ""
-
 #: framework.graffle/design-goals:0
 msgid ""
 "design\n"
@@ -31,6 +24,11 @@ msgstr ""
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
+msgid "defining agreements"
+msgstr "defining agreements"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
 msgid "co-creation and evolution"
 msgstr "co-creation and evolution"
 
@@ -47,8 +45,8 @@ msgstr "S3"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "meeting practices"
-msgstr "meeting practices"
+msgid "bringing in S3"
+msgstr "bringing in S3"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
@@ -57,13 +55,8 @@ msgstr "organizational structure"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "peer development"
-msgstr "peer development"
-
-#: framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0
-msgid "bringing in S3"
-msgstr "bringing in S3"
+msgid "enablers of co-creation"
+msgstr "enablers of co-creation"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
@@ -77,21 +70,21 @@ msgstr "organizing work"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "enablers of co-creation"
-msgstr "enablers of co-creation"
+msgid "peer development"
+msgstr "peer development"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "defining agreements"
-msgstr "defining agreements"
+msgid "meeting practices"
+msgstr "meeting practices"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "transparency"
+msgstr "transparency"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "consent"
 msgstr "consent"
-
-#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "accountability"
-msgstr "accountability"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "empiricism"
@@ -102,12 +95,12 @@ msgid "continuous improvement"
 msgstr "continuous improvement"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "effectiveness"
-msgstr "effectiveness"
+msgid "accountability"
+msgstr "accountability"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "transparency"
-msgstr "transparency"
+msgid "effectiveness"
+msgstr "effectiveness"
 
 #: framework.graffle/s3-principles-plain:0
 msgid "equivalence"

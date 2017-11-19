@@ -1,12 +1,3 @@
 #
 msgid ""
 msgstr ""
-
-#: pattern-groups.graffle/group-1:0 pattern-groups.graffle/group-10:0
-#: pattern-groups.graffle/group-2:0 pattern-groups.graffle/group-3:0
-#: pattern-groups.graffle/group-4:0 pattern-groups.graffle/group-5:0
-#: pattern-groups.graffle/group-6:0 pattern-groups.graffle/group-7:0
-#: pattern-groups.graffle/group-8:0 pattern-groups.graffle/group-9:0
-#: pattern-groups.graffle/principles:0
-msgid ""
-msgstr ""

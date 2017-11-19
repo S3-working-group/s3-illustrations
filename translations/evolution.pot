@@ -4,19 +4,6 @@ msgstr ""
 
 #: evolution.graffle/agreement-lifecycle:0
 #: evolution.graffle/agreement-lifecycle-long:0
-#: evolution.graffle/development-process:0
-#: evolution.graffle/domain-driver-strategy-exeriments:0
-#: evolution.graffle/driver-agreement-improvement:0
-#: evolution.graffle/driver-domain-selection-development:0
-#: evolution.graffle/driver-role-selection-development:0
-#: evolution.graffle/experiments:0 evolution.graffle/experiments-2:0
-#: evolution.graffle/experiments-phases:0 evolution.graffle/kaizen:0
-#: evolution.graffle/kaizen-plain:0 evolution.graffle/kaizen-values:0
-msgid ""
-msgstr ""
-
-#: evolution.graffle/agreement-lifecycle:0
-#: evolution.graffle/agreement-lifecycle-long:0
 msgid "co-create proposal"
 msgstr "co-create proposal"
 

@@ -2,14 +2,6 @@
 msgid ""
 msgstr ""
 
-#: agreements.graffle/cdm-condensed:0 agreements.graffle/evaluate-agreements:0
-#: agreements.graffle/proposal-forming-medium:0
-#: agreements.graffle/resolve-objections:0
-#: agreements.graffle/resolve-objections-process:0
-#: agreements.graffle/selection:0
-msgid ""
-msgstr ""
-
 #: agreements.graffle/cdm-condensed:0
 msgid "Celebrate Agreement"
 msgstr "Celebrate Agreement"
@@ -22,10 +14,6 @@ msgstr "Brief Response"
 msgid "Resolve Objections"
 msgstr "Resolve Objections"
 
-#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
-msgid " 🎉"
-msgstr " 🎉"
-
 #: agreements.graffle/cdm-condensed:0
 msgid "(Consider Concerns)"
 msgstr "(Consider Concerns)"
@@ -34,6 +22,10 @@ msgstr "(Consider Concerns)"
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Consent to Driver"
 msgstr "Consent to Driver"
+
+#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
+msgid "🎉"
+msgstr "🎉"
 
 #: agreements.graffle/cdm-condensed:0
 msgid "Present Proposal"
@@ -69,6 +61,10 @@ msgid "follow-up"
 msgstr "follow-up"
 
 #: agreements.graffle/evaluate-agreements:0
+msgid "update agreement"
+msgstr "update agreement"
+
+#: agreements.graffle/evaluate-agreements:0
 msgid "review agreement"
 msgstr "review agreement"
 
@@ -88,10 +84,6 @@ msgstr ""
 msgid "preparation"
 msgstr "preparation"
 
-#: agreements.graffle/evaluate-agreements:0
-msgid "update agreement"
-msgstr "update agreement"
-
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Design Proposal(s)"
 msgstr "Design Proposal(s)"
@@ -99,10 +91,6 @@ msgstr "Design Proposal(s)"
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Information Gathering Questions"
 msgstr "Information Gathering Questions"
-
-#: agreements.graffle/proposal-forming-medium:0
-msgid "Record Considerations"
-msgstr "Record Considerations"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Questions about Driver"
@@ -116,13 +104,17 @@ msgstr "Select Tuners"
 msgid "Prioritize Considerations"
 msgstr "Prioritize Considerations"
 
-#: agreements.graffle/resolve-objections:0
-msgid "ask “who can resolve this?”"
-msgstr "ask “who can resolve this?”"
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Record Considerations"
+msgstr "Record Considerations"
 
 #: agreements.graffle/resolve-objections:0
 msgid "defer"
 msgstr "defer"
+
+#: agreements.graffle/resolve-objections:0
+msgid "ask “who can resolve this?”"
+msgstr "ask “who can resolve this?”"
 
 #: agreements.graffle/resolve-objections:0
 msgid ""

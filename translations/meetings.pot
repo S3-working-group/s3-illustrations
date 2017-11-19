@@ -2,14 +2,6 @@
 msgid ""
 msgstr ""
 
-#: meetings.graffle/continuous-flow:0 meetings.graffle/coordination-meeting:0
-#: meetings.graffle/evaluate-interactions:0
-#: meetings.graffle/governance-meeting:0 meetings.graffle/iterations:0
-#: meetings.graffle/planning-review:0
-#: meetings.graffle/planning-review-standup:0 meetings.graffle/retrospective:0
-msgid ""
-msgstr ""
-
 #: meetings.graffle/continuous-flow:0
 msgid "incremental delivery of value"
 msgstr "incremental delivery of value"
@@ -155,18 +147,18 @@ msgstr ""
 #: meetings.graffle/retrospective:0
 msgid ""
 "operational\n"
-"driver"
+"backlog"
 msgstr ""
 "operational\n"
-"driver"
+"backlog"
 
 #: meetings.graffle/retrospective:0
 msgid ""
 "operational\n"
-"backlog"
+"driver"
 msgstr ""
 "operational\n"
-"backlog"
+"driver"
 
 #: meetings.graffle/retrospective:0
 msgid "logbook"

@@ -2,29 +2,21 @@
 msgid ""
 msgstr ""
 
-#: driver-domain.graffle/domain-primay-sub:0 driver-domain.graffle/driver:0
-#: driver-domain.graffle/driver-alt:0 driver-domain.graffle/driver-response:0
-#: driver-domain.graffle/driver-response-full:0
-#: driver-domain.graffle/driver-strategy-agreements-domain:0
-#: driver-domain.graffle/tension-driver-response:0
-msgid ""
-msgstr ""
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "subdomain"
+msgstr "subdomain"
 
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "organisation"
 msgstr "organisation"
 
 #: driver-domain.graffle/domains-in-organizations:0
-msgid "subdomain"
-msgstr "subdomain"
+msgid "domain A"
+msgstr "domain A"
 
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "domain B"
 msgstr "domain B"
-
-#: driver-domain.graffle/domains-in-organizations:0
-msgid "domain A"
-msgstr "domain A"
 
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "domain C"
@@ -56,23 +48,18 @@ msgid "response"
 msgstr "response"
 
 #: driver-domain.graffle/driver-response-full:0
-#: driver-domain.graffle/driver-strategy-agreements-domain:0
-msgid "domain"
-msgstr "domain"
-
-#: driver-domain.graffle/driver-response-full:0
 msgid "group"
 msgstr "group"
-
-#: driver-domain.graffle/driver-response-full:0
-#: driver-domain.graffle/nested-domains:0
-msgid "role"
-msgstr "role"
 
 #: driver-domain.graffle/driver-response-full:0
 #: driver-domain.graffle/driver-strategy-agreements-domain:0
 msgid "agreement"
 msgstr "agreement"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/nested-domains:0
+msgid "role"
+msgstr "role"
 
 #: driver-domain.graffle/driver-response-full:0
 msgid "action"
@@ -83,9 +70,18 @@ msgstr "action"
 msgid "organization"
 msgstr "organization"
 
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+msgid "domain"
+msgstr "domain"
+
 #: driver-domain.graffle/driver-strategy-agreements-domain:0
 msgid "strategy"
 msgstr "strategy"
+
+#: driver-domain.graffle/nested-domains:0
+msgid "values"
+msgstr "values"
 
 #: driver-domain.graffle/nested-domains:0
 msgid "circle"
@@ -94,10 +90,6 @@ msgstr "circle"
 #: driver-domain.graffle/nested-domains:0
 msgid "agree- ment"
 msgstr "agree- ment"
-
-#: driver-domain.graffle/nested-domains:0
-msgid "values"
-msgstr "values"
 
 #: driver-domain.graffle/tension-driver-response:0
 msgid "tension"
