@@ -119,6 +119,10 @@ msgid "Evaluation Process and Criteria"
 msgstr "Evaluation Process and Criteria"
 
 #: templates.graffle/role-description-template:0
+msgid "Schedule for Peer Reviews"
+msgstr "Schedule for Peer Reviews"
+
+#: templates.graffle/role-description-template:0
 msgid "Skills, Experience, Qualities, Time"
 msgstr "Skills, Experience, Qualities, Time"
 
@@ -137,7 +141,3 @@ msgstr "Responsibilities, Resources"
 #: templates.graffle/role-description-template:0
 msgid "Date"
 msgstr "Date"
-
-#: templates.graffle/role-description-template:0
-msgid "Schedule for Effectiveness Reviews"
-msgstr "Schedule for Effectiveness Reviews"
