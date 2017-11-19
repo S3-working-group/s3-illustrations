@@ -1,3 +1,3 @@
-ls -b src | xargs -I {} ogtranslate extract  "src/{}"
-mkdir translations
-mv src/*.pot translations/
+ls -b graffle/src | xargs -I {} ogtranslate extract  "graffle/src/{}"
+mkdir text/src
+mv graffle/src/*.pot text/src/

@@ -2,7 +2,7 @@
 
 "files": [
   {
-    "source": "/translations/*.pot",
-    "translation": "/translations/%two_letters_code%//%original_file_name%"
+    "source": "/text/src/*.pot",
+    "translation": "/text/%two_letters_code%/%file_name%.po"
   }
 ]
