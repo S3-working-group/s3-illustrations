@@ -2,6 +2,12 @@
 msgid ""
 msgstr ""
 
+#: driver-domain.graffle/domain-primay-sub:0
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+msgid "domain"
+msgstr "domain"
+
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "subdomain"
 msgstr "subdomain"
@@ -69,11 +75,6 @@ msgstr "action"
 #: driver-domain.graffle/nested-domains:0
 msgid "organization"
 msgstr "organization"
-
-#: driver-domain.graffle/driver-response-full:0
-#: driver-domain.graffle/driver-strategy-agreements-domain:0
-msgid "domain"
-msgstr "domain"
 
 #: driver-domain.graffle/driver-strategy-agreements-domain:0
 msgid "strategy"

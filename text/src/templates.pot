@@ -8,6 +8,7 @@ msgid "Who is accountable?"
 msgstr "Who is accountable?"
 
 #: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
 msgid "Description"
 msgstr "Description"
 
@@ -40,6 +41,7 @@ msgid "Title of Agreement"
 msgstr "Title of Agreement"
 
 #: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
 #: templates.graffle/outcome-and-criteria:0
 msgid "Evaluation Criteria"
 msgstr "Evaluation Criteria"
@@ -59,24 +61,81 @@ msgid "￼"
 msgstr "￼"
 
 #: templates.graffle/development-plan-template:0
+msgid ""
+"Actionable Improvement \n"
+"Suggestions\n"
+msgstr ""
+"Actionable Improvement \n"
+"Suggestions\n"
+
+#: templates.graffle/development-plan-template:0
+msgid "Minutes of Peer Review"
+msgstr "Minutes of Peer Review"
+
+#: templates.graffle/development-plan-template:0
+msgid "Appreciations"
+msgstr "Appreciations"
+
+#: templates.graffle/development-plan-template:0
 msgid "Development Plan"
 msgstr "Development Plan"
+
+#: templates.graffle/development-plan-template:0
+msgid "Amendments to Domain \n"
+msgstr "Amendments to Domain \n"
+
+#: templates.graffle/development-plan-template:0
+msgid "Amendments to Strategy"
+msgstr "Amendments to Strategy"
+
+#: templates.graffle/development-plan-template:0
+msgid "Current Domain Description"
+msgstr "Current Domain Description"
+
+#: templates.graffle/development-plan-template:0
+msgid "Action Items"
+msgstr "Action Items"
 
 #: templates.graffle/development-plan-template:0
 msgid "for <Domain Name>"
 msgstr "for <Domain Name>"
 
 #: templates.graffle/domain-description-template:0
+#: templates.graffle/domain-template:0
+msgid "Primary Driver"
+msgstr "Primary Driver"
+
+#: templates.graffle/domain-description-template:0
+msgid "Evaluation Criteria for Peer Review"
+msgstr "Evaluation Criteria for Peer Review"
+
+#: templates.graffle/domain-description-template:0
+msgid "resources, budget"
+msgstr "resources, budget"
+
+#: templates.graffle/domain-description-template:0
+msgid "preferred/required skills, qualities, experience"
+msgstr "preferred/required skills, qualities, experience"
+
+#: templates.graffle/domain-description-template:0
+msgid "Constraints"
+msgstr "Constraints"
+
+#: templates.graffle/domain-description-template:0
 msgid "Term (for a role)"
 msgstr "Term (for a role)"
+
+#: templates.graffle/domain-description-template:0
+msgid "Key Responsibilities"
+msgstr "Key Responsibilities"
 
 #: templates.graffle/domain-description-template:0
 msgid "Name of the Domain"
 msgstr "Name of the Domain"
 
-#: templates.graffle/domain-template:0
-msgid "Primary Driver"
-msgstr "Primary Driver"
+#: templates.graffle/domain-description-template:0
+msgid "time, privileges"
+msgstr "time, privileges"
 
 #: templates.graffle/domain-template:0
 msgid "Work Backlog"
@@ -93,6 +152,10 @@ msgstr "Governance Backlog"
 #: templates.graffle/domain-template:0
 msgid "Domain Name"
 msgstr "Domain Name"
+
+#: templates.graffle/outcome-and-criteria:0
+msgid "✔︎"
+msgstr "✔︎"
 
 #: templates.graffle/outcome-and-criteria:0
 msgid "Metrics"

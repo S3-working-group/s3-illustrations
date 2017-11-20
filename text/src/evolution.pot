@@ -175,6 +175,21 @@ msgstr ""
 "understand\n"
 "driver"
 
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "experiment"
+msgstr "experiment"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evolve"
+msgstr "evolve"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evaluate"
+msgstr "evaluate"
+
 #: evolution.graffle/kaizen-values:0
 msgid "shared values"
 msgstr "shared values"

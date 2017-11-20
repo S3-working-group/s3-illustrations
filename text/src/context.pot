@@ -7,12 +7,24 @@ msgid "1.0"
 msgstr "1.0"
 
 #: context.graffle/history:0
+msgid "3.0"
+msgstr "3.0"
+
+#: context.graffle/history:0
 msgid ""
 "Auguste Comte\n"
 "(1851)"
 msgstr ""
 "Auguste Comte\n"
 "(1851)"
+
+#: context.graffle/history:0
+msgid "engineering"
+msgstr "engineering"
+
+#: context.graffle/history:0
+msgid "cybernetics"
+msgstr "cybernetics"
 
 #: context.graffle/history:0
 msgid ""
@@ -35,24 +47,35 @@ msgid "Quaker \n"
 msgstr "Quaker \n"
 
 #: context.graffle/history:0
-msgid ""
-"Bernhard Bockelbrink\n"
-"James Priest (2015)"
-msgstr ""
-"Bernhard Bockelbrink\n"
-"James Priest (2015)"
+msgid "democracy"
+msgstr "democracy"
+
+#: context.graffle/history:0
+msgid "social ideals"
+msgstr "social ideals"
 
 #: context.graffle/history:0 context.graffle/sociocracy-variants:0
 msgid "®"
 msgstr "®"
 
 #: context.graffle/history:0
-msgid "3.0"
-msgstr "3.0"
+msgid "scientific method"
+msgstr "scientific method"
 
-#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+#: context.graffle/history:0 context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-variants:0
+#: context.graffle/sociocracy-vs-holacracy:0
 msgid "Holacracy"
 msgstr "Holacracy"
+
+#: context.graffle/history:0
+msgid ""
+"Bernhard Bockelbrink\n"
+"James Priest (2015)"
+msgstr ""
+"Bernhard Bockelbrink\n"
+"James Priest (2015)"
 
 #: context.graffle/history:0
 msgid ""
@@ -88,8 +111,200 @@ msgstr ""
 
 #: context.graffle/models-of-management:0
 #: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "consent and equivalence"
+msgstr "consent and equivalence"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "business need"
+msgstr "business need"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "hierarchy"
+msgstr "hierarchy"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "consent"
+msgstr "consent"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "Agile Methods"
+msgstr "Agile Methods"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "emergent"
+msgstr "emergent"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
 msgid "Models of Management"
 msgstr "Models of Management"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "transparent rules"
+msgstr "transparent rules"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "product vision, external change"
+msgstr "product vision, external change"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "iterative or continuous flow"
+msgstr "iterative or continuous flow"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "Traditional Management"
+msgstr "Traditional Management"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "managers, workers"
+msgstr "managers, workers"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "Social Business"
+msgstr "Social Business"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "management"
+msgstr "management"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid ""
+"Bernhard Bockelbrink\n"
+"James Priest"
+msgstr ""
+"Bernhard Bockelbrink\n"
+"James Priest"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "control and alignment"
+msgstr "control and alignment"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "top-down and bottom-up"
+msgstr "top-down and bottom-up"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "distributed"
+msgstr "distributed"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Leadership Force"
+msgstr "Leadership Force"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "community consensus"
+msgstr "community consensus"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "participants"
+msgstr "participants"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Motive Force"
+msgstr "Motive Force"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid ""
+"heterarchy of\n"
+"circles"
+msgstr ""
+"heterarchy of\n"
+"circles"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "informal, continuous"
+msgstr "informal, continuous"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "split by domain: product, process and technology"
+msgstr "split by domain: product, process and technology"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "community objective"
+msgstr "community objective"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "tension"
+msgstr "tension"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Processes"
+msgstr "Processes"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "developing software"
+msgstr "developing software"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "vision, mission, aims"
+msgstr "vision, mission, aims"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Primary Actors"
+msgstr "Primary Actors"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Primary Leadership"
+msgstr "Primary Leadership"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "culture of effective collaboration"
+msgstr "culture of effective collaboration"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "driver"
+msgstr "driver"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "user need"
+msgstr "user need"
 
 #: context.graffle/models-of-management:0
 #: context.graffle/sociocracy-vs-holacracy:0
@@ -97,47 +312,148 @@ msgid "sociocracy30.org"
 msgstr "sociocracy30.org"
 
 #: context.graffle/models-of-management:0
-msgid ""
-"A response to Dion Hinchcliffe’s “comparing various models of management "
-"with Holacracy”. It adds sociocracy to the picture, in the variants of "
-"Sociocracy by the Sociocracy Group (TSG) and Sociocracy 3.0. (Both Holacracy"
-" and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the"
-" table are differences and additions to Hinchcliffe’s comparison."
-msgstr ""
-"A response to Dion Hinchcliffe’s “comparing various models of management "
-"with Holacracy”. It adds sociocracy to the picture, in the variants of "
-"Sociocracy by the Sociocracy Group (TSG) and Sociocracy 3.0. (Both Holacracy"
-" and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the"
-" table are differences and additions to Hinchcliffe’s comparison."
-
-#: context.graffle/sociocracy-variants:0
-msgid ""
-"Sociocracy 3.0\n"
-"(S3)"
-msgstr ""
-"Sociocracy 3.0\n"
-"(S3)"
-
-#: context.graffle/sociocracy-variants:0
-msgid ""
-"(Dynamic Governance,\n"
-" Circle Forward)"
-msgstr ""
-"(Dynamic Governance,\n"
-" Circle Forward)"
-
+#: context.graffle/models-of-management-plain:0
 #: context.graffle/sociocracy-vs-holacracy:0
+msgid "Sociocracy"
+msgstr "Sociocracy"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "peers, roles"
+msgstr "peers, roles"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "emergent, adaptive"
+msgstr "emergent, adaptive"
+
+#: context.graffle/models-of-management:0
 msgid ""
-"An illustration developed from Dion Hinchcliffe’s “comparing various models "
-"of management with Holacracy”. Both Holacracy and Sociocracy 3.0 borrow key "
-"concepts from Sociocracy). Highlighted in the table are differences and "
-"additions to Hinchcliffe’s comparison"
+"A response to Dion Hinchcliffe’s “comparing various models of management "
+"with Holacracy”. It adds sociocracy to the picture, in the variants of "
+"Sociocracy by the Sociocracy Group (TSG) and Sociocracy 3.0. (Both Holacracy"
+" and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the"
+" table are differences and additions to Hinchcliffe’s comparison."
 msgstr ""
-"An illustration developed from Dion Hinchcliffe’s “comparing various models "
-"of management with Holacracy”. Both Holacracy and Sociocracy 3.0 borrow key "
-"concepts from Sociocracy). Highlighted in the table are differences and "
-"additions to Hinchcliffe’s comparison"
+"A response to Dion Hinchcliffe’s “comparing various models of management "
+"with Holacracy”. It adds sociocracy to the picture, in the variants of "
+"Sociocracy by the Sociocracy Group (TSG) and Sociocracy 3.0. (Both Holacracy"
+" and Sociocracy 3.0 borrow key concepts from Sociocracy). Highlighted in the"
+" table are differences and additions to Hinchcliffe’s comparison."
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "peer team members"
+msgstr "peer team members"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "communities"
+msgstr "communities"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "cross-functional teams"
+msgstr "cross-functional teams"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "linear, waterfall"
+msgstr "linear, waterfall"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "hierarchy of circles"
+msgstr "hierarchy of circles"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "consensus and equivalence"
+msgstr "consensus and equivalence"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid "top-down"
+msgstr "top-down"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+msgid ""
+"Sociocracy\n"
+"3.0"
+msgstr ""
+"Sociocracy\n"
+"3.0"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "roles"
+msgstr "roles"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Focus"
+msgstr "Focus"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Organizational Structure"
+msgstr "Organizational Structure"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "rules and autonomy in roles"
+msgstr "rules and autonomy in roles"
+
+#: context.graffle/models-of-management:0
+#: context.graffle/models-of-management-plain:0
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "leaders, workers"
+msgstr "leaders, workers"
+
+#: context.graffle/sociocracy-variants:0
+msgid ""
+"Sociocracy 3.0\n"
+"(S3)"
+msgstr ""
+"Sociocracy 3.0\n"
+"(S3)"
+
+#: context.graffle/sociocracy-variants:0
+msgid ""
+"(Dynamic Governance,\n"
+" Circle Forward)"
+msgstr ""
+"(Dynamic Governance,\n"
+" Circle Forward)"
 
 #: context.graffle/sociocracy-vs-holacracy:0
 msgid "Sociocracy, Holacracy, Sociocracy 3.0"
 msgstr "Sociocracy, Holacracy, Sociocracy 3.0"
+
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid ""
+"An illustration developed from Dion Hinchcliffe’s “comparing various models "
+"of management with Holacracy”. Both Holacracy and Sociocracy 3.0 borrow key "
+"concepts from Sociocracy). Highlighted in the table are differences and "
+"additions to Hinchcliffe’s comparison"
+msgstr ""
+"An illustration developed from Dion Hinchcliffe’s “comparing various models "
+"of management with Holacracy”. Both Holacracy and Sociocracy 3.0 borrow key "
+"concepts from Sociocracy). Highlighted in the table are differences and "
+"additions to Hinchcliffe’s comparison"
+
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "Sociocracy 3.0"
+msgstr "Sociocracy 3.0"
+
+#: context.graffle/sociocracy-vs-holacracy:0
+msgid "driver, values"
+msgstr "driver, values"

@@ -2,6 +2,23 @@
 msgid ""
 msgstr ""
 
+#: workflow-and-value.graffle/align-flow:0
+#: workflow-and-value.graffle/types-of-flow:0
+msgid "flow of value"
+msgstr "flow of value"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "not aligned"
+msgstr "not aligned"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "flow of information"
+msgstr "flow of information"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "aligned"
+msgstr "aligned"
+
 #: workflow-and-value.graffle/card:0
 msgid "★★"
 msgstr "★★"
@@ -37,6 +54,10 @@ msgstr ""
 #: workflow-and-value.graffle/drivers-value-waste:0
 msgid "waste"
 msgstr "waste"
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "driver"
+msgstr "driver"
 
 #: workflow-and-value.graffle/drivers-value-waste:0
 msgid "value"
@@ -163,10 +184,6 @@ msgid "backlog"
 msgstr "backlog"
 
 #: workflow-and-value.graffle/types-of-flow:0
-msgid "flow of value"
-msgstr "flow of value"
-
-#: workflow-and-value.graffle/types-of-flow:0
 msgid ""
 "flow of\n"
 " information"
@@ -195,10 +212,6 @@ msgid "Circle A"
 msgstr "Circle A"
 
 #: workflow-and-value.graffle/wip-and-value:0
-msgid "deliver"
-msgstr "deliver"
-
-#: workflow-and-value.graffle/wip-and-value:0
 msgid "establish interest"
 msgstr "establish interest"
 
@@ -209,6 +222,10 @@ msgstr "Work in Progess"
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "test"
 msgstr "test"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "deliver"
+msgstr "deliver"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "WIP Circle A"

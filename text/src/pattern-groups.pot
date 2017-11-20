@@ -1,3 +1,371 @@
 #
 msgid ""
 msgstr ""
+
+#: pattern-groups.graffle/group-1:0
+msgid "Those Affected Decide"
+msgstr "Those Affected Decide"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Co-Creation And Evolution"
+msgstr "Co-Creation And Evolution"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Resolve Objections"
+msgstr "Resolve Objections"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Describe Drivers"
+msgstr "Describe Drivers"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Proposal Forming"
+msgstr "Proposal Forming"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Evaluate Agreements"
+msgstr "Evaluate Agreements"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Driver Mapping"
+msgstr "Driver Mapping"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Respond to Organizational Drivers"
+msgstr "Respond to Organizational Drivers"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Role Selection"
+msgstr "Role Selection"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Consent Decision Making"
+msgstr "Consent Decision Making"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Objection"
+msgstr "Objection"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Navigate Via Tension"
+msgstr "Navigate Via Tension"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Open Systems"
+msgstr "Open Systems"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Fractal Organization"
+msgstr "Fractal Organization"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Double-Linked Hierarchy"
+msgstr "Double-Linked Hierarchy"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Organizational Structure"
+msgstr "Organizational Structure"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Delegate Circle"
+msgstr "Delegate Circle"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Peach Organization"
+msgstr "Peach Organization"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Open Domain"
+msgstr "Open Domain"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Helping Team"
+msgstr "Helping Team"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Service Organization"
+msgstr "Service Organization"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Service Circle"
+msgstr "Service Circle"
+
+#: pattern-groups.graffle/group-2:0
+msgid "Development Plan"
+msgstr "Development Plan"
+
+#: pattern-groups.graffle/group-2:0
+msgid "Peeer Review"
+msgstr "Peeer Review"
+
+#: pattern-groups.graffle/group-2:0
+msgid "Peer Feedback"
+msgstr "Peer Feedback"
+
+#: pattern-groups.graffle/group-2:0
+msgid "Peer Development"
+msgstr "Peer Development"
+
+#: pattern-groups.graffle/group-2:0
+msgid "Ask For Help"
+msgstr "Ask For Help"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Governance Facilitator"
+msgstr "Governance Facilitator"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Enablers Of Co-Creation"
+msgstr "Enablers Of Co-Creation"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Contracting And Accountability"
+msgstr "Contracting And Accountability"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Agree On Values"
+msgstr "Agree On Values"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Breaking Agreements"
+msgstr "Breaking Agreements"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Transparent Salary"
+msgstr "Transparent Salary"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Support Role"
+msgstr "Support Role"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Adopt The Seven Principles"
+msgstr "Adopt The Seven Principles"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Bylaws"
+msgstr "Bylaws"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Artful Participation"
+msgstr "Artful Participation"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Intended Outcome"
+msgstr "Intended Outcome"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Evaluation Criteria"
+msgstr "Evaluation Criteria"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Agreement"
+msgstr "Agreement"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Defining Agreements"
+msgstr "Defining Agreements"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Logbook Keeper"
+msgstr "Logbook Keeper"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Logbook"
+msgstr "Logbook"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Strategy"
+msgstr "Strategy"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Describe Deliverables"
+msgstr "Describe Deliverables"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Domain Description"
+msgstr "Domain Description"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Retrospective"
+msgstr "Retrospective"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Planning And Review Meetings"
+msgstr "Planning And Review Meetings"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Governance Meeting"
+msgstr "Governance Meeting"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Focused Interactions"
+msgstr "Focused Interactions"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Coordination Meeting"
+msgstr "Coordination Meeting"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Daily Standup"
+msgstr "Daily Standup"
+
+#: pattern-groups.graffle/group-6:0
+msgid ""
+"Evaluate\n"
+"Meetings "
+msgstr ""
+"Evaluate\n"
+"Meetings "
+
+#: pattern-groups.graffle/group-6:0
+msgid "Rounds"
+msgstr "Rounds"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Meeting Host"
+msgstr "Meeting Host"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Meeting Practices"
+msgstr "Meeting Practices"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Governance Backlog"
+msgstr "Governance Backlog"
+
+#: pattern-groups.graffle/group-6:0
+msgid ""
+"Facilitate\n"
+"Meetings"
+msgstr ""
+"Facilitate\n"
+"Meetings"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Backlog"
+msgstr "Backlog"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Align Flow"
+msgstr "Align Flow"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Coordinator"
+msgstr "Coordinator"
+
+#: pattern-groups.graffle/group-7:0
+msgid ""
+"Prioritize\n"
+"Backlogs"
+msgstr ""
+"Prioritize\n"
+"Backlogs"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Visualize Work"
+msgstr "Visualize Work"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Pull-System For Work"
+msgstr "Pull-System For Work"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Organizing Work"
+msgstr "Organizing Work"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Limit Work In Progress"
+msgstr "Limit Work In Progress"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Role"
+msgstr "Role"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Circle"
+msgstr "Circle"
+
+#: pattern-groups.graffle/group-8:0
+msgid ""
+"Delegate\n"
+"Influence"
+msgstr ""
+"Delegate\n"
+"Influence"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Representative"
+msgstr "Representative"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Building Organizations"
+msgstr "Building Organizations"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Linking"
+msgstr "Linking"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Double Linking"
+msgstr "Double Linking"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Open S3 Adoption"
+msgstr "Open S3 Adoption"
+
+#: pattern-groups.graffle/group-9:0
+msgid "CI Of Work Process"
+msgstr "CI Of Work Process"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Be The Change"
+msgstr "Be The Change"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Adapt Patterns To Context"
+msgstr "Adapt Patterns To Context"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Pull-System For Org. Change"
+msgstr "Pull-System For Org. Change"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Invite Change"
+msgstr "Invite Change"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Bringing in S3"
+msgstr "Bringing in S3"
+
+#: pattern-groups.graffle/principles:0
+msgid "Equivalence"
+msgstr "Equivalence"
+
+#: pattern-groups.graffle/principles:0
+msgid "Continuous Improvement"
+msgstr "Continuous Improvement"
+
+#: pattern-groups.graffle/principles:0
+msgid "Empiricism"
+msgstr "Empiricism"
+
+#: pattern-groups.graffle/principles:0
+msgid "Effectiveness"
+msgstr "Effectiveness"
+
+#: pattern-groups.graffle/principles:0
+msgid "Consent"
+msgstr "Consent"
+
+#: pattern-groups.graffle/principles:0
+msgid "Accountability"
+msgstr "Accountability"
+
+#: pattern-groups.graffle/principles:0
+msgid "Transparency"
+msgstr "Transparency"
+
+#: pattern-groups.graffle/principles:0
+msgid "Principles"
+msgstr "Principles"

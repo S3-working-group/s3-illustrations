@@ -6,6 +6,14 @@ msgstr ""
 msgid "facilitator"
 msgstr "facilitator"
 
+#: circle.graffle/rounds:0
+msgid "last"
+msgstr "last"
+
+#: circle.graffle/rounds:0
+msgid "first"
+msgstr "first"
+
 #: circle.graffle/transparent-salary:0
 msgid "$23.000"
 msgstr "$23.000"

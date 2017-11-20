@@ -101,6 +101,10 @@ msgid "Select Tuners"
 msgstr "Select Tuners"
 
 #: agreements.graffle/proposal-forming-medium:0
+msgid "Collect Ideas"
+msgstr "Collect Ideas"
+
+#: agreements.graffle/proposal-forming-medium:0
 msgid "Prioritize Considerations"
 msgstr "Prioritize Considerations"
 
