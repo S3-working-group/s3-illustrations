@@ -3,16 +3,20 @@ msgstr ""
 ""
 
 #: structural-patterns.graffle/circles-and-links:0
-msgid "link"
-msgstr "Verbindung"
-
-#: structural-patterns.graffle/circles-and-links:0
 msgid "circle"
 msgstr "Kreis"
 
 #: structural-patterns.graffle/circles-and-links:0
+msgid "link"
+msgstr "Verbindung"
+
+#: structural-patterns.graffle/circles-and-links:0
 msgid "double-link"
 msgstr "doppelte Verbindung"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "2nd tier"
+msgstr "zweite Stufe"
 
 #: structural-patterns.graffle/fractal-organization:0
 msgid "A"
@@ -31,16 +35,12 @@ msgid "D"
 msgstr "D"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "2nd tier"
-msgstr "zweite Stufe"
+msgid "domain D"
+msgstr "Domäne D"
 
 #: structural-patterns.graffle/fractal-organization:0
 msgid "domain A"
 msgstr "Domäne A"
-
-#: structural-patterns.graffle/fractal-organization:0
-msgid "domain D"
-msgstr "Domäne D"
 
 #: structural-patterns.graffle/fractal-organization:0
 msgid "domain C"
@@ -51,26 +51,36 @@ msgid "domain B"
 msgstr "Domäne B"
 
 #: structural-patterns.graffle/macro-and-meta-combined:0
-msgid "double-linked \n"
-"hierarchy"
-msgstr "doppelt verbundene \n"
-"Hierarchie"
-
-#: structural-patterns.graffle/macro-and-meta-combined:0
 msgid "service \n"
 "organization"
 msgstr "Service- \n"
 "organization"
 
 #: structural-patterns.graffle/macro-and-meta-combined:0
-msgid "fractal organization"
-msgstr "Fraktalorganisation"
-
-#: structural-patterns.graffle/macro-and-meta-combined:0
 msgid "peach\n"
 "organization"
 msgstr "Pfirsich-\n"
 "organisation"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid "double-linked \n"
+"hierarchy"
+msgstr "doppelt verbundene \n"
+"Hierarchie"
+
+#: structural-patterns.graffle/macro-and-meta-combined:0
+msgid "fractal organization"
+msgstr "Fraktalorganisation"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "representative of … "
+msgstr "Repräsentant der …"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "… service organization’s \n"
+"perspective"
+msgstr "… Perspektive der Service-\n"
+"Organisation"
 
 #: structural-patterns.graffle/service-organization-text:0
 msgid "parent organization"
@@ -79,6 +89,12 @@ msgstr "Elternorganisation"
 #: structural-patterns.graffle/service-organization-text:0
 msgid "service organization"
 msgstr "Service-Organisation"
+
+#: structural-patterns.graffle/service-organization-text:0
+msgid "… parent organization’s\n"
+"perspective"
+msgstr "…Perspektive der Eltern-\n"
+"Organisation"
 
 #: structural-patterns.graffle/service-organization-text:0
 msgid "steward"

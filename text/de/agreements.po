@@ -25,7 +25,7 @@ msgstr "Konsent: Treiber"
 
 #: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
 msgid "🎉"
-msgstr ""
+msgstr "🎉"
 
 #: agreements.graffle/cdm-condensed:0
 msgid "Present Proposal"
@@ -97,6 +97,10 @@ msgstr "Fragen zum Treiber"
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Select Tuners"
 msgstr "Regler wählen"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Collect Ideas"
+msgstr "Ideen sammeln"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Prioritize Considerations"

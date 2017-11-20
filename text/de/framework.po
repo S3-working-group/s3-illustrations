@@ -8,9 +8,367 @@ msgid "design\n"
 msgstr "Design-\n"
 "ziele"
 
+#: framework.graffle/design-goals:0
+msgid "free"
+msgstr "kostenlos"
+
+#: framework.graffle/design-goals:0
+msgid "open"
+msgstr "offen"
+
+#: framework.graffle/design-goals:0
+msgid "lightweight"
+msgstr "leicht-\n"
+"gewichtig"
+
+#: framework.graffle/design-goals:0
+msgid "effective"
+msgstr "effektiv"
+
+#: framework.graffle/design-goals:0
+msgid "actionable"
+msgstr "einfach\n"
+"umsetzbar"
+
+#: framework.graffle/logo:0 framework.graffle/pattern-map:0
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+#: framework.graffle/s3-principles-plain:0
+msgid "S3"
+msgstr "S3"
+
+#: framework.graffle/pattern-map:0
+msgid "Those Affected Decide"
+msgstr "die Betroffenen entscheiden"
+
+#: framework.graffle/pattern-map:0
+msgid "Co-Creation And Evolution"
+msgstr "Mitgestaltung und Evolution"
+
+#: framework.graffle/pattern-map:0
+msgid "Open Systems"
+msgstr "offene Systeme"
+
+#: framework.graffle/pattern-map:0
+msgid "Equivalence"
+msgstr "Gleichstellung"
+
+#: framework.graffle/pattern-map:0
+msgid "CI Of Work Process"
+msgstr "kontinuierliche Prozessverbesserung"
+
+#: framework.graffle/pattern-map:0
+msgid "Role"
+msgstr "Rolle"
+
+#: framework.graffle/pattern-map:0
+msgid "Resolve Objections"
+msgstr "Einwände integrieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Daily Standup"
+msgstr "Daily Standup"
+
+#: framework.graffle/pattern-map:0
+msgid "Meeting Host"
+msgstr "Gastgeber(in)"
+
+#: framework.graffle/pattern-map:0
+msgid "Governance Facilitator"
+msgstr "Governance-Moderator"
+
+#: framework.graffle/pattern-map:0
+msgid "Retrospective"
+msgstr "Retrospektive"
+
+#: framework.graffle/pattern-map:0
+msgid "Invite Change"
+msgstr "Veränderung einladen"
+
+#: framework.graffle/pattern-map:0
+msgid "Backlog"
+msgstr "Backlog"
+
+#: framework.graffle/pattern-map:0
+msgid "Development Plan"
+msgstr "Entwicklungsplan"
+
+#: framework.graffle/pattern-map:0
+msgid "Open S3 Adoption"
+msgstr "S3 per Open-Space"
+
+#: framework.graffle/pattern-map:0
+msgid "Intended Outcome"
+msgstr "angestrebtes Ergebnis"
+
+#: framework.graffle/pattern-map:0
+msgid "Evaluate\n"
+"Meetings "
+msgstr "Meetings evaluieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Proposal Forming"
+msgstr "Proposal Forming"
+
+#: framework.graffle/pattern-map:0
+msgid "Ask For Help"
+msgstr "Um Hilfe bitten"
+
+#: framework.graffle/pattern-map:0
+msgid "Planning And Review Meetings"
+msgstr "Planungs- und Review-Meetings"
+
+#: framework.graffle/pattern-map:0
+msgid "Describe \n"
+"Drivers"
+msgstr "Treiber beschreiben"
+
+#: framework.graffle/pattern-map:0
+msgid "Be The Change"
+msgstr "Als Beispiel dienen"
+
+#: framework.graffle/pattern-map:0
+msgid "Adapt Patterns To Context"
+msgstr "Patterns an Kontext anpassen"
+
+#: framework.graffle/pattern-map:0
+msgid "Evaluation Criteria"
+msgstr "Evaluationskriterien"
+
+#: framework.graffle/pattern-map:0
+msgid "Continuous Improvement"
+msgstr "kontinuierliche Verbesserung"
+
+#: framework.graffle/pattern-map:0
+msgid "Coordinator"
+msgstr "Koordinatior(in)"
+
+#: framework.graffle/pattern-map:0
+msgid "Fractal Organization"
+msgstr "Fraktalorganisation"
+
+#: framework.graffle/pattern-map:0
+msgid "Governance Meeting"
+msgstr "Steuerungs-Meetings"
+
+#: framework.graffle/pattern-map:0
+msgid "Rounds"
+msgstr "Runden"
+
+#: framework.graffle/pattern-map:0
+msgid "Focused Interactions"
+msgstr "fokussierte Interaktionen"
+
+#: framework.graffle/pattern-map:0
+msgid "Empiricism"
+msgstr "Empirismus"
+
+#: framework.graffle/pattern-map:0
+msgid "Enablers Of Co-Creation"
+msgstr "Mitgestaltung ermöglichen"
+
+#: framework.graffle/pattern-map:0
+msgid "Circle"
+msgstr "Kreis"
+
+#: framework.graffle/pattern-map:0
+msgid "Effectiveness"
+msgstr "Effektivität"
+
+#: framework.graffle/pattern-map:0
+msgid "Prioritize\n"
+"Backlogs"
+msgstr "Backlogs priorisieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Peer Feedback"
+msgstr "Peer-Feedback"
+
+#: framework.graffle/pattern-map:0
+msgid "Representative"
+msgstr "Repräsentant"
+
+#: framework.graffle/pattern-map:0
+msgid "Clarify\n"
+"Domains"
+msgstr "Domänen klären"
+
+#: framework.graffle/pattern-map:0
+msgid "Visualize Work"
+msgstr "Arbeit visualisieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Organizational Structure"
+msgstr "Organisationsstruktur"
+
+#: framework.graffle/pattern-map:0
+msgid "Double Linking"
+msgstr "doppelte Verbindung"
+
+#: framework.graffle/pattern-map:0
+msgid "Contracting And Accountability"
+msgstr "Verantwortung und Verträge"
+
+#: framework.graffle/pattern-map:0
+msgid "Pull-System For Work"
+msgstr "Arbeiten nach Pull-System"
+
+#: framework.graffle/pattern-map:0
+msgid "Agreement"
+msgstr "Vereinbarung"
+
+#: framework.graffle/pattern-map:0
+msgid "Meeting Practices"
+msgstr "effektive Meetings"
+
+#: framework.graffle/pattern-map:0
+msgid "Agree On Values"
+msgstr "gemeinsame Werte"
+
+#: framework.graffle/pattern-map:0
+msgid "Double-Linked Hierarchy"
+msgstr "doppelt-verbundene Hierarchie"
+
+#: framework.graffle/pattern-map:0
+msgid "Consent"
+msgstr "Konsent"
+
+#: framework.graffle/pattern-map:0
+msgid "Building Organizations"
+msgstr "Organisationsentwicklung"
+
+#: framework.graffle/pattern-map:0
+msgid "Linking"
+msgstr "Verbindungen"
+
+#: framework.graffle/pattern-map:0
+msgid "Pull-System For Org. Change"
+msgstr "Pull-System zur Organisationsentwicklung"
+
+#: framework.graffle/pattern-map:0
+msgid "Breaking Agreements"
+msgstr "Vereinbarungen brechen"
+
+#: framework.graffle/pattern-map:0
+msgid "Coordination Meeting"
+msgstr "Koordinationsmeeting"
+
+#: framework.graffle/pattern-map:0
+msgid "Delegate Circle"
+msgstr "Delegiertenkreis"
+
+#: framework.graffle/pattern-map:0
+msgid "Evaluate Agreements"
+msgstr "Vereinbarungen prüfen"
+
+#: framework.graffle/pattern-map:0
+msgid "Transparent Salary"
+msgstr "Transparentes Gehalt"
+
+#: framework.graffle/pattern-map:0
+msgid "Defining Agreements"
+msgstr "klare Vereinbarungen"
+
 #: framework.graffle/pattern-map:0
 msgid "Sociocracy 3.0 "
 msgstr "Soziokratie 3.0"
+
+#: framework.graffle/pattern-map:0
+msgid "Objection"
+msgstr "Einwand"
+
+#: framework.graffle/pattern-map:0
+msgid "Peer Development"
+msgstr "gemeinsame Entwicklung"
+
+#: framework.graffle/pattern-map:0
+msgid "Describe Deliverables"
+msgstr "Leistungen definieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Peach Organization"
+msgstr "Pfirsichorganisation"
+
+#: framework.graffle/pattern-map:0
+msgid "Open Domain"
+msgstr "Offene Domäne"
+
+#: framework.graffle/pattern-map:0
+msgid "Driver Mapping"
+msgstr "Driver Mapping"
+
+#: framework.graffle/pattern-map:0
+msgid "Logbook Keeper"
+msgstr "Logbuchführer"
+
+#: framework.graffle/pattern-map:0
+msgid "Respond to Organizational Drivers"
+msgstr "Reagiere auf Organisationstreiber"
+
+#: framework.graffle/pattern-map:0
+msgid "Role Selection"
+msgstr "Wahl"
+
+#: framework.graffle/pattern-map:0
+msgid "Logbook"
+msgstr "Logbuch"
+
+#: framework.graffle/pattern-map:0
+msgid "Consent Decision Making"
+msgstr "Konsententscheidung"
+
+#: framework.graffle/pattern-map:0
+msgid "Peer Review"
+msgstr "Entwicklungsgespräch"
+
+#: framework.graffle/pattern-map:0
+msgid "Governance Backlog"
+msgstr "Steuerungs-Backlog"
+
+#: framework.graffle/pattern-map:0
+msgid "Bringing in S3"
+msgstr "S3 Einführen"
+
+#: framework.graffle/pattern-map:0
+msgid "Support Role"
+msgstr "Hilfsrolle"
+
+#: framework.graffle/pattern-map:0
+msgid "Bernhard Bockelbrink, Liliana David, James Priest  http://sociocracy30.org"
+msgstr "Bernhard Bockelbrink, Liliana David, James Priest  http://sociocracy30.org"
+
+#: framework.graffle/pattern-map:0
+msgid "Develop\n"
+"Strategy"
+msgstr "Strategie entwickeln"
+
+#: framework.graffle/pattern-map:0
+msgid "Accountability"
+msgstr "Verantwortung"
+
+#: framework.graffle/pattern-map:0
+msgid "Organizing Work"
+msgstr "Arbeitsorganisation"
+
+#: framework.graffle/pattern-map:0
+msgid "Delegate Influence"
+msgstr "Einfluss delegieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Adopt The Seven Principles"
+msgstr "Die sieben Prinzipien leben"
+
+#: framework.graffle/pattern-map:0
+msgid "Align Flow"
+msgstr "Fluss angleichen"
+
+#: framework.graffle/pattern-map:0
+msgid "Artful Participation"
+msgstr "kunstvolle Teilnahme"
+
+#: framework.graffle/pattern-map:0
+msgid "Bylaws"
+msgstr "Statuten"
 
 #: framework.graffle/pattern-map:0
 msgid "A Practical Guide For Evolving \n"
@@ -18,26 +376,38 @@ msgid "A Practical Guide For Evolving \n"
 msgstr "Ein Leitfaden zur Entwicklung \n"
 "agiler and resilienter Organisationen"
 
-#: framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0
-msgid "defining agreements"
-msgstr "klare Vereinbarungen"
+#: framework.graffle/pattern-map:0
+msgid "Service Organization"
+msgstr "Service-Organisation"
 
-#: framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0
-msgid "co-creation and evolution"
-msgstr "Mitgestaltung und Evolution"
+#: framework.graffle/pattern-map:0
+msgid "Transparency"
+msgstr "Transparenz"
 
-#: framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0
-msgid "focused interactions"
-msgstr "fokussierte Interaktionen"
+#: framework.graffle/pattern-map:0
+msgid "Navigate Via Tension"
+msgstr "Navigiere nach Spannung"
 
-#: framework.graffle/s3-pattern-groups:0
-#: framework.graffle/s3-pattern-groups-alt:0
-#: framework.graffle/s3-principles-plain:0
-msgid "S3"
-msgstr "S3"
+#: framework.graffle/pattern-map:0
+msgid "Limit Work In Progress"
+msgstr "laufende Arbeit begrenzen"
+
+#: framework.graffle/pattern-map:0
+msgid "Service Circle"
+msgstr "Servicekreis"
+
+#: framework.graffle/pattern-map:0
+msgid "Facilitate\n"
+"Meetings"
+msgstr "Meetings moderieren"
+
+#: framework.graffle/pattern-map:0
+msgid "Principles"
+msgstr "Prinzipien"
+
+#: framework.graffle/pattern-map:0
+msgid "Helping Team"
+msgstr "Hilfsteam"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
@@ -51,13 +421,23 @@ msgstr "Organisationsstruktur"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "enablers of co-creation"
-msgstr "Mitgestaltung ermöglichen"
+msgid "building organizations"
+msgstr "Organisationsentwicklung"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "building organizations"
-msgstr "Organisationsentwicklung"
+msgid "co-creation and evolution"
+msgstr "Mitgestaltung und Evolution"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "focused interactions"
+msgstr "fokussierte Interaktionen"
+
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "defining agreements"
+msgstr "klare Vereinbarungen"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
@@ -66,17 +446,18 @@ msgstr "Arbeitsorganisation"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
-msgid "peer development"
-msgstr "gemeinsame Entwicklung"
+msgid "enablers of co-creation"
+msgstr "Mitgestaltung ermöglichen"
 
 #: framework.graffle/s3-pattern-groups:0
 #: framework.graffle/s3-pattern-groups-alt:0
 msgid "meeting practices"
 msgstr "effektive Meetings"
 
-#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "transparency"
-msgstr "Transparenz"
+#: framework.graffle/s3-pattern-groups:0
+#: framework.graffle/s3-pattern-groups-alt:0
+msgid "peer development"
+msgstr "gemeinsame Entwicklung"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "consent"
@@ -87,16 +468,20 @@ msgid "empiricism"
 msgstr "Empirismus"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "continuous improvement"
-msgstr "kontinuierliche Verbesserung"
+msgid "effectiveness"
+msgstr "Effektivität"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "accountability"
 msgstr "Verantwortung"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "effectiveness"
-msgstr "Effektivität"
+msgid "continuous improvement"
+msgstr "kontinuierliche Verbesserung"
+
+#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
+msgid "transparency"
+msgstr "Transparenz"
 
 #: framework.graffle/s3-principles-plain:0
 msgid "equivalence"

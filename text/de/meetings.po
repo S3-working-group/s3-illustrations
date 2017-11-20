@@ -2,6 +2,12 @@ msgid ""
 msgstr ""
 ""
 
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+#: meetings.graffle/planning-review-standup:0
+msgid "daily\n"
+"standup"
+msgstr "Daily Standup"
+
 #: meetings.graffle/continuous-flow:0
 msgid "incremental delivery of value"
 msgstr "inkrementelle Wertschöpfung"
@@ -112,6 +118,11 @@ msgid "review"
 msgstr "Review"
 
 #: meetings.graffle/planning-review:0
+#: meetings.graffle/planning-review-standup:0
+msgid "work"
+msgstr "Arbeit"
+
+#: meetings.graffle/planning-review:0
 msgid "review\n"
 "meeting"
 msgstr "Review"
@@ -136,13 +147,13 @@ msgstr "Governance- Treiber"
 
 #: meetings.graffle/retrospective:0
 msgid "operational\n"
-"backlog"
-msgstr "Arbeits-Backlog"
+"driver"
+msgstr "operative Treiber"
 
 #: meetings.graffle/retrospective:0
 msgid "operational\n"
-"driver"
-msgstr "operative Treiber"
+"backlog"
+msgstr "Arbeits-Backlog"
 
 #: meetings.graffle/retrospective:0
 msgid "logbook"

@@ -24,12 +24,12 @@ msgid "chosen values"
 msgstr "Gewählte Werte"
 
 #: collaboration-values.graffle/s3-organization:0
-msgid "the seven principles"
-msgstr "die sieben Prinzipien"
-
-#: collaboration-values.graffle/s3-organization:0
 msgid "driver"
 msgstr "Treiber"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "the seven principles"
+msgstr "die sieben Prinzipien"
 
 #: collaboration-values.graffle/s3-organization:0
 msgid "strategy"

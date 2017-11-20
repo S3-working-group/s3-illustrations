@@ -43,6 +43,10 @@ msgid "Identify Deliverables"
 msgstr "Leistungen identifizieren"
 
 #: process.graffle/driver-mapping:0
+msgid "Sort & Prioritize Drivers"
+msgstr "Treiber sortieren & priorisieren"
+
+#: process.graffle/driver-mapping:0
 msgid "Identify Needs"
 msgstr "Bedarf ermitteln"
 
@@ -58,32 +62,24 @@ msgstr "Domänen bilden"
 msgid "Populate & Define Domains"
 msgstr "Domänen besetzen und definieren"
 
-#: process.graffle/driver-mapping:0
-msgid "Sort & Prioritize Drivers"
-msgstr "Treiber sortieren & priorisieren"
-
 #: process.graffle/navigate-via-tension:0
 msgid "▪"
 msgstr "▪"
 
 #: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
-msgid "yes"
-msgstr "ja"
-
-#: process.graffle/navigate-via-tension:0
-msgid "Qualify Drivers"
-msgstr "Treiber beurteilen"
-
-#: process.graffle/navigate-via-tension:0
-#: process.graffle/navigate-via-tension-slides:0
-msgid "Notice Tension"
-msgstr "Spannung erkennen"
+msgid "Is the description of the driver clear enough?"
+msgstr "Ist die Beschreibung des Treibers klar genug?"
 
 #: process.graffle/navigate-via-tension:0
 msgid "\tdrop it \n"
 "\t"
 msgstr "\tignorieren"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "yes"
+msgstr "ja"
 
 #: process.graffle/navigate-via-tension:0
 msgid "Understand Driver\n\n"
@@ -92,15 +88,36 @@ msgstr "Treiber verstehen\n\n"
 "Beschreibe die Situation: was passiert, und was wird benötigt?"
 
 #: process.graffle/navigate-via-tension:0
-msgid "\trefer to another domain"
-msgstr "\tan andere Domäne übergeben"
-
-#: process.graffle/navigate-via-tension:0
 msgid "Qualify Organizational Drivers\n\n"
 "Can this help or harm \n"
 "the organization?"
 msgstr "Organisationstreiber beurteilen\n\n"
 "Hilft oder schadet es der Organisation?\n"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Qualify Drivers"
+msgstr "Treiber beurteilen"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Is the driver relevant \n"
+"for us to respond to?"
+msgstr "Betrifft uns dieser Treiber?"
+
+#: process.graffle/navigate-via-tension:0
+msgid "Act\n\n"
+"or schedule for later"
+msgstr "Handeln\n\n"
+"oder vertagen"
+
+#: process.graffle/navigate-via-tension:0
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Notice Tension"
+msgstr "Spannung erkennen"
+
+#: process.graffle/navigate-via-tension:0
+msgid "\trefer to another domain"
+msgstr "\tan andere Domäne übergeben"
 
 #: process.graffle/navigate-via-tension:0
 msgid "pass the driver \n"
@@ -116,12 +133,6 @@ msgstr "ignorieren"
 #: process.graffle/navigate-via-tension-slides:0
 msgid "Individual Accountability"
 msgstr "Persönliche Verantwortung"
-
-#: process.graffle/navigate-via-tension:0
-msgid "Act\n\n"
-"or schedule for later"
-msgstr "Handeln\n\n"
-"oder vertagen"
 
 #: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
@@ -140,6 +151,11 @@ msgid "Accountability of Circle or Person in a Role\n"
 msgstr "Verantwortung von Kreis oder Rolle"
 
 #: process.graffle/navigate-via-tension:0
+msgid "\n"
+"Consent to Driver"
+msgstr "Konsent: Treiber"
+
+#: process.graffle/navigate-via-tension:0
 msgid "Decide \n\n"
 "How will we respond?"
 msgstr "Entscheiden\n\n"
@@ -151,8 +167,8 @@ msgid "pass driver \n"
 msgstr "Treiber übergeben"
 
 #: process.graffle/navigate-via-tension-slides:0
-msgid "Is the description of the driver clear enough?"
-msgstr "Ist die Beschreibung des Treibers klar genug?"
+msgid "Understand Driver"
+msgstr "Treiber verstehen"
 
 #: process.graffle/navigate-via-tension-slides:0
 msgid "Drop \n"
@@ -167,17 +183,43 @@ msgstr "Handeln\n"
 "(oder vertagen)"
 
 #: process.graffle/navigate-via-tension-slides:0
-msgid "Is the driver relevant \n"
-"for us to respond to?"
-msgstr "Betrifft uns dieser Treiber?"
-
-#: process.graffle/navigate-via-tension-slides:0
 msgid "Consent to Driver"
 msgstr "Konsent: Treiber"
 
 #: process.graffle/navigate-via-tension-slides:0
+msgid "Qualify Driver"
+msgstr "Treiber beurteilen"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Decide"
+msgstr "Entscheiden"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Describe situation: what’s happening, what’s needed?"
+msgstr "Situation beschreiben: Was geschieht, was ist notwendig?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Can this help or harm \n"
+"the organization?"
+msgstr "Kann das der Organisation helfen oder schaden?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "How will we respond?"
+msgstr "Wie reagieren wir?"
+
+#: process.graffle/navigate-via-tension-slides:0
 msgid "Those Accountable for the Domain"
 msgstr "die Domänenverantwortlichen"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Whose domain of \n"
+"accountablity is this?"
+msgstr "In wessen Verantwortungs-\n"
+"bereich fällt es?"
+
+#: process.graffle/navigate-via-tension-slides:0
+msgid "Delegate"
+msgstr "Delegieren"
 
 #: process.graffle/opening-salaries:0
 msgid "Transition to New Formula"

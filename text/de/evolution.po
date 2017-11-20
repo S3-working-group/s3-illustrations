@@ -157,6 +157,21 @@ msgid "understand\n"
 "driver"
 msgstr "Treiber verstehen"
 
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "experiment"
+msgstr "exprimentieren"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evolve"
+msgstr "entwickeln"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evaluate"
+msgstr "evaluieren"
+
 #: evolution.graffle/kaizen-values:0
 msgid "shared values"
 msgstr "gemeinsame Werte"
