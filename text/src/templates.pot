@@ -8,15 +8,8 @@ msgid "Who is accountable?"
 msgstr "Who is accountable?"
 
 #: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
 msgid "Description"
 msgstr "Description"
-
-#: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
-#: templates.graffle/domain-description-template:0
-msgid "Date/Version"
-msgstr "Date/Version"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/proposal-template:0
@@ -29,6 +22,12 @@ msgid "Appendix"
 msgstr "Appendix"
 
 #: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
+#: templates.graffle/domain-description-template:0
+msgid "Date/Version"
+msgstr "Date/Version"
+
+#: templates.graffle/agreement-template:0
 msgid "(Concerns)"
 msgstr "(Concerns)"
 
@@ -39,6 +38,10 @@ msgstr "Previous Versions"
 #: templates.graffle/agreement-template:0
 msgid "Title of Agreement"
 msgstr "Title of Agreement"
+
+#: templates.graffle/agreement-template:0
+msgid "Background Information"
+msgstr "Background Information"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/development-plan-template:0
@@ -56,17 +59,13 @@ msgstr "Review Date"
 msgid "References"
 msgstr "References"
 
-#: templates.graffle/agreement-template:0
-msgid "￼"
-msgstr "￼"
-
 #: templates.graffle/development-plan-template:0
 msgid ""
 "Actionable Improvement \n"
-"Suggestions\n"
+"Suggestions"
 msgstr ""
 "Actionable Improvement \n"
-"Suggestions\n"
+"Suggestions"
 
 #: templates.graffle/development-plan-template:0
 msgid "Minutes of Peer Review"
@@ -81,10 +80,6 @@ msgid "Development Plan"
 msgstr "Development Plan"
 
 #: templates.graffle/development-plan-template:0
-msgid "Amendments to Domain \n"
-msgstr "Amendments to Domain \n"
-
-#: templates.graffle/development-plan-template:0
 msgid "Amendments to Strategy"
 msgstr "Amendments to Strategy"
 
@@ -95,6 +90,14 @@ msgstr "Current Domain Description"
 #: templates.graffle/development-plan-template:0
 msgid "Action Items"
 msgstr "Action Items"
+
+#: templates.graffle/development-plan-template:0
+msgid ""
+"Amendments to Domain \n"
+"Description"
+msgstr ""
+"Amendments to Domain \n"
+"Description"
 
 #: templates.graffle/development-plan-template:0
 msgid "for <Domain Name>"

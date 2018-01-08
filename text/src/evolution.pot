@@ -27,16 +27,16 @@ msgid "tension"
 msgstr "tension"
 
 #: evolution.graffle/development-process:0
+msgid "delegator consent"
+msgstr "delegator consent"
+
+#: evolution.graffle/development-process:0
 msgid "peer review"
 msgstr "peer review"
 
 #: evolution.graffle/development-process:0
 msgid "development plan"
 msgstr "development plan"
-
-#: evolution.graffle/development-process:0
-msgid "parent circle consent"
-msgstr "parent circle consent"
 
 #: evolution.graffle/development-process:0
 msgid "act on the plan"

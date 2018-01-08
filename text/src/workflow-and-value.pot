@@ -186,10 +186,10 @@ msgstr "backlog"
 #: workflow-and-value.graffle/types-of-flow:0
 msgid ""
 "flow of\n"
-" information"
+"information"
 msgstr ""
 "flow of\n"
-" information"
+"information"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "Circle B"
