@@ -20,11 +20,15 @@ msgstr "Vereinbarung entwickeln"
 #: evolution.graffle/agreement-lifecycle:0
 #: evolution.graffle/agreement-lifecycle-long:0
 msgid "identify driver"
-msgstr "Treiber identifizieren"
+msgstr "Treiber verstehen"
 
 #: evolution.graffle/agreement-lifecycle-long:0
 msgid "tension"
 msgstr "Spannung"
+
+#: evolution.graffle/development-process:0
+msgid "delegator consent"
+msgstr "Konsent Delegierende"
 
 #: evolution.graffle/development-process:0
 msgid "peer review"
@@ -33,10 +37,6 @@ msgstr "Entwicklungsgespräch"
 #: evolution.graffle/development-process:0
 msgid "development plan"
 msgstr "Entwicklungsplan"
-
-#: evolution.graffle/development-process:0
-msgid "parent circle consent"
-msgstr "Konsent des Elternkreises"
 
 #: evolution.graffle/development-process:0
 msgid "act on the plan"
@@ -73,7 +73,7 @@ msgstr "Personen wählen"
 #: evolution.graffle/driver-domain-selection-development:0
 #: evolution.graffle/driver-role-selection-development:0
 msgid "continuous development"
-msgstr "kontinuierliche Entwicklung"
+msgstr "ständige Verbesserung"
 
 #: evolution.graffle/driver-domain-selection-development:0
 msgid "domain description"
@@ -160,7 +160,7 @@ msgstr "Treiber verstehen"
 #: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
 #: evolution.graffle/kaizen-values:0
 msgid "experiment"
-msgstr "exprimentieren"
+msgstr "Experiment"
 
 #: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
 #: evolution.graffle/kaizen-values:0
@@ -170,7 +170,7 @@ msgstr "entwickeln"
 #: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
 #: evolution.graffle/kaizen-values:0
 msgid "evaluate"
-msgstr "evaluieren"
+msgstr "Evaluation"
 
 #: evolution.graffle/kaizen-values:0
 msgid "shared values"

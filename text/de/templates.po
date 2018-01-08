@@ -8,15 +8,8 @@ msgid "Who is accountable?"
 msgstr "Verantwortliche(r)"
 
 #: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
 msgid "Description"
 msgstr "Beschreibung"
-
-#: templates.graffle/agreement-template:0
-#: templates.graffle/development-plan-template:0
-#: templates.graffle/domain-description-template:0
-msgid "Date/Version"
-msgstr "Datum/Version"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/proposal-template:0
@@ -29,6 +22,12 @@ msgid "Appendix"
 msgstr "Anhang"
 
 #: templates.graffle/agreement-template:0
+#: templates.graffle/development-plan-template:0
+#: templates.graffle/domain-description-template:0
+msgid "Date/Version"
+msgstr "Datum/Version"
+
+#: templates.graffle/agreement-template:0
 msgid "(Concerns)"
 msgstr "(Bedenken)"
 
@@ -39,6 +38,10 @@ msgstr "Vorherige Versionen"
 #: templates.graffle/agreement-template:0
 msgid "Title of Agreement"
 msgstr "Name der Vereinbarung"
+
+#: templates.graffle/agreement-template:0
+msgid "Background Information"
+msgstr "Hintergrundinformationen"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/development-plan-template:0
@@ -56,13 +59,9 @@ msgstr "Review Datum"
 msgid "References"
 msgstr "Referenzen"
 
-#: templates.graffle/agreement-template:0
-msgid "￼"
-msgstr "￼"
-
 #: templates.graffle/development-plan-template:0
 msgid "Actionable Improvement \n"
-"Suggestions\n"
+"Suggestions"
 msgstr "konkrete Verbesserungsvorschläge"
 
 #: templates.graffle/development-plan-template:0
@@ -78,10 +77,6 @@ msgid "Development Plan"
 msgstr "Entwicklungsplan"
 
 #: templates.graffle/development-plan-template:0
-msgid "Amendments to Domain \n"
-msgstr "Anpassung der Domäne"
-
-#: templates.graffle/development-plan-template:0
 msgid "Amendments to Strategy"
 msgstr "Anpassung der Strategie"
 
@@ -92,6 +87,11 @@ msgstr "Aktuelle Domänenbeschreibung"
 #: templates.graffle/development-plan-template:0
 msgid "Action Items"
 msgstr "Aufgaben"
+
+#: templates.graffle/development-plan-template:0
+msgid "Amendments to Domain \n"
+"Description"
+msgstr "Änderungen der Domänenbeschreibung"
 
 #: templates.graffle/development-plan-template:0
 msgid "for <Domain Name>"

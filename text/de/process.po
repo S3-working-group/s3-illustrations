@@ -74,7 +74,7 @@ msgstr "Ist die Beschreibung des Treibers klar genug?"
 #: process.graffle/navigate-via-tension:0
 msgid "\tdrop it \n"
 "\t"
-msgstr "\tignorieren"
+msgstr "\tignorieren \t"
 
 #: process.graffle/navigate-via-tension:0
 #: process.graffle/navigate-via-tension-slides:0
@@ -92,7 +92,7 @@ msgid "Qualify Organizational Drivers\n\n"
 "Can this help or harm \n"
 "the organization?"
 msgstr "Organisationstreiber beurteilen\n\n"
-"Hilft oder schadet es der Organisation?\n"
+"Hilft oder schadet es der Organisation?"
 
 #: process.graffle/navigate-via-tension:0
 msgid "Qualify Drivers"
@@ -227,7 +227,7 @@ msgstr "Umstellung auf neue Formel"
 
 #: process.graffle/opening-salaries:0
 msgid "Create/Update Salary Formula"
-msgstr "Gehaltsformel erstellen/anpassen"
+msgstr "Gehaltsformel erarbeiten"
 
 #: process.graffle/opening-salaries:0
 msgid "Open Salary"
@@ -283,7 +283,7 @@ msgstr "Entwicklungsplan beschliessen"
 
 #: process.graffle/peer-review:0
 msgid "Present Domain Description and Strategy"
-msgstr "Domänenbeschreibung und Strategie vorstellen"
+msgstr "Domäne und Strategie vorstellen"
 
 #: process.graffle/peer-review:0
 msgid "⟳"

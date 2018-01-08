@@ -9,7 +9,8 @@ msgstr "Wertfluss"
 
 #: workflow-and-value.graffle/align-flow:0
 msgid "not aligned"
-msgstr "nicht ausgerichtet"
+msgstr "nicht\n"
+"angeglichen"
 
 #: workflow-and-value.graffle/align-flow:0
 msgid "flow of information"
@@ -80,14 +81,13 @@ msgstr "verhandeln"
 
 #: workflow-and-value.graffle/sales:0
 msgid "create quote"
-msgstr "Angebot\n"
-"erstellen"
+msgstr "Angebot"
 
 #: workflow-and-value.graffle/scaling-process:0
 #: workflow-and-value.graffle/simple-process:0
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "doing"
-msgstr "doing"
+msgstr "in Arbeit"
 
 #: workflow-and-value.graffle/scaling-process:0
 #: workflow-and-value.graffle/simple-process:0
@@ -136,7 +136,7 @@ msgstr "Halt: erfordert Support-Vertrag"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "tasks"
-msgstr "Aufgaben"
+msgstr "Aufg."
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "Isaac"
@@ -156,7 +156,7 @@ msgstr "Prüfung"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "publish"
-msgstr "veröffentlichen"
+msgstr "publizieren"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "writing"
@@ -168,7 +168,7 @@ msgstr "Carla"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "stories"
-msgstr "Stories"
+msgstr "Artikel"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "Frank"
@@ -180,8 +180,8 @@ msgstr "Backlog"
 
 #: workflow-and-value.graffle/types-of-flow:0
 msgid "flow of\n"
-" information"
-msgstr "Informationsfluss"
+"information"
+msgstr "Informations- fluss"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "Circle B"
@@ -197,7 +197,7 @@ msgstr "Kreis D"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "identify leads"
-msgstr "Leads identifizieren"
+msgstr "Leads suchen"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "Circle A"
@@ -209,7 +209,7 @@ msgstr "Interesse bestätigen"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "Work in Progess"
-msgstr "in Arbeiten"
+msgstr "in Arbeite"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "test"
@@ -229,5 +229,5 @@ msgstr "Auftrag"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "produce"
-msgstr "produzieren"
+msgstr "bauen"
 

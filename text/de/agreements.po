@@ -4,7 +4,7 @@ msgstr ""
 
 #: agreements.graffle/cdm-condensed:0
 msgid "Celebrate Agreement"
-msgstr "Vereinbarung ist beschlossen"
+msgstr "Erfolg feiern!"
 
 #: agreements.graffle/cdm-condensed:0
 msgid "Brief Response"
@@ -96,7 +96,7 @@ msgstr "Fragen zum Treiber"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Select Tuners"
-msgstr "Regler wählen"
+msgstr "Gestalter auwählen"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Collect Ideas"
@@ -104,7 +104,7 @@ msgstr "Ideen sammeln"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Prioritize Considerations"
-msgstr "Abwägungen priorisieren"
+msgstr "Aspekte priorisieren"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Record Considerations"
@@ -188,7 +188,7 @@ msgstr "Moderator\n"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid "amend proposal (or decide to defer/drop)"
-msgstr "Vorschlag anpassen (oder vertagen/verwerfen)"
+msgstr "Vorschlag anpassen"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid "hear and qualify  one objection"
@@ -204,12 +204,12 @@ msgstr "nein"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid "any objections to amendment?"
-msgstr "gibt es Einwände zur Anpassung?"
+msgstr "gibt es Einwände gegen Anpassung?"
 
 #: agreements.graffle/resolve-objections-process:0
 #: agreements.graffle/selection:0
 msgid "Celebrate"
-msgstr "Wahl erfolgreich!"
+msgstr "Erfolg feiern!"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid "resolve objections to amendment"
