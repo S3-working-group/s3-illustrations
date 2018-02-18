@@ -1,6 +1,16 @@
 msgid ""
 msgstr ""
-""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /text/src/process.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-16 08:25-0500\n"
 
 #: process.graffle/adapt-pattern-to-context:0
 msgid "Test Adaptation"
@@ -8,7 +18,7 @@ msgstr "Anpassung testen"
 
 #: process.graffle/adapt-pattern-to-context:0
 msgid "Understand Pattern"
-msgstr "Pattern verstehen"
+msgstr "Muster verstehen"
 
 #: process.graffle/adapt-pattern-to-context:0
 msgid "Proposal for Adaptation"

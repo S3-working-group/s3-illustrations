@@ -1,6 +1,16 @@
 msgid ""
 msgstr ""
-""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /text/src/framework.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-16 08:25-0500\n"
 
 #: framework.graffle/design-goals:0
 msgid "design\n"
@@ -39,7 +49,7 @@ msgstr "S3"
 
 #: framework.graffle/pattern-map:0
 msgid "Those Affected Decide"
-msgstr "die Betroffenen entscheiden"
+msgstr "Die Betroffenen entscheiden"
 
 #: framework.graffle/pattern-map:0
 msgid "Co-Creation And Evolution"
@@ -47,7 +57,7 @@ msgstr "Mitgestaltung und Evolution"
 
 #: framework.graffle/pattern-map:0
 msgid "Open Systems"
-msgstr "offene Systeme"
+msgstr "Offene Systeme"
 
 #: framework.graffle/pattern-map:0
 msgid "Equivalence"
@@ -55,7 +65,7 @@ msgstr "Gleichstellung"
 
 #: framework.graffle/pattern-map:0
 msgid "CI Of Work Process"
-msgstr "kontinuierliche Prozessverbesserung"
+msgstr "Kontinuierliche Prozessverbesserung"
 
 #: framework.graffle/pattern-map:0
 msgid "Role"
@@ -99,7 +109,7 @@ msgstr "S3 per Open-Space"
 
 #: framework.graffle/pattern-map:0
 msgid "Intended Outcome"
-msgstr "angestrebtes Ergebnis"
+msgstr "Angestrebtes Ergebnis"
 
 #: framework.graffle/pattern-map:0
 msgid "Evaluate\n"
@@ -137,7 +147,7 @@ msgstr "Evaluationskriterien"
 
 #: framework.graffle/pattern-map:0
 msgid "Continuous Improvement"
-msgstr "kontinuierliche Verbesserung"
+msgstr "Kontinuierliche Verbesserung"
 
 #: framework.graffle/pattern-map:0
 msgid "Coordinator"
@@ -149,7 +159,7 @@ msgstr "Fraktalorganisation"
 
 #: framework.graffle/pattern-map:0
 msgid "Governance Meeting"
-msgstr "Steuerungs-Meetings"
+msgstr "Steuerungs-Meeting"
 
 #: framework.graffle/pattern-map:0
 msgid "Rounds"
@@ -157,7 +167,7 @@ msgstr "Runden"
 
 #: framework.graffle/pattern-map:0
 msgid "Focused Interactions"
-msgstr "fokussierte Interaktionen"
+msgstr "Fokussierte Interaktionen"
 
 #: framework.graffle/pattern-map:0
 msgid "Empiricism"
@@ -186,7 +196,7 @@ msgstr "Peer-Feedback"
 
 #: framework.graffle/pattern-map:0
 msgid "Representative"
-msgstr "Repräsentant"
+msgstr "Repräsentant(in)"
 
 #: framework.graffle/pattern-map:0
 msgid "Clarify\n"
@@ -203,7 +213,7 @@ msgstr "Organisationsstruktur"
 
 #: framework.graffle/pattern-map:0
 msgid "Double Linking"
-msgstr "doppelte Verbindung"
+msgstr "Doppelte Verbindung"
 
 #: framework.graffle/pattern-map:0
 msgid "Contracting And Accountability"
@@ -219,15 +229,15 @@ msgstr "Vereinbarung"
 
 #: framework.graffle/pattern-map:0
 msgid "Meeting Practices"
-msgstr "effektive Meetings"
+msgstr "Effektive Meetings"
 
 #: framework.graffle/pattern-map:0
 msgid "Agree On Values"
-msgstr "gemeinsame Werte"
+msgstr "Gemeinsame Werte"
 
 #: framework.graffle/pattern-map:0
 msgid "Double-Linked Hierarchy"
-msgstr "doppelt-verbundene Hierarchie"
+msgstr "Doppelt verbundene Hierarchie"
 
 #: framework.graffle/pattern-map:0
 msgid "Consent"
@@ -263,11 +273,11 @@ msgstr "Vereinbarungen prüfen"
 
 #: framework.graffle/pattern-map:0
 msgid "Transparent Salary"
-msgstr "Transparentes Gehalt"
+msgstr "Gehaltstransparenz"
 
 #: framework.graffle/pattern-map:0
 msgid "Defining Agreements"
-msgstr "klare Vereinbarungen"
+msgstr "Klare Vereinbarungen"
 
 #: framework.graffle/pattern-map:0
 msgid "Sociocracy 3.0 "
@@ -279,7 +289,7 @@ msgstr "Einwand"
 
 #: framework.graffle/pattern-map:0
 msgid "Peer Development"
-msgstr "gemeinsame Entwicklung"
+msgstr "Gemeinsame Entwicklung"
 
 #: framework.graffle/pattern-map:0
 msgid "Describe Deliverables"
@@ -299,7 +309,7 @@ msgstr "Driver Mapping"
 
 #: framework.graffle/pattern-map:0
 msgid "Logbook Keeper"
-msgstr "Logbuchführer"
+msgstr "Logbuchführer(in)"
 
 #: framework.graffle/pattern-map:0
 msgid "Respond to Organizational Drivers"
@@ -327,7 +337,7 @@ msgstr "Steuerungs-Backlog"
 
 #: framework.graffle/pattern-map:0
 msgid "Bringing in S3"
-msgstr "S3 Einführen"
+msgstr "S3 einführen"
 
 #: framework.graffle/pattern-map:0
 msgid "Support Role"
@@ -364,7 +374,7 @@ msgstr "Fluss angleichen"
 
 #: framework.graffle/pattern-map:0
 msgid "Artful Participation"
-msgstr "kunstvolle Teilnahme"
+msgstr "Kunstvolle Teilnahme"
 
 #: framework.graffle/pattern-map:0
 msgid "Bylaws"
@@ -390,7 +400,7 @@ msgstr "Navigiere nach Spannung"
 
 #: framework.graffle/pattern-map:0
 msgid "Limit Work In Progress"
-msgstr "laufende Arbeit begrenzen"
+msgstr "Laufende Arbeit begrenzen"
 
 #: framework.graffle/pattern-map:0
 msgid "Service Circle"

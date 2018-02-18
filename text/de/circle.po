@@ -1,18 +1,28 @@
 msgid ""
 msgstr ""
-""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /text/src/circle.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-16 08:25-0500\n"
 
 #: circle.graffle/facilitator:0 circle.graffle/rounds:0
 msgid "facilitator"
-msgstr "Moderator"
+msgstr "Moderator(in)"
 
 #: circle.graffle/rounds:0
 msgid "last"
-msgstr "Anfang"
+msgstr "Ende"
 
 #: circle.graffle/rounds:0
 msgid "first"
-msgstr "Ende"
+msgstr "Anfang"
 
 #: circle.graffle/transparent-salary:0
 msgid "$23.000"
