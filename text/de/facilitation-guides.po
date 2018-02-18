@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /text/src/facilitation-guides.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tlink between domains if needed\n"
+"\t"
+msgstr "verbinde Domänen nach Bedarf"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tPass on drivers belonging to other domains\n"
+"\t"
+msgstr "gib Treiber an die zuständigen Domänen"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tclear enough articulation?\n"
+"\t"
+msgstr "gut genug formuliert?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tcreate actor-centric or needs-centric clusters (or a combination of both)"
+msgstr "\tbilde Gruppen bezogen auf Akteure oder Bedürfnisse (oder eine Mischform)"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Populate and define domains"
+msgstr "Domänen besetzen und definieren"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tquestions about the driver"
+msgstr "Fragen zum Treiber"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "✓"
+msgstr "✓"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\trelevant for us to respond to?\n"
+"\t"
+msgstr "ist das relevant für uns?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "What else do we need to consider… "
+msgstr "Was müssen wir noch berücksichtigen…"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tdecide on a strategy for domain"
+msgstr "wähle eine Strategie für die Domäne"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tadd the reference number of the actor to the driver cards\n"
+msgstr "\tnotiere die ID des Akteurs auf den Treiber-Karten\n"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tagree together how to proceed\n"
+"\t"
+msgstr "\tentscheidet gemeinsam, wie es weiter geht\n"
+"\t"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tform delegate/service/coord. circles as required"
+msgstr "\tnach Bedarf Delegierten-/Service-/Koordinationskreise bilden"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Who will be impacted? "
+msgstr "Wer ist betroffen?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "▪"
+msgstr "▪"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Account for drivers that \n"
+"extend beyond the scope\n"
+" of one domain"
+msgstr "Berücksichtigt Treiber, die\n"
+"über den Scope einer\n"
+"Domäne hinaus gehen"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "What is needed (drivers)…"
+msgstr "Was wird benötigt (Treiber) …"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+msgid "\n"
+"What values could guide our work?"
+msgstr "Welche Werte könnten unsere Arbeit leiten?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "1"
+msgstr "1"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "3"
+msgstr "3"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "2"
+msgstr "2"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "5"
+msgstr "5"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "4"
+msgstr "4"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "7"
+msgstr "7"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "6"
+msgstr "6"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "… to respond to the \n"
+"primary driver ?"
+msgstr "… auf den primären Treiber\n"
+"zu reagieren?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "8"
+msgstr "8"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Present & consent to \n"
+"the primary driver."
+msgstr "Konsent zum Primärtreiber"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tstick the driver cards around the actors\n"
+"\t"
+msgstr "\tTreiber-Karten an den Akteuren befestigen\n"
+"\t"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Sort & prioritize drivers "
+msgstr "Treiber sortieren und priorisieren"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "…benefit? …be harmed? \n"
+"…help? …stand in the way?"
+msgstr "… profitieren? … darunter leiden?\n"
+"… helfen? … behindern?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\thear short reports\n"
+"\t"
+msgstr "kurze Berichte"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "…in the context of what we \n"
+"want to achieve?\n"
+"Collect drivers on smaller cards\n"
+"“they / we need (to)__”"
+msgstr "…im Kontext unserer Ziele?\n"
+"Treiber auf kleineren Karten sammeln \"sie/wir brauchen\""
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Celebrate!"
+msgstr "Feiert!"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "9"
+msgstr "9"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Distribute people according to experience and interest, to account for all domains"
+msgstr "Teilnehmer nach Erfahrung und Interesse verteilen, alle Domänen berücksichtigen"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Why are we here?"
+msgstr "Warum sind wir hier?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\texisting orgs: what drivers can be passed to existing domains?\n"
+msgstr " bestehenden Organisationen: welche Treiber können an vorhandenen Domänen weitergegeben werden? "
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Who has expertise on how to respond?"
+msgstr "Wer hat Kenntnis darüber, wie zu reagieren sei?"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tThings to decide (governance) Things to do (operations)\n"
+"Prioritize backlogs\n"
+" Eliminate waste\n"
+msgstr "\tEntscheidungen (Governance) Aufgaben (Operations)\n"
+"Backlogs priorisieren\n"
+"unwichtiges entfernen\n"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tadd reference number and stick to a board"
+msgstr "\tfüge ID hinzu und befestige Karten am Board"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tidentify and add missing drivers \n"
+"\t"
+msgstr "\tfehlende Treiber identifizieren und hinzugefügen"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Identify domains"
+msgstr "Domänen identifizieren\n"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tlist actors on large cards\n"
+"\t"
+msgstr "\tAkteure auf großen Karten sammeln"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Connecting domains"
+msgstr "Domänen verbinden"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tadd names to driver card"
+msgstr "\tTreiber-Karten mit Namen versehen"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "\tin the smaller groups: describe the primary driver of the domain and agree on a meaningful name"
+msgstr "\tin kleinen Gruppen: Primärtreiber der Domänen formulieren und aussagekräftigen Namen für Domäne finden"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Consider who can: \n"
+msgstr "Wer könnte:"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Cluster actors and/or drivers \n"
+"into coherent domains"
+msgstr "Gruppiert Akteure und/oder Treiber\n"
+"in kohärenten Domänen"
+

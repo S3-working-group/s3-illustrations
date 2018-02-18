@@ -1,0 +1,195 @@
+#
+msgid ""
+msgstr ""
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "co-create proposal"
+msgstr "co-create proposal"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "consent to agreement"
+msgstr "consent to agreement"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "evolve agreement"
+msgstr "evolve agreement"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "identify driver"
+msgstr "identify driver"
+
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "tension"
+msgstr "tension"
+
+#: evolution.graffle/development-process:0
+msgid "delegator consent"
+msgstr "delegator consent"
+
+#: evolution.graffle/development-process:0
+msgid "peer review"
+msgstr "peer review"
+
+#: evolution.graffle/development-process:0
+msgid "development plan"
+msgstr "development plan"
+
+#: evolution.graffle/development-process:0
+msgid "act on the plan"
+msgstr "act on the plan"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "domain"
+msgstr "domain"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "experiments"
+msgstr "experiments"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "strategy"
+msgstr "strategy"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+#: evolution.graffle/driver-agreement-improvement:0
+#: evolution.graffle/driver-domain-selection-development:0
+#: evolution.graffle/driver-role-selection-development:0
+#: evolution.graffle/kaizen:0
+msgid "driver"
+msgstr "driver"
+
+#: evolution.graffle/driver-agreement-improvement:0
+msgid "agreement"
+msgstr "agreement"
+
+#: evolution.graffle/driver-domain-selection-development:0
+msgid "select people"
+msgstr "select people"
+
+#: evolution.graffle/driver-domain-selection-development:0
+#: evolution.graffle/driver-role-selection-development:0
+msgid "continuous development"
+msgstr "continuous development"
+
+#: evolution.graffle/driver-domain-selection-development:0
+msgid "domain description"
+msgstr "domain description"
+
+#: evolution.graffle/driver-role-selection-development:0
+msgid "selection"
+msgstr "selection"
+
+#: evolution.graffle/driver-role-selection-development:0
+msgid "role description"
+msgstr "role description"
+
+#: evolution.graffle/experiments:0
+msgid "Identify Motivation"
+msgstr "Identify Motivation"
+
+#: evolution.graffle/experiments:0
+msgid "Review and Evolve"
+msgstr "Review and Evolve"
+
+#: evolution.graffle/experiments:0
+msgid "Design Experiment"
+msgstr "Design Experiment"
+
+#: evolution.graffle/experiments:0 evolution.graffle/experiments-2:0
+msgid "Commit to Run Experiment"
+msgstr "Commit to Run Experiment"
+
+#: evolution.graffle/experiments-2:0
+msgid "Invite Everyone Affected by Decision"
+msgstr "Invite Everyone Affected by Decision"
+
+#: evolution.graffle/experiments-2:0
+msgid "Design Experiment Together"
+msgstr "Design Experiment Together"
+
+#: evolution.graffle/experiments-2:0
+msgid "Review and Evolve Experiment"
+msgstr "Review and Evolve Experiment"
+
+#: evolution.graffle/experiments-2:0
+msgid "Shared Understanding of Motive(s)"
+msgstr "Shared Understanding of Motive(s)"
+
+#: evolution.graffle/experiments-phases:0
+msgid "problem space"
+msgstr "problem space"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"agree on \n"
+"proposal"
+msgstr ""
+"agree on \n"
+"proposal"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"evolve \n"
+"agreement"
+msgstr ""
+"evolve \n"
+"agreement"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"collect \n"
+"considerations"
+msgstr ""
+"collect \n"
+"considerations"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"gather \n"
+"ideas"
+msgstr ""
+"gather \n"
+"ideas"
+
+#: evolution.graffle/experiments-phases:0
+msgid "solution space"
+msgstr "solution space"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"design\n"
+"proposal"
+msgstr ""
+"design\n"
+"proposal"
+
+#: evolution.graffle/experiments-phases:0
+msgid ""
+"understand\n"
+"driver"
+msgstr ""
+"understand\n"
+"driver"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "experiment"
+msgstr "experiment"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evolve"
+msgstr "evolve"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evaluate"
+msgstr "evaluate"
+
+#: evolution.graffle/kaizen-values:0
+msgid "shared values"
+msgstr "shared values"

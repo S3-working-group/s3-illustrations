@@ -1,0 +1,1 @@
+ogtranslate translate graffle/src/ "graffle/$1/" "text/$1/"

@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: sociocracy-30-illustrations\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /text/src/evolution.pot\n"
+"Project-Id-Version: sociocracy-30-illustrations\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "co-create proposal"
+msgstr "Vorschlag erarbeiten"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "consent to agreement"
+msgstr "Konsent"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "evolve agreement"
+msgstr "Vereinbarung entwickeln"
+
+#: evolution.graffle/agreement-lifecycle:0
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "identify driver"
+msgstr "Treiber verstehen"
+
+#: evolution.graffle/agreement-lifecycle-long:0
+msgid "tension"
+msgstr "Spannung"
+
+#: evolution.graffle/development-process:0
+msgid "delegator consent"
+msgstr "Konsent Delegierende"
+
+#: evolution.graffle/development-process:0
+msgid "peer review"
+msgstr "Entwicklungsgespräch"
+
+#: evolution.graffle/development-process:0
+msgid "development plan"
+msgstr "Entwicklungsplan"
+
+#: evolution.graffle/development-process:0
+msgid "act on the plan"
+msgstr "Plan umsetzen"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "domain"
+msgstr "Domäne"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "experiments"
+msgstr "Experimente"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+msgid "strategy"
+msgstr "Strategie"
+
+#: evolution.graffle/domain-driver-strategy-exeriments:0
+#: evolution.graffle/driver-agreement-improvement:0
+#: evolution.graffle/driver-domain-selection-development:0
+#: evolution.graffle/driver-role-selection-development:0
+#: evolution.graffle/kaizen:0
+msgid "driver"
+msgstr "Treiber"
+
+#: evolution.graffle/driver-agreement-improvement:0
+msgid "agreement"
+msgstr "Vereinbarung"
+
+#: evolution.graffle/driver-domain-selection-development:0
+msgid "select people"
+msgstr "Personen wählen"
+
+#: evolution.graffle/driver-domain-selection-development:0
+#: evolution.graffle/driver-role-selection-development:0
+msgid "continuous development"
+msgstr "ständige Verbesserung"
+
+#: evolution.graffle/driver-domain-selection-development:0
+msgid "domain description"
+msgstr "Domänen- Beschreibung"
+
+#: evolution.graffle/driver-role-selection-development:0
+msgid "selection"
+msgstr "Wahl"
+
+#: evolution.graffle/driver-role-selection-development:0
+msgid "role description"
+msgstr "Rollenbeschreibung"
+
+#: evolution.graffle/experiments:0
+msgid "Identify Motivation"
+msgstr "Motiv verstehen"
+
+#: evolution.graffle/experiments:0
+msgid "Review and Evolve"
+msgstr "Evaluation und Evolution"
+
+#: evolution.graffle/experiments:0
+msgid "Design Experiment"
+msgstr "Experiment gestalten"
+
+#: evolution.graffle/experiments:0 evolution.graffle/experiments-2:0
+msgid "Commit to Run Experiment"
+msgstr "Experiment beschliessen"
+
+#: evolution.graffle/experiments-2:0
+msgid "Invite Everyone Affected by Decision"
+msgstr "Alle Betroffenen einladen"
+
+#: evolution.graffle/experiments-2:0
+msgid "Design Experiment Together"
+msgstr "Gemeinsam Experiment gestalten"
+
+#: evolution.graffle/experiments-2:0
+msgid "Review and Evolve Experiment"
+msgstr "Experiment weiterentwickeln"
+
+#: evolution.graffle/experiments-2:0
+msgid "Shared Understanding of Motive(s)"
+msgstr "Gemeinsame Motiv(e) verstehen"
+
+#: evolution.graffle/experiments-phases:0
+msgid "problem space"
+msgstr "Problemraum"
+
+#: evolution.graffle/experiments-phases:0
+msgid "agree on \n"
+"proposal"
+msgstr "Konsent"
+
+#: evolution.graffle/experiments-phases:0
+msgid "evolve \n"
+"agreement"
+msgstr "Evolution"
+
+#: evolution.graffle/experiments-phases:0
+msgid "collect \n"
+"considerations"
+msgstr "Kriterien sammeln"
+
+#: evolution.graffle/experiments-phases:0
+msgid "gather \n"
+"ideas"
+msgstr "Ideen sammeln"
+
+#: evolution.graffle/experiments-phases:0
+msgid "solution space"
+msgstr "Lösungsraum"
+
+#: evolution.graffle/experiments-phases:0
+msgid "design\n"
+"proposal"
+msgstr "Proposal gestalten"
+
+#: evolution.graffle/experiments-phases:0
+msgid "understand\n"
+"driver"
+msgstr "Treiber verstehen"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "experiment"
+msgstr "Experiment"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evolve"
+msgstr "entwickeln"
+
+#: evolution.graffle/kaizen:0 evolution.graffle/kaizen-plain:0
+#: evolution.graffle/kaizen-values:0
+msgid "evaluate"
+msgstr "Evaluation"
+
+#: evolution.graffle/kaizen-values:0
+msgid "shared values"
+msgstr "gemeinsame Werte"
+

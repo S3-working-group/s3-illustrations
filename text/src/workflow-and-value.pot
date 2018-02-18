@@ -1,0 +1,240 @@
+#
+msgid ""
+msgstr ""
+
+#: workflow-and-value.graffle/align-flow:0
+#: workflow-and-value.graffle/types-of-flow:0
+msgid "flow of value"
+msgstr "flow of value"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "not aligned"
+msgstr "not aligned"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "flow of information"
+msgstr "flow of information"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "aligned"
+msgstr "aligned"
+
+#: workflow-and-value.graffle/card:0
+msgid "★★"
+msgstr "★★"
+
+#: workflow-and-value.graffle/card:0
+msgid "due: 1.4.2017"
+msgstr "due: 1.4.2017"
+
+#: workflow-and-value.graffle/card:0
+msgid ""
+"Update the fiddly thing so it doesn’t not break when somebody looks at it "
+"sideways."
+msgstr ""
+"Update the fiddly thing so it doesn’t not break when somebody looks at it "
+"sideways."
+
+#: workflow-and-value.graffle/card:0
+msgid "30.3.2017"
+msgstr "30.3.2017"
+
+#: workflow-and-value.graffle/card:0
+msgid "#37"
+msgstr "#37"
+
+#: workflow-and-value.graffle/card:0
+msgid ""
+"BLOCKED: \n"
+"ask Carl about deployment, he’s  on on holiday. "
+msgstr ""
+"BLOCKED: \n"
+"ask Carl about deployment, he’s  on on holiday. "
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "waste"
+msgstr "waste"
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "driver"
+msgstr "driver"
+
+#: workflow-and-value.graffle/drivers-value-waste:0
+msgid "value"
+msgstr "value"
+
+#: workflow-and-value.graffle/sales:0
+msgid "leads"
+msgstr "leads"
+
+#: workflow-and-value.graffle/sales:0
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+#: workflow-and-value.graffle/support:0
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "done"
+msgstr "done"
+
+#: workflow-and-value.graffle/sales:0
+msgid "blocked"
+msgstr "blocked"
+
+#: workflow-and-value.graffle/sales:0
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "negotiate"
+msgstr "negotiate"
+
+#: workflow-and-value.graffle/sales:0
+msgid "create quote"
+msgstr "create quote"
+
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "doing"
+msgstr "doing"
+
+#: workflow-and-value.graffle/scaling-process:0
+#: workflow-and-value.graffle/simple-process:0
+msgid "to do"
+msgstr "to do"
+
+#: workflow-and-value.graffle/scaling-process:0
+msgid "circle A"
+msgstr "circle A"
+
+#: workflow-and-value.graffle/scaling-process:0
+msgid "circle B"
+msgstr "circle B"
+
+#: workflow-and-value.graffle/simple-process:0
+msgid "work items"
+msgstr "work items"
+
+#: workflow-and-value.graffle/support:0
+msgid "in progress"
+msgstr "in progress"
+
+#: workflow-and-value.graffle/support:0
+msgid "questions"
+msgstr "questions"
+
+#: workflow-and-value.graffle/support:0
+msgid "get client feedback"
+msgstr "get client feedback"
+
+#: workflow-and-value.graffle/support:0
+msgid "confirm solution"
+msgstr "confirm solution"
+
+#: workflow-and-value.graffle/support:0
+msgid "problems"
+msgstr "problems"
+
+#: workflow-and-value.graffle/support:0
+msgid "important"
+msgstr "important"
+
+#: workflow-and-value.graffle/support:0
+msgid "hold: requires support contract"
+msgstr "hold: requires support contract"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "tasks"
+msgstr "tasks"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Isaac"
+msgstr "Isaac"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "ready"
+msgstr "ready"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "review"
+msgstr "review"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "acceptance"
+msgstr "acceptance"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "publish"
+msgstr "publish"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "writing"
+msgstr "writing"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Carla"
+msgstr "Carla"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "stories"
+msgstr "stories"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Frank"
+msgstr "Frank"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "backlog"
+msgstr "backlog"
+
+#: workflow-and-value.graffle/types-of-flow:0
+msgid ""
+"flow of\n"
+"information"
+msgstr ""
+"flow of\n"
+"information"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle B"
+msgstr "Circle B"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle C"
+msgstr "Circle C"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle D"
+msgstr "Circle D"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "identify leads"
+msgstr "identify leads"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle A"
+msgstr "Circle A"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "establish interest"
+msgstr "establish interest"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Work in Progess"
+msgstr "Work in Progess"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "test"
+msgstr "test"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "deliver"
+msgstr "deliver"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "WIP Circle A"
+msgstr "WIP Circle A"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "order"
+msgstr "order"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "produce"
+msgstr "produce"
