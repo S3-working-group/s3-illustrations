@@ -1,4 +1,3 @@
-
 ---
 title: The Sociocracy 3.0 Illustration Repository
 ---
@@ -11,13 +10,14 @@ title: The Sociocracy 3.0 Illustration Repository
 
 ## models-of-management-plain.png
 
-![](/img/de/models-of-management/models-of-management-plain.png)
+[![](/img/de/models-of-management/models-of-management-plain.png)](/img/de/models-of-management/models-of-management-plain.png)
 
 ## models-of-management.png
 
-![](/img/de/models-of-management/models-of-management.png)
+[![](/img/de/models-of-management/models-of-management.png)](/img/de/models-of-management/models-of-management.png)
 
 ## sociocracy-vs-holacracy.png
 
-![](/img/de/models-of-management/sociocracy-vs-holacracy.png)
+[![](/img/de/models-of-management/sociocracy-vs-holacracy.png)](/img/de/models-of-management/sociocracy-vs-holacracy.png)
 
+----[Back](index-de.html)

@@ -1,4 +1,3 @@
-
 ---
 title: The Sociocracy 3.0 Illustration Repository
 ---
@@ -11,9 +10,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 ## history.png
 
-![](/img/de/context/history.png)
+[![](/img/de/context/history.png)](/img/de/context/history.png)
 
 ## sociocracy-variants.png
 
-![](/img/de/context/sociocracy-variants.png)
+[![](/img/de/context/sociocracy-variants.png)](/img/de/context/sociocracy-variants.png)
 
+----[Back](index-de.html)

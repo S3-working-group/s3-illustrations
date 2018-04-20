@@ -2,8 +2,7 @@
 
 import os
 
-INDEX_TEMPLATE = """
----
+INDEX_TEMPLATE = """---
 title: The Sociocracy 3.0 Illustration Repository
 ---
 
@@ -13,8 +12,7 @@ title: The Sociocracy 3.0 Illustration Repository
 
 """
 
-GALLERY_TEMPLATE = """
----
+GALLERY_TEMPLATE = """---
 title: The Sociocracy 3.0 Illustration Repository
 ---
 
@@ -38,8 +36,9 @@ def make_galleries():
                     gallery.write(GALLERY_TEMPLATE % dict(dir=d, lang=language))
                     for i in os.listdir(os.path.join('png', language, '140dpi', d)):
                         gallery.write("## %s\n\n" % i)
-                        gallery.write("![](/img/%(lang)s/%(dir)s/%(img)s)\n\n" % dict(lang=language, dir=d, img=i))
-                    index.write("[Back](index-%s.html)\n" % language)
+                        gallery.write("[![](/img/%(lang)s/%(dir)s/%(img)s)](/img/%(lang)s/%(dir)s/%(img)s)\n\n" % dict(lang=language, dir=d, img=i))
+                    gallery.write("----")
+                    gallery.write("[Back](index-%s.html)\n" % language)
 
 
 if __name__ == "__main__":

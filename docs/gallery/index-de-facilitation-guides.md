@@ -1,4 +1,3 @@
-
 ---
 title: The Sociocracy 3.0 Illustration Repository
 ---
@@ -11,9 +10,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 ## driver-mapping-fg-print.png
 
-![](/img/de/facilitation-guides/driver-mapping-fg-print.png)
+[![](/img/de/facilitation-guides/driver-mapping-fg-print.png)](/img/de/facilitation-guides/driver-mapping-fg-print.png)
 
 ## driver-mapping-fg.png
 
-![](/img/de/facilitation-guides/driver-mapping-fg.png)
+[![](/img/de/facilitation-guides/driver-mapping-fg.png)](/img/de/facilitation-guides/driver-mapping-fg.png)
 
+----[Back](index-de.html)
