@@ -6,17 +6,17 @@ title: News
 
 ## Apr 20, 2018
 
-* set up microsite at <https://illustrations.sociocracy30.org>
+* set up micro site at <https://illustrations.sociocracy30.org>
 * added downloads as zip files
 
 ## Jan 18, 2018
 
-* fully aligned German illustrations with translated version of "S3 - A Practical Guide"
+* fully aligned German illustrations with translated version of [S3 - A Practical Guide](https://sociocracy30.org/guide)
 
 
 ## Nov 19, 2017
 
-* added first pass of German translations from Crowdin
+* added first pass of German translations from [Crowdin](https://crowdin.com/project/sociocracy-30-illustrations)
 
 ## Sep 27, 2017
 
@@ -24,11 +24,11 @@ title: News
 
 ## Jul 10, 2017
 
-* changed fonts in illustrations to Ubuntu and OpenSans
+* changed fonts in illustrations to [Ubuntu](https://fonts.google.com/specimen/Ubuntu) and [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 ## Oct 27, 2017
 
-* updated English illustrations from latest release of "S3 - A Practical Guide"
+* updated English illustrations from latest release of [S3 - A Practical Guide](https://sociocracy30.org/guide)
 
 ## Nov 4, 2016 
 
