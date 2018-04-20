@@ -18,7 +18,7 @@ You can download the repository as a zip file:
 
 You can browse the illustrations here:
 
-![![](/img/de-48px.png)](/gallery/index_en.html) ![![](/img/de-48px.png)](/gallery/index_de.html)
+[![](/img/de-48px.png)](/gallery/index_en.html) [![](/img/de-48px.png)](/gallery/index_de.html)
 
 
 ## License 
