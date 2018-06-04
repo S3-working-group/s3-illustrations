@@ -1,0 +1,32 @@
+# If you find yourself editing this file very often, consider using Jekyll's 
+# data files feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# Any variable defined here will be accessible in the templates via {{ site.myvariable }}.
+
+title: The S3 Illustration Repository
+email: bernhard.bockelbrink@gmail.com
+description: > 
+  130 illustrations for Sociocracy 3.0 resources like "S3 - A Practical Guide" and the S3 website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://illustrations.sociocracy30.org
+author: Bernhard Bockelbrink
+twitter_username: b_bockelbrink
+github_username:  bboc
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+kramdown:
+  auto_ids: true
+
