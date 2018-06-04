@@ -4,6 +4,10 @@ title: News
 
 # News and Updates
 
+## June 4, 2018
+
+* fixed cut-off German text in the illustration for macro and meta structures
+
 ## Apr 20, 2018
 
 * set up micro site at <https://illustrations.sociocracy30.org>
