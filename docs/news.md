@@ -4,6 +4,10 @@ title: News
 
 # News and Updates
 
+## June 8, 2018
+
+* added cheatsheet for _Navigate Via Tension_ and _Describe Drivers_ [English](http://illustrations.sociocracy30.org/img/en/process/navigate-via-tension-cheatsheet.png)/[German](http://illustrations.sociocracy30.org/img/de/process/navigate-via-tension-cheatsheet.png)
+
 ## June 4, 2018
 
 * fixed cut-off German text in the illustration for macro and meta structures
