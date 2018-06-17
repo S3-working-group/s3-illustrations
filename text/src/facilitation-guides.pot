@@ -38,6 +38,11 @@ msgstr ""
 
 #: facilitation-guides.graffle/driver-mapping-fg:0
 #: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Populate and define domains"
+msgstr "Populate and define domains"
+
+#: facilitation-guides.graffle/driver-mapping-fg:0
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
 msgid "\tquestions about the driver"
 msgstr "\tquestions about the driver"
 
@@ -186,8 +191,9 @@ msgstr ""
 "\t"
 
 #: facilitation-guides.graffle/driver-mapping-fg:0
-msgid "Populate and define domains"
-msgstr "Populate and define domains"
+#: facilitation-guides.graffle/driver-mapping-fg-print:0
+msgid "Sort & prioritize drivers "
+msgstr "Sort & prioritize drivers "
 
 #: facilitation-guides.graffle/driver-mapping-fg:0
 #: facilitation-guides.graffle/driver-mapping-fg-print:0
@@ -325,7 +331,3 @@ msgid ""
 msgstr ""
 "Cluster actors and/or drivers \n"
 "into coherent domains"
-
-#: facilitation-guides.graffle/driver-mapping-fg-print:0
-msgid "Sort & prioritize drivers "
-msgstr "Sort & prioritize drivers "

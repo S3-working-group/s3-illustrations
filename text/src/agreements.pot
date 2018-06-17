@@ -15,9 +15,8 @@ msgid "Resolve Objections"
 msgstr "Resolve Objections"
 
 #: agreements.graffle/cdm-condensed:0
-#: agreements.graffle/proposal-forming-medium:0 agreements.graffle/selection:0
-msgid "⟳"
-msgstr "⟳"
+msgid "(Consider Concerns)"
+msgstr "(Consider Concerns)"
 
 #: agreements.graffle/cdm-condensed:0
 #: agreements.graffle/proposal-forming-medium:0
@@ -29,12 +28,17 @@ msgid "🎉"
 msgstr "🎉"
 
 #: agreements.graffle/cdm-condensed:0
-msgid "Check for Objections"
-msgstr "Check for Objections"
+msgid "Present Proposal"
+msgstr "Present Proposal"
+
+#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
+msgid "Harvest Objections"
+msgstr "Harvest Objections"
 
 #: agreements.graffle/cdm-condensed:0
-msgid "(Consider Concerns)"
-msgstr "(Consider Concerns)"
+#: agreements.graffle/proposal-forming-medium:0 agreements.graffle/selection:0
+msgid "⟳"
+msgstr "⟳"
 
 #: agreements.graffle/cdm-condensed:0
 msgid "Clarifying Questions"
@@ -89,12 +93,16 @@ msgid "Information Gathering Questions"
 msgstr "Information Gathering Questions"
 
 #: agreements.graffle/proposal-forming-medium:0
-msgid "Choose Tuners"
-msgstr "Choose Tuners"
-
-#: agreements.graffle/proposal-forming-medium:0
 msgid "Questions about Driver"
 msgstr "Questions about Driver"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Select Tuners"
+msgstr "Select Tuners"
+
+#: agreements.graffle/proposal-forming-medium:0
+msgid "Collect Ideas"
+msgstr "Collect Ideas"
 
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Prioritize Considerations"
@@ -103,6 +111,10 @@ msgstr "Prioritize Considerations"
 #: agreements.graffle/proposal-forming-medium:0
 msgid "Record Considerations"
 msgstr "Record Considerations"
+
+#: agreements.graffle/resolve-objections:0
+msgid "defer"
+msgstr "defer"
 
 #: agreements.graffle/resolve-objections:0
 msgid "ask “who can resolve this?”"
@@ -171,16 +183,12 @@ msgid "re-work – send back to superset/subset circle"
 msgstr "re-work – send back to superset/subset circle"
 
 #: agreements.graffle/resolve-objections:0
-msgid ""
-"Resolve objections\n"
-"one at a time \n"
-msgstr ""
-"Resolve objections\n"
-"one at a time \n"
-
-#: agreements.graffle/resolve-objections:0
 msgid "form group to review, research, revise"
 msgstr "form group to review, research, revise"
+
+#: agreements.graffle/resolve-objections:0
+msgid "Resolve objections \n"
+msgstr "Resolve objections \n"
 
 #: agreements.graffle/resolve-objections:0
 msgid "drop the proposal"
@@ -193,6 +201,10 @@ msgid ""
 msgstr ""
 "facilitator \n"
 "amends proposal"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "amend proposal (or decide to defer/drop)"
+msgstr "amend proposal (or decide to defer/drop)"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid ""
@@ -211,20 +223,17 @@ msgid "no"
 msgstr "no"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid "resolve objections to amendment"
-msgstr "resolve objections to amendment"
-
-#: agreements.graffle/resolve-objections-process:0
 msgid "any objections to amendment?"
 msgstr "any objections to amendment?"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid "celebrate"
-msgstr "celebrate"
+#: agreements.graffle/selection:0
+msgid "Celebrate"
+msgstr "Celebrate"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid "propose amendment (or defer/start over)"
-msgstr "propose amendment (or defer/start over)"
+msgid "resolve objections to amendment"
+msgstr "resolve objections to amendment"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid ""
@@ -233,10 +242,6 @@ msgid ""
 msgstr ""
 "any more "
 "objections?"
-
-#: agreements.graffle/selection:0
-msgid "Propose a Nominee"
-msgstr "Propose a Nominee"
 
 #: agreements.graffle/selection:0
 msgid "Information Gathering"
@@ -255,16 +260,12 @@ msgid "Address and Resolve"
 msgstr "Address and Resolve"
 
 #: agreements.graffle/selection:0
-msgid "Celebrate"
-msgstr "Celebrate"
-
-#: agreements.graffle/selection:0
-msgid "Harvest Objections"
-msgstr "Harvest Objections"
-
-#: agreements.graffle/selection:0
 msgid "Record Nominations"
 msgstr "Record Nominations"
+
+#: agreements.graffle/selection:0
+msgid "Propose a Nominee"
+msgstr "Propose a Nominee"
 
 #: agreements.graffle/selection:0
 msgid "Present Role Description"

@@ -82,10 +82,6 @@ msgid "Retrospective"
 msgstr "Retrospective"
 
 #: framework.graffle/pattern-map:0
-msgid "Organizational \n"
-msgstr "Organizational \n"
-
-#: framework.graffle/pattern-map:0
 msgid "Invite Change"
 msgstr "Invite Change"
 
@@ -126,8 +122,12 @@ msgid "Planning And Review Meetings"
 msgstr "Planning And Review Meetings"
 
 #: framework.graffle/pattern-map:0
-msgid "Peer Review"
-msgstr "Peer Review"
+msgid ""
+"Describe \n"
+"Drivers"
+msgstr ""
+"Describe \n"
+"Drivers"
 
 #: framework.graffle/pattern-map:0
 msgid "Be The Change"
@@ -138,16 +138,16 @@ msgid "Adapt Patterns To Context"
 msgstr "Adapt Patterns To Context"
 
 #: framework.graffle/pattern-map:0
-msgid "Describe\n"
-msgstr "Describe\n"
-
-#: framework.graffle/pattern-map:0
 msgid "Evaluation Criteria"
 msgstr "Evaluation Criteria"
 
 #: framework.graffle/pattern-map:0
 msgid "Continuous Improvement"
 msgstr "Continuous Improvement"
+
+#: framework.graffle/pattern-map:0
+msgid "Coordinator"
+msgstr "Coordinator"
 
 #: framework.graffle/pattern-map:0
 msgid "Fractal Organization"
@@ -286,12 +286,8 @@ msgid "Sociocracy 3.0 "
 msgstr "Sociocracy 3.0 "
 
 #: framework.graffle/pattern-map:0
-msgid ""
-"Develop\n"
-"Strategy"
-msgstr ""
-"Develop\n"
-"Strategy"
+msgid "Objection"
+msgstr "Objection"
 
 #: framework.graffle/pattern-map:0
 msgid "Peer Development"
@@ -338,6 +334,10 @@ msgid "Consent Decision Making"
 msgstr "Consent Decision Making"
 
 #: framework.graffle/pattern-map:0
+msgid "Peer Review"
+msgstr "Peer Review"
+
+#: framework.graffle/pattern-map:0
 msgid "Governance Backlog"
 msgstr "Governance Backlog"
 
@@ -356,12 +356,12 @@ msgstr ""
 "Bernhard Bockelbrink, Liliana David, James Priest  http://sociocracy30.org"
 
 #: framework.graffle/pattern-map:0
-msgid "Objection"
-msgstr "Objection"
-
-#: framework.graffle/pattern-map:0
-msgid "Drivers"
-msgstr "Drivers"
+msgid ""
+"Develop\n"
+"Strategy"
+msgstr ""
+"Develop\n"
+"Strategy"
 
 #: framework.graffle/pattern-map:0
 msgid "Accountability"
@@ -490,10 +490,6 @@ msgid "consent"
 msgstr "consent"
 
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
-msgid "equivalence"
-msgstr "equivalence"
-
-#: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "empiricism"
 msgstr "empiricism"
 
@@ -512,3 +508,7 @@ msgstr "continuous improvement"
 #: framework.graffle/s3-principles:0 framework.graffle/s3-principles-plain:0
 msgid "transparency"
 msgstr "transparency"
+
+#: framework.graffle/s3-principles-plain:0
+msgid "equivalence"
+msgstr "equivalence"

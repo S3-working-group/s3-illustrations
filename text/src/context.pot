@@ -3,8 +3,76 @@ msgid ""
 msgstr ""
 
 #: context.graffle/history:0
+msgid "Quaker \n"
+msgstr "Quaker \n"
+
+#: context.graffle/history:0
+msgid ""
+"Gerard Endenburg\n"
+"(1970)"
+msgstr ""
+"Gerard Endenburg\n"
+"(1970)"
+
+#: context.graffle/history:0
+msgid "scientific method"
+msgstr "scientific method"
+
+#: context.graffle/history:0
 msgid "1.0"
 msgstr "1.0"
+
+#: context.graffle/history:0
+msgid ""
+"Kees Boeke\n"
+"(1926)"
+msgstr ""
+"Kees Boeke\n"
+"(1926)"
+
+#: context.graffle/history:0
+msgid "democracy"
+msgstr "democracy"
+
+#: context.graffle/history:0
+msgid "social ideals"
+msgstr "social ideals"
+
+#: context.graffle/history:0
+msgid ""
+"Lester Frank Ward\n"
+"(1881)"
+msgstr ""
+"Lester Frank Ward\n"
+"(1881)"
+
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "Holacracy®"
+msgstr "Holacracy®"
+
+#: context.graffle/history:0
+msgid "meeting practice"
+msgstr "meeting practice"
+
+#: context.graffle/history:0 context.graffle/sociocracy-variants:0
+msgid "sociocracy"
+msgstr "sociocracy"
+
+#: context.graffle/history:0
+msgid "engineering"
+msgstr "engineering"
+
+#: context.graffle/history:0
+msgid ""
+"Brian Robertson\n"
+"(2008)"
+msgstr ""
+"Brian Robertson\n"
+"(2008)"
+
+#: context.graffle/history:0
+msgid "cybernetics"
+msgstr "cybernetics"
 
 #: context.graffle/history:0
 msgid "3.0"
@@ -19,92 +87,20 @@ msgstr ""
 "(1851)"
 
 #: context.graffle/history:0
-msgid "engineering"
-msgstr "engineering"
-
-#: context.graffle/history:0
-msgid "cybernetics"
-msgstr "cybernetics"
-
-#: context.graffle/history:0
-msgid ""
-"Kees Boeke\n"
-"(1926)"
-msgstr ""
-"Kees Boeke\n"
-"(1926)"
-
-#: context.graffle/history:0
 msgid "2.0"
 msgstr "2.0"
 
 #: context.graffle/history:0
+msgid ""
+"Bernhard Bockelbrink\n"
+"James Priest (2015)"
+msgstr ""
+"Bernhard Bockelbrink\n"
+"James Priest (2015)"
+
+#: context.graffle/history:0
 msgid "agile & lean"
 msgstr "agile & lean"
-
-#: context.graffle/history:0
-msgid "Quaker \n"
-msgstr "Quaker \n"
-
-#: context.graffle/history:0
-msgid "democracy"
-msgstr "democracy"
-
-#: context.graffle/history:0
-msgid "social ideals"
-msgstr "social ideals"
-
-#: context.graffle/history:0
-msgid "scientific method"
-msgstr "scientific method"
-
-#: context.graffle/history:0
-msgid "Holacracy®"
-msgstr "Holacracy®"
-
-#: context.graffle/history:0
-msgid ""
-"Bernhard Bockelbrink\n"
-"James Priest (2015)"
-msgstr ""
-"Bernhard Bockelbrink\n"
-"James Priest (2015)"
-
-#: context.graffle/history:0
-msgid ""
-"Gerard Endenburg\n"
-"(1970)"
-msgstr ""
-"Gerard Endenburg\n"
-"(1970)"
-
-#: context.graffle/history:0
-msgid ""
-"Lester Frank Ward\n"
-"(1881)"
-msgstr ""
-"Lester Frank Ward\n"
-"(1881)"
-
-#: context.graffle/history:0
-msgid "meeting practice"
-msgstr "meeting practice"
-
-#: context.graffle/history:0 context.graffle/sociocracy-variants:0
-msgid "sociocracy"
-msgstr "sociocracy"
-
-#: context.graffle/history:0
-msgid ""
-"Brian Robertson\n"
-"(2008)"
-msgstr ""
-"Brian Robertson\n"
-"(2008)"
-
-#: context.graffle/sociocracy-variants:0
-msgid "SCM"
-msgstr "SCM"
 
 #: context.graffle/sociocracy-variants:0
 msgid ""

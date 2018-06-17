@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-#: circle.graffle/circle-driver:0
-msgid "driver"
-msgstr "driver"
-
 #: circle.graffle/facilitator:0 circle.graffle/rounds:0
 msgid "facilitator"
 msgstr "facilitator"
@@ -29,6 +25,10 @@ msgstr "$32.000"
 #: circle.graffle/transparent-salary:0
 msgid "$12.000"
 msgstr "$12.000"
+
+#: circle.graffle/transparent-salary:0
+msgid "$38.000"
+msgstr "$38.000"
 
 #: circle.graffle/transparent-salary:0
 msgid "$28.000"
