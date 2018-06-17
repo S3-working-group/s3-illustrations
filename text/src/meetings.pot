@@ -2,6 +2,10 @@
 msgid ""
 msgstr ""
 
+#: meetings.graffle/continuous-flow:0
+msgid "incremental delivery of value"
+msgstr "incremental delivery of value"
+
 #: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
 #: meetings.graffle/planning-review-standup:0
 msgid ""
@@ -10,15 +14,6 @@ msgid ""
 msgstr ""
 "daily\n"
 "standup"
-
-#: meetings.graffle/continuous-flow:0
-msgid "incremental delivery of value"
-msgstr "incremental delivery of value"
-
-#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
-#: meetings.graffle/retrospective:0
-msgid "governance backlog"
-msgstr "governance backlog"
 
 #: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
 #: meetings.graffle/retrospective:0
@@ -29,13 +24,22 @@ msgstr "retrospective"
 msgid "fixed interval between retrospectives"
 msgstr "fixed interval between retrospectives"
 
-#: meetings.graffle/continuous-flow:0
-msgid "continuous flow"
-msgstr "continuous flow"
+#: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
+#: meetings.graffle/retrospective:0
+msgid "governance backlog"
+msgstr "governance backlog"
 
 #: meetings.graffle/continuous-flow:0 meetings.graffle/iterations:0
 msgid "backlog"
 msgstr "backlog"
+
+#: meetings.graffle/continuous-flow:0
+msgid "continuous flow"
+msgstr "continuous flow"
+
+#: meetings.graffle/coordination-meeting:0
+msgid "Hear All Status Reports"
+msgstr "Hear All Status Reports"
 
 #: meetings.graffle/coordination-meeting:0
 #: meetings.graffle/governance-meeting:0
@@ -45,10 +49,6 @@ msgstr "Opening Round"
 #: meetings.graffle/coordination-meeting:0
 msgid "Closing Round"
 msgstr "Closing Round"
-
-#: meetings.graffle/coordination-meeting:0
-msgid "Status Reports"
-msgstr "Status Reports"
 
 #: meetings.graffle/coordination-meeting:0
 #: meetings.graffle/governance-meeting:0
@@ -73,13 +73,13 @@ msgid "Workshop/Meeting"
 msgstr "Workshop/Meeting"
 
 #: meetings.graffle/evaluate-interactions:0
+msgid "Opening"
+msgstr "Opening"
+
+#: meetings.graffle/evaluate-interactions:0
 #: meetings.graffle/governance-meeting:0
 msgid "Closing"
 msgstr "Closing"
-
-#: meetings.graffle/evaluate-interactions:0
-msgid "Opening"
-msgstr "Opening"
 
 #: meetings.graffle/governance-meeting:0
 msgid "Meeting Evaluation"
@@ -161,18 +161,18 @@ msgstr ""
 #: meetings.graffle/retrospective:0
 msgid ""
 "operational\n"
-"driver"
+"backlog"
 msgstr ""
 "operational\n"
-"driver"
+"backlog"
 
 #: meetings.graffle/retrospective:0
 msgid ""
 "operational\n"
-"backlog"
+"driver"
 msgstr ""
 "operational\n"
-"backlog"
+"driver"
 
 #: meetings.graffle/retrospective:0
 msgid "logbook"
