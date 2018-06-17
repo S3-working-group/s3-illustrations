@@ -15,7 +15,6 @@ msgstr ""
 #: collaboration-values.graffle/chosen-values:0
 #: collaboration-values.graffle/values-7principles:0
 #: collaboration-values.graffle/values-step1:0
-#: collaboration-values.graffle/values-step2:0
 #: collaboration-values.graffle/values-step3:0
 msgid "collaboration"
 msgstr "collaboration"
@@ -26,12 +25,12 @@ msgid "chosen values"
 msgstr "chosen values"
 
 #: collaboration-values.graffle/s3-organization:0
-msgid "driver"
-msgstr "driver"
-
-#: collaboration-values.graffle/s3-organization:0
 msgid "the seven principles"
 msgstr "the seven principles"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "driver"
+msgstr "driver"
 
 #: collaboration-values.graffle/s3-organization:0
 msgid "strategy"

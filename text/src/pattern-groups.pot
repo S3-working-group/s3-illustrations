@@ -15,10 +15,6 @@ msgid "Resolve Objections"
 msgstr "Resolve Objections"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Describe Drivers"
-msgstr "Describe Drivers"
-
-#: pattern-groups.graffle/group-1:0
 msgid "Proposal Forming"
 msgstr "Proposal Forming"
 
@@ -39,8 +35,12 @@ msgid "Role Selection"
 msgstr "Role Selection"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Consent Decision Making"
-msgstr "Consent Decision Making"
+msgid ""
+"Describe\n"
+"Organizational Drivers"
+msgstr ""
+"Describe\n"
+"Organizational Drivers"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Objection"
@@ -49,10 +49,6 @@ msgstr "Objection"
 #: pattern-groups.graffle/group-1:0
 msgid "Navigate Via Tension"
 msgstr "Navigate Via Tension"
-
-#: pattern-groups.graffle/group-10:0
-msgid "Open Systems"
-msgstr "Open Systems"
 
 #: pattern-groups.graffle/group-10:0
 msgid "Fractal Organization"
@@ -73,14 +69,6 @@ msgstr "Delegate Circle"
 #: pattern-groups.graffle/group-10:0
 msgid "Peach Organization"
 msgstr "Peach Organization"
-
-#: pattern-groups.graffle/group-10:0
-msgid "Open Domain"
-msgstr "Open Domain"
-
-#: pattern-groups.graffle/group-10:0
-msgid "Helping Team"
-msgstr "Helping Team"
 
 #: pattern-groups.graffle/group-10:0
 msgid "Service Organization"
@@ -146,10 +134,6 @@ msgstr "Adopt The Seven Principles"
 msgid "Bylaws"
 msgstr "Bylaws"
 
-#: pattern-groups.graffle/group-3:0
-msgid "Artful Participation"
-msgstr "Artful Participation"
-
 #: pattern-groups.graffle/group-4:0
 msgid "Intended Outcome"
 msgstr "Intended Outcome"
@@ -161,6 +145,10 @@ msgstr "Evaluation Criteria"
 #: pattern-groups.graffle/group-4:0
 msgid "Agreement"
 msgstr "Agreement"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Describe Deliverables"
+msgstr "Describe Deliverables"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Defining Agreements"
@@ -177,10 +165,6 @@ msgstr "Logbook"
 #: pattern-groups.graffle/group-4:0
 msgid "Strategy"
 msgstr "Strategy"
-
-#: pattern-groups.graffle/group-4:0
-msgid "Describe Deliverables"
-msgstr "Describe Deliverables"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Domain Description"
@@ -203,12 +187,12 @@ msgid "Focused Interactions"
 msgstr "Focused Interactions"
 
 #: pattern-groups.graffle/group-5:0
-msgid "Coordination Meeting"
-msgstr "Coordination Meeting"
-
-#: pattern-groups.graffle/group-5:0
 msgid "Daily Standup"
 msgstr "Daily Standup"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Coordination Meeting"
+msgstr "Coordination Meeting"
 
 #: pattern-groups.graffle/group-6:0
 msgid ""
@@ -227,12 +211,12 @@ msgid "Meeting Host"
 msgstr "Meeting Host"
 
 #: pattern-groups.graffle/group-6:0
-msgid "Meeting Practices"
-msgstr "Meeting Practices"
-
-#: pattern-groups.graffle/group-6:0
 msgid "Governance Backlog"
 msgstr "Governance Backlog"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Meeting Practices"
+msgstr "Meeting Practices"
 
 #: pattern-groups.graffle/group-6:0
 msgid ""
@@ -279,6 +263,10 @@ msgid "Limit Work In Progress"
 msgstr "Limit Work In Progress"
 
 #: pattern-groups.graffle/group-8:0
+msgid "Open Systems"
+msgstr "Open Systems"
+
+#: pattern-groups.graffle/group-8:0
 msgid "Role"
 msgstr "Role"
 
@@ -309,6 +297,14 @@ msgstr "Linking"
 #: pattern-groups.graffle/group-8:0
 msgid "Double Linking"
 msgstr "Double Linking"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Open Domain"
+msgstr "Open Domain"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Helping Team"
+msgstr "Helping Team"
 
 #: pattern-groups.graffle/group-9:0
 msgid "Open S3 Adoption"

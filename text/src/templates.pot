@@ -3,11 +3,6 @@ msgid ""
 msgstr ""
 
 #: templates.graffle/agreement-template:0
-#: templates.graffle/proposal-template:0
-msgid "Who is accountable?"
-msgstr "Who is accountable?"
-
-#: templates.graffle/agreement-template:0
 msgid "Description"
 msgstr "Description"
 
@@ -38,6 +33,10 @@ msgstr "Previous Versions"
 #: templates.graffle/agreement-template:0
 msgid "Title of Agreement"
 msgstr "Title of Agreement"
+
+#: templates.graffle/agreement-template:0
+msgid "Who is accountable for what?"
+msgstr "Who is accountable for what?"
 
 #: templates.graffle/agreement-template:0
 msgid "Background Information"
@@ -72,20 +71,16 @@ msgid "Minutes of Peer Review"
 msgstr "Minutes of Peer Review"
 
 #: templates.graffle/development-plan-template:0
+msgid "Current Domain Description"
+msgstr "Current Domain Description"
+
+#: templates.graffle/development-plan-template:0
 msgid "Appreciations"
 msgstr "Appreciations"
 
 #: templates.graffle/development-plan-template:0
 msgid "Development Plan"
 msgstr "Development Plan"
-
-#: templates.graffle/development-plan-template:0
-msgid "Amendments to Strategy"
-msgstr "Amendments to Strategy"
-
-#: templates.graffle/development-plan-template:0
-msgid "Current Domain Description"
-msgstr "Current Domain Description"
 
 #: templates.graffle/development-plan-template:0
 msgid "Action Items"
