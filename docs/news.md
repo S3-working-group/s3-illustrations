@@ -4,6 +4,21 @@ title: News
 
 # News and Updates
 
+## June 17, 2018
+
+* renamed illustrations to simpler and/or more descriptive names (if you use them in Markdown files, you can use `mdimg` in [mdtools](https://github.com/bboc/mdtools) to find out what you need to update):
+    - `agreements/cdm-condensed` to `agreements/consent-decision-making`
+    - `agreements/proposal-forming-medium` to `agreements/proposal-forming`
+    - `driver-domain/driver-alt` to `driver-domain/driver-short`
+    - `driver-domain/domain-primay-sub` to `driver-domain/drivers-and-domains`
+    - `process/navigate-via-tension-cheatsheet' to `navigate-describe-respond`
+* updated `driver-domain/drivers` about drivers to reflect the 4 aspects
+* retouched `driver-domain/driver-response-full` 
+* updated `process/resolve-objections` and `process/resolve-objections-process' for more clarity
+* removed `process/navigate-via-tension-slides` and `process/navigate-via-tension`
+* added section "Who is accountable for what?" to `templates/agreement-template` and `templates/proposal-template`
+* retouched illustrations and added legend to `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow`
+
 ## June 8, 2018
 
 * added cheatsheet for _Navigate Via Tension_ and _Describe Drivers_ [English](http://illustrations.sociocracy30.org/img/en/process/navigate-via-tension-cheatsheet.png)/[German](http://illustrations.sociocracy30.org/img/de/process/navigate-via-tension-cheatsheet.png)
