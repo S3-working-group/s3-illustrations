@@ -18,6 +18,7 @@ title: News
 * removed `process/navigate-via-tension-slides` and `process/navigate-via-tension`
 * added section "Who is accountable for what?" to `templates/agreement-template` and `templates/proposal-template`
 * retouched illustrations and added legend to `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow`
+* updated `framework/pattern-map` with new patterns from the June update of the practical guide
 
 ## June 8, 2018
 
