@@ -20,8 +20,8 @@ downloads:
 	zip -r docs/s3-illustrations-de.zip png/de LICENSE readme.txt
 
 crowdin:
-	crowdin --identity ~/crowdin-s3-illustrations.yaml upload sources 
-	# -b my-branch --dryrun
+	#  crowdin --identity ~/crowdin-s3-illustrations.yaml upload sources  --dryrun
+	crowdin --identity ~/crowdin-s3-illustrations.yaml upload sources -b update-2018-06
 
 extract-strings:
 	# untested
