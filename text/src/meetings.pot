@@ -47,6 +47,11 @@ msgid "Opening Round"
 msgstr "Opening Round"
 
 #: meetings.graffle/coordination-meeting:0
+#: meetings.graffle/governance-meeting:0
+msgid "Meeting Evaluation"
+msgstr "Meeting Evaluation"
+
+#: meetings.graffle/coordination-meeting:0
 msgid "Closing Round"
 msgstr "Closing Round"
 
@@ -56,17 +61,13 @@ msgid "Agenda Items"
 msgstr "Agenda Items"
 
 #: meetings.graffle/coordination-meeting:0
-msgid "Meeting Review"
-msgstr "Meeting Review"
-
-#: meetings.graffle/coordination-meeting:0
 #: meetings.graffle/governance-meeting:0
 msgid "⟳"
 msgstr "⟳"
 
 #: meetings.graffle/evaluate-interactions:0
-msgid "Evaluate Interaction"
-msgstr "Evaluate Interaction"
+msgid "Evaluate interactions, process and outcome"
+msgstr "Evaluate interactions, process and outcome"
 
 #: meetings.graffle/evaluate-interactions:0
 msgid "Workshop/Meeting"
@@ -82,16 +83,8 @@ msgid "Closing"
 msgstr "Closing"
 
 #: meetings.graffle/governance-meeting:0
-msgid "Meeting Evaluation"
-msgstr "Meeting Evaluation"
-
-#: meetings.graffle/governance-meeting:0
 msgid "Administrative Matters"
 msgstr "Administrative Matters"
-
-#: meetings.graffle/iterations:0
-msgid "iterative process"
-msgstr "iterative process"
 
 #: meetings.graffle/iterations:0
 msgid ""
@@ -120,6 +113,10 @@ msgstr ""
 #: meetings.graffle/iterations:0
 msgid "fixed  iteration length"
 msgstr "fixed  iteration length"
+
+#: meetings.graffle/iterations:0
+msgid "iterative process"
+msgstr "iterative process"
 
 #: meetings.graffle/iterations:0 meetings.graffle/planning-review-standup:0
 msgid "review"

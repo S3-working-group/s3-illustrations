@@ -3,6 +3,7 @@ msgid ""
 msgstr ""
 
 #: templates.graffle/agreement-template:0
+#: templates.graffle/proposal-template:0
 msgid "Description"
 msgstr "Description"
 
@@ -104,12 +105,12 @@ msgid "Primary Driver"
 msgstr "Primary Driver"
 
 #: templates.graffle/domain-description-template:0
-msgid "Evaluation Criteria for Peer Review"
-msgstr "Evaluation Criteria for Peer Review"
+msgid "resources, budget, permissions"
+msgstr "resources, budget, permissions"
 
 #: templates.graffle/domain-description-template:0
-msgid "resources, budget"
-msgstr "resources, budget"
+msgid "Evaluation Criteria for Peer Review"
+msgstr "Evaluation Criteria for Peer Review"
 
 #: templates.graffle/domain-description-template:0
 msgid "preferred/required skills, qualities, experience"
@@ -132,12 +133,12 @@ msgid "Name of the Domain"
 msgstr "Name of the Domain"
 
 #: templates.graffle/domain-description-template:0
-msgid "time, privileges"
-msgstr "time, privileges"
+msgid "time"
+msgstr "time"
 
 #: templates.graffle/domain-template:0
-msgid "Work Backlog"
-msgstr "Work Backlog"
+msgid "Operations Backlog"
+msgstr "Operations Backlog"
 
 #: templates.graffle/domain-template:0
 msgid "Additional Information (as valuable)"
@@ -162,10 +163,6 @@ msgstr "Metrics"
 #: templates.graffle/outcome-and-criteria:0
 msgid "Intended Outcome"
 msgstr "Intended Outcome"
-
-#: templates.graffle/proposal-template:0
-msgid "Proposal Text"
-msgstr "Proposal Text"
 
 #: templates.graffle/proposal-template:0
 msgid "Evaluation Date and/or Frequency"

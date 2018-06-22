@@ -15,12 +15,12 @@ msgid "Resolve Objections"
 msgstr "Resolve Objections"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Proposal Forming"
-msgstr "Proposal Forming"
+msgid "Co-Create Proposals"
+msgstr "Co-Create Proposals"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Evaluate Agreements"
-msgstr "Evaluate Agreements"
+msgid "Proposal Forming"
+msgstr "Proposal Forming"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Driver Mapping"
@@ -35,20 +35,24 @@ msgid "Role Selection"
 msgstr "Role Selection"
 
 #: pattern-groups.graffle/group-1:0
-msgid ""
-"Describe\n"
-"Organizational Drivers"
-msgstr ""
-"Describe\n"
-"Organizational Drivers"
-
-#: pattern-groups.graffle/group-1:0
 msgid "Objection"
 msgstr "Objection"
 
 #: pattern-groups.graffle/group-1:0
+msgid "Evaluate And Evolve Agreements"
+msgstr "Evaluate And Evolve Agreements"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Describe Organizational Drivers"
+msgstr "Describe Organizational Drivers"
+
+#: pattern-groups.graffle/group-1:0
 msgid "Navigate Via Tension"
 msgstr "Navigate Via Tension"
+
+#: pattern-groups.graffle/group-10:0
+msgid "Service Circle"
+msgstr "Service Circle"
 
 #: pattern-groups.graffle/group-10:0
 msgid "Fractal Organization"
@@ -74,10 +78,6 @@ msgstr "Peach Organization"
 msgid "Service Organization"
 msgstr "Service Organization"
 
-#: pattern-groups.graffle/group-10:0
-msgid "Service Circle"
-msgstr "Service Circle"
-
 #: pattern-groups.graffle/group-2:0
 msgid "Development Plan"
 msgstr "Development Plan"
@@ -101,10 +101,6 @@ msgstr "Ask For Help"
 #: pattern-groups.graffle/group-3:0
 msgid "Governance Facilitator"
 msgstr "Governance Facilitator"
-
-#: pattern-groups.graffle/group-3:0
-msgid "Enablers Of Co-Creation"
-msgstr "Enablers Of Co-Creation"
 
 #: pattern-groups.graffle/group-3:0
 msgid "Contracting And Accountability"
@@ -134,13 +130,17 @@ msgstr "Adopt The Seven Principles"
 msgid "Bylaws"
 msgstr "Bylaws"
 
-#: pattern-groups.graffle/group-4:0
-msgid "Intended Outcome"
-msgstr "Intended Outcome"
+#: pattern-groups.graffle/group-3:0
+msgid "Artful Participation"
+msgstr "Artful Participation"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Evaluation Criteria"
 msgstr "Evaluation Criteria"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Clarify Intended Outcome"
+msgstr "Clarify Intended Outcome"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Agreement"
@@ -211,12 +211,20 @@ msgid "Meeting Host"
 msgstr "Meeting Host"
 
 #: pattern-groups.graffle/group-6:0
-msgid "Governance Backlog"
-msgstr "Governance Backlog"
+msgid "Check In"
+msgstr "Check In"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Prepare For Meetings"
+msgstr "Prepare For Meetings"
 
 #: pattern-groups.graffle/group-6:0
 msgid "Meeting Practices"
 msgstr "Meeting Practices"
+
+#: pattern-groups.graffle/group-6:0
+msgid "Governance Backlog"
+msgstr "Governance Backlog"
 
 #: pattern-groups.graffle/group-6:0
 msgid ""
@@ -225,6 +233,10 @@ msgid ""
 msgstr ""
 "Facilitate\n"
 "Meetings"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Timebox Activities"
+msgstr "Timebox Activities"
 
 #: pattern-groups.graffle/group-7:0
 msgid "Backlog"
@@ -307,10 +319,6 @@ msgid "Helping Team"
 msgstr "Helping Team"
 
 #: pattern-groups.graffle/group-9:0
-msgid "Open S3 Adoption"
-msgstr "Open S3 Adoption"
-
-#: pattern-groups.graffle/group-9:0
 msgid "CI Of Work Process"
 msgstr "CI Of Work Process"
 
@@ -325,6 +333,14 @@ msgstr "Adapt Patterns To Context"
 #: pattern-groups.graffle/group-9:0
 msgid "Pull-System For Org. Change"
 msgstr "Pull-System For Org. Change"
+
+#: pattern-groups.graffle/group-9:0
+msgid ""
+"Open Space\n"
+"For Change"
+msgstr ""
+"Open Space\n"
+"For Change"
 
 #: pattern-groups.graffle/group-9:0
 msgid "Invite Change"

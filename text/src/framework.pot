@@ -70,6 +70,10 @@ msgid "Daily Standup"
 msgstr "Daily Standup"
 
 #: framework.graffle/pattern-map:0
+msgid "Co-Create Proposals"
+msgstr "Co-Create Proposals"
+
+#: framework.graffle/pattern-map:0
 msgid "Meeting Host"
 msgstr "Meeting Host"
 
@@ -78,12 +82,20 @@ msgid "Governance Facilitator"
 msgstr "Governance Facilitator"
 
 #: framework.graffle/pattern-map:0
+msgid ""
+"Open Space\n"
+"For Change"
+msgstr ""
+"Open Space\n"
+"For Change"
+
+#: framework.graffle/pattern-map:0
 msgid "Retrospective"
 msgstr "Retrospective"
 
 #: framework.graffle/pattern-map:0
-msgid "Organizational \n"
-msgstr "Organizational \n"
+msgid "Timebox Activities"
+msgstr "Timebox Activities"
 
 #: framework.graffle/pattern-map:0
 msgid "Invite Change"
@@ -98,12 +110,8 @@ msgid "Development Plan"
 msgstr "Development Plan"
 
 #: framework.graffle/pattern-map:0
-msgid "Open S3 Adoption"
-msgstr "Open S3 Adoption"
-
-#: framework.graffle/pattern-map:0
-msgid "Intended Outcome"
-msgstr "Intended Outcome"
+msgid "Service Circle"
+msgstr "Service Circle"
 
 #: framework.graffle/pattern-map:0
 msgid ""
@@ -138,16 +146,16 @@ msgid "Adapt Patterns To Context"
 msgstr "Adapt Patterns To Context"
 
 #: framework.graffle/pattern-map:0
-msgid "Describe\n"
-msgstr "Describe\n"
-
-#: framework.graffle/pattern-map:0
 msgid "Evaluation Criteria"
 msgstr "Evaluation Criteria"
 
 #: framework.graffle/pattern-map:0
 msgid "Continuous Improvement"
 msgstr "Continuous Improvement"
+
+#: framework.graffle/pattern-map:0
+msgid "Coordinator"
+msgstr "Coordinator"
 
 #: framework.graffle/pattern-map:0
 msgid "Fractal Organization"
@@ -158,16 +166,20 @@ msgid "Governance Meeting"
 msgstr "Governance Meeting"
 
 #: framework.graffle/pattern-map:0
-msgid "Rounds"
-msgstr "Rounds"
-
-#: framework.graffle/pattern-map:0
 msgid "Focused Interactions"
 msgstr "Focused Interactions"
 
 #: framework.graffle/pattern-map:0
 msgid "Empiricism"
 msgstr "Empiricism"
+
+#: framework.graffle/pattern-map:0
+msgid "Clarify Intended Outcome"
+msgstr "Clarify Intended Outcome"
+
+#: framework.graffle/pattern-map:0
+msgid "Check In"
+msgstr "Check In"
 
 #: framework.graffle/pattern-map:0
 msgid "Enablers Of Co-Creation"
@@ -206,6 +218,10 @@ msgstr ""
 "Domains"
 
 #: framework.graffle/pattern-map:0
+msgid "Prepare For Meetings"
+msgstr "Prepare For Meetings"
+
+#: framework.graffle/pattern-map:0
 msgid "Visualize Work"
 msgstr "Visualize Work"
 
@@ -226,8 +242,16 @@ msgid "Pull-System For Work"
 msgstr "Pull-System For Work"
 
 #: framework.graffle/pattern-map:0
-msgid "Agreement"
-msgstr "Agreement"
+msgid ""
+"A Practical Guide \n"
+"For Evolving Agile and Resilient Organizations"
+msgstr ""
+"A Practical Guide \n"
+"For Evolving Agile and Resilient Organizations"
+
+#: framework.graffle/pattern-map:0
+msgid "Building Organizations"
+msgstr "Building Organizations"
 
 #: framework.graffle/pattern-map:0
 msgid "Meeting Practices"
@@ -246,10 +270,6 @@ msgid "Consent"
 msgstr "Consent"
 
 #: framework.graffle/pattern-map:0
-msgid "Building Organizations"
-msgstr "Building Organizations"
-
-#: framework.graffle/pattern-map:0
 msgid "Linking"
 msgstr "Linking"
 
@@ -262,16 +282,12 @@ msgid "Breaking Agreements"
 msgstr "Breaking Agreements"
 
 #: framework.graffle/pattern-map:0
-msgid "Coordination Meeting"
-msgstr "Coordination Meeting"
+msgid "Describe Deliverables"
+msgstr "Describe Deliverables"
 
 #: framework.graffle/pattern-map:0
 msgid "Delegate Circle"
 msgstr "Delegate Circle"
-
-#: framework.graffle/pattern-map:0
-msgid "Evaluate Agreements"
-msgstr "Evaluate Agreements"
 
 #: framework.graffle/pattern-map:0
 msgid "Transparent Salary"
@@ -298,24 +314,12 @@ msgid "Peer Development"
 msgstr "Peer Development"
 
 #: framework.graffle/pattern-map:0
-msgid ""
-"Describe "
-"Deliverables"
-msgstr ""
-"Describe "
-"Deliverables"
-
-#: framework.graffle/pattern-map:0
 msgid "Peach Organization"
 msgstr "Peach Organization"
 
 #: framework.graffle/pattern-map:0
 msgid "Open Domain"
 msgstr "Open Domain"
-
-#: framework.graffle/pattern-map:0
-msgid "Driver Mapping"
-msgstr "Driver Mapping"
 
 #: framework.graffle/pattern-map:0
 msgid "Logbook Keeper"
@@ -328,6 +332,14 @@ msgstr "Respond to Organizational Drivers"
 #: framework.graffle/pattern-map:0
 msgid "Role Selection"
 msgstr "Role Selection"
+
+#: framework.graffle/pattern-map:0
+msgid ""
+"Driver \n"
+"Mapping"
+msgstr ""
+"Driver \n"
+"Mapping"
 
 #: framework.graffle/pattern-map:0
 msgid "Logbook"
@@ -360,10 +372,6 @@ msgid "Objection"
 msgstr "Objection"
 
 #: framework.graffle/pattern-map:0
-msgid "Drivers"
-msgstr "Drivers"
-
-#: framework.graffle/pattern-map:0
 msgid "Accountability"
 msgstr "Accountability"
 
@@ -380,6 +388,10 @@ msgid "Adopt The Seven Principles"
 msgstr "Adopt The Seven Principles"
 
 #: framework.graffle/pattern-map:0
+msgid "Bylaws"
+msgstr "Bylaws"
+
+#: framework.graffle/pattern-map:0
 msgid "Align Flow"
 msgstr "Align Flow"
 
@@ -388,16 +400,20 @@ msgid "Artful Participation"
 msgstr "Artful Participation"
 
 #: framework.graffle/pattern-map:0
-msgid "Bylaws"
-msgstr "Bylaws"
+msgid "Coordination Meeting"
+msgstr "Coordination Meeting"
 
 #: framework.graffle/pattern-map:0
-msgid ""
-"A Practical Guide For Evolving \n"
-"Agile and Resilient Organizations"
-msgstr ""
-"A Practical Guide For Evolving \n"
-"Agile and Resilient Organizations"
+msgid "Agreement"
+msgstr "Agreement"
+
+#: framework.graffle/pattern-map:0
+msgid "Evaluate And Evolve Agreements"
+msgstr "Evaluate And Evolve Agreements"
+
+#: framework.graffle/pattern-map:0
+msgid "Describe Organizational Drivers"
+msgstr "Describe Organizational Drivers"
 
 #: framework.graffle/pattern-map:0
 msgid "Service Organization"
@@ -408,16 +424,12 @@ msgid "Transparency"
 msgstr "Transparency"
 
 #: framework.graffle/pattern-map:0
-msgid "Navigate Via Tension"
-msgstr "Navigate Via Tension"
-
-#: framework.graffle/pattern-map:0
 msgid "Limit Work In Progress"
 msgstr "Limit Work In Progress"
 
 #: framework.graffle/pattern-map:0
-msgid "Service Circle"
-msgstr "Service Circle"
+msgid "Rounds"
+msgstr "Rounds"
 
 #: framework.graffle/pattern-map:0
 msgid ""

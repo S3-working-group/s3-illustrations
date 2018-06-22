@@ -2,20 +2,6 @@
 msgid ""
 msgstr ""
 
-#: driver-domain.graffle/domain-primay-sub:0
-#: driver-domain.graffle/driver-response-full:0
-#: driver-domain.graffle/driver-strategy-agreements-domain:0
-msgid "domain"
-msgstr "domain"
-
-#: driver-domain.graffle/domain-primay-sub:0
-msgid "primary driver"
-msgstr "primary driver"
-
-#: driver-domain.graffle/domain-primay-sub:0
-msgid "subdriver"
-msgstr "subdriver"
-
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "organisation"
 msgstr "organisation"
@@ -25,40 +11,54 @@ msgid "subdomain"
 msgstr "subdomain"
 
 #: driver-domain.graffle/domains-in-organizations:0
-msgid "domain B"
-msgstr "domain B"
-
-#: driver-domain.graffle/domains-in-organizations:0
 msgid "domain A"
 msgstr "domain A"
+
+#: driver-domain.graffle/domains-in-organizations:0
+msgid "domain B"
+msgstr "domain B"
 
 #: driver-domain.graffle/domains-in-organizations:0
 msgid "domain C"
 msgstr "domain C"
 
-#: driver-domain.graffle/driver:0 driver-domain.graffle/driver-alt:0
-msgid "needs"
-msgstr "needs"
+#: driver-domain.graffle/driver:0
+msgid "Impact"
+msgstr "Impact"
 
-#: driver-domain.graffle/driver:0 driver-domain.graffle/driver-response:0
+#: driver-domain.graffle/driver:0
+msgid "Driver"
+msgstr "Driver"
+
+#: driver-domain.graffle/driver:0
+msgid "Effect"
+msgstr "Effect"
+
+#: driver-domain.graffle/driver:0
+msgid "Situation"
+msgstr "Situation"
+
+#: driver-domain.graffle/driver:0
+msgid "Need"
+msgstr "Need"
+
+#: driver-domain.graffle/driver-response:0
 #: driver-domain.graffle/driver-response-full:0
 #: driver-domain.graffle/driver-strategy-agreements-domain:0
 #: driver-domain.graffle/tension-driver-response:0
 msgid "driver"
 msgstr "driver"
 
-#: driver-domain.graffle/driver:0
-msgid "context"
-msgstr "context"
-
-#: driver-domain.graffle/driver-alt:0
-msgid "observations, facts"
-msgstr "observations, facts"
-
 #: driver-domain.graffle/driver-response:0
 #: driver-domain.graffle/tension-driver-response:0
 msgid "response"
 msgstr "response"
+
+#: driver-domain.graffle/driver-response-full:0
+#: driver-domain.graffle/driver-strategy-agreements-domain:0
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "domain"
+msgstr "domain"
 
 #: driver-domain.graffle/driver-response-full:0
 msgid "group"
@@ -79,9 +79,25 @@ msgstr "agreement"
 msgid "organization"
 msgstr "organization"
 
+#: driver-domain.graffle/driver-short:0
+msgid "needs"
+msgstr "needs"
+
+#: driver-domain.graffle/driver-short:0
+msgid "observations, facts"
+msgstr "observations, facts"
+
 #: driver-domain.graffle/driver-strategy-agreements-domain:0
 msgid "strategy"
 msgstr "strategy"
+
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "primary driver"
+msgstr "primary driver"
+
+#: driver-domain.graffle/drivers-and-domains:0
+msgid "subdriver"
+msgstr "subdriver"
 
 #: driver-domain.graffle/nested-domains:0
 msgid "circle"
