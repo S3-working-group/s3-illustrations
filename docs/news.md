@@ -10,15 +10,17 @@ title: News
     - `agreements/cdm-condensed` to `agreements/consent-decision-making`
     - `agreements/proposal-forming-medium` to `agreements/proposal-forming`
     - `driver-domain/driver-alt` to `driver-domain/driver-short`
-    - `driver-domain/domain-primay-sub` to `driver-domain/drivers-and-domains`
+    - `driver-domain/domain-primray-sub` to `driver-domain/drivers-and-domains`
     - `process/navigate-via-tension-cheatsheet' to `navigate-describe-respond`
 * updated `driver-domain/drivers` about drivers to reflect the 4 aspects
 * retouched `driver-domain/driver-response-full` 
-* updated `process/resolve-objections` and `process/resolve-objections-process' for more clarity
-* removed `process/navigate-via-tension-slides` and `process/navigate-via-tension`
-* added section "Who is accountable for what?" to `templates/agreement-template` and `templates/proposal-template`
+* updated `process/resolve-objections` and `process/resolve-objections-process` for more clarity
+ f* removed `process/navigate-via-tension-slides` and `process/navigate-via-tension`
+* updated `templates/agreement-template` and `templates/proposal-template`
 * retouched illustrations and added legend to `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow`
 * updated `framework/pattern-map` with new patterns from the June update of the practical guide
+* updated `meetings/evaluate-interactions` and `meetings/coordination-meeting`
+* exported all illustrations with OmniGraffle 7.2 (slight changes in rendering of fonts and edges)
 
 ## June 8, 2018
 
