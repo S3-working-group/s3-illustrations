@@ -4,20 +4,16 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30-illustrations\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /text/src/templates.pot\n"
+"X-Crowdin-File: /update-2018-06/text/src/templates.pot\n"
 "Project-Id-Version: sociocracy-30-illustrations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+"PO-Revision-Date: 2018-06-22T17:31:42+0000\n"
 
 #: templates.graffle/agreement-template:0
 #: templates.graffle/proposal-template:0
-msgid "Who is accountable?"
-msgstr "Verantwortliche(r)"
-
-#: templates.graffle/agreement-template:0
 msgid "Description"
 msgstr "Beschreibung"
 
@@ -50,6 +46,10 @@ msgid "Title of Agreement"
 msgstr "Name der Vereinbarung"
 
 #: templates.graffle/agreement-template:0
+msgid "Who is accountable for what?"
+msgstr "Verantwortungsbereiche"
+
+#: templates.graffle/agreement-template:0
 msgid "Background Information"
 msgstr "Hintergrundinformationen"
 
@@ -79,20 +79,16 @@ msgid "Minutes of Peer Review"
 msgstr "Protokoll Entwicklungsgespräch"
 
 #: templates.graffle/development-plan-template:0
+msgid "Current Domain Description"
+msgstr "Aktuelle Domänenbeschreibung"
+
+#: templates.graffle/development-plan-template:0
 msgid "Appreciations"
 msgstr "Würdigungen"
 
 #: templates.graffle/development-plan-template:0
 msgid "Development Plan"
 msgstr "Entwicklungsplan"
-
-#: templates.graffle/development-plan-template:0
-msgid "Amendments to Strategy"
-msgstr "Anpassung der Strategie"
-
-#: templates.graffle/development-plan-template:0
-msgid "Current Domain Description"
-msgstr "Aktuelle Domänenbeschreibung"
 
 #: templates.graffle/development-plan-template:0
 msgid "Action Items"
@@ -113,12 +109,12 @@ msgid "Primary Driver"
 msgstr "Primärtreiber"
 
 #: templates.graffle/domain-description-template:0
-msgid "Evaluation Criteria for Peer Review"
-msgstr "Bewertungskriterien für Entwicklungsgespräche"
+msgid "resources, budget, permissions"
+msgstr "Ressourcen, Budget, Berechtigungen"
 
 #: templates.graffle/domain-description-template:0
-msgid "resources, budget"
-msgstr "Ressourcen, Budget"
+msgid "Evaluation Criteria for Peer Review"
+msgstr "Bewertungskriterien für Entwicklungsgespräche"
 
 #: templates.graffle/domain-description-template:0
 msgid "preferred/required skills, qualities, experience"
@@ -141,11 +137,11 @@ msgid "Name of the Domain"
 msgstr "Name der Domäne"
 
 #: templates.graffle/domain-description-template:0
-msgid "time, privileges"
-msgstr "Zeit, Privilegien"
+msgid "time"
+msgstr "Zeit"
 
 #: templates.graffle/domain-template:0
-msgid "Work Backlog"
+msgid "Operations Backlog"
 msgstr "Arbeits-Backlog"
 
 #: templates.graffle/domain-template:0
@@ -171,10 +167,6 @@ msgstr "Metriken"
 #: templates.graffle/outcome-and-criteria:0
 msgid "Intended Outcome"
 msgstr "angestrebtes Ergebnis"
-
-#: templates.graffle/proposal-template:0
-msgid "Proposal Text"
-msgstr "Text des Vorschlags"
 
 #: templates.graffle/proposal-template:0
 msgid "Evaluation Date and/or Frequency"
