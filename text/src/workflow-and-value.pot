@@ -8,6 +8,10 @@ msgid "flow of value"
 msgstr "flow of value"
 
 #: workflow-and-value.graffle/align-flow:0
+msgid "teams or individuals"
+msgstr "teams or individuals"
+
+#: workflow-and-value.graffle/align-flow:0
 msgid "not aligned"
 msgstr "not aligned"
 
@@ -19,13 +23,17 @@ msgstr "flow of information"
 msgid "aligned"
 msgstr "aligned"
 
-#: workflow-and-value.graffle/card:0
-msgid "★★"
-msgstr "★★"
+#: workflow-and-value.graffle/align-flow:0
+msgid "work item"
+msgstr "work item"
 
 #: workflow-and-value.graffle/card:0
 msgid "due: 1.4.2017"
 msgstr "due: 1.4.2017"
+
+#: workflow-and-value.graffle/card:0
+msgid "★★"
+msgstr "★★"
 
 #: workflow-and-value.graffle/card:0
 msgid ""
@@ -34,10 +42,6 @@ msgid ""
 msgstr ""
 "Update the fiddly thing so it doesn’t not break when somebody looks at it "
 "sideways."
-
-#: workflow-and-value.graffle/card:0
-msgid "30.3.2017"
-msgstr "30.3.2017"
 
 #: workflow-and-value.graffle/card:0
 msgid "#37"
@@ -120,10 +124,6 @@ msgid "questions"
 msgstr "questions"
 
 #: workflow-and-value.graffle/support:0
-msgid "get client feedback"
-msgstr "get client feedback"
-
-#: workflow-and-value.graffle/support:0
 msgid "confirm solution"
 msgstr "confirm solution"
 
@@ -132,8 +132,8 @@ msgid "problems"
 msgstr "problems"
 
 #: workflow-and-value.graffle/support:0
-msgid "important"
-msgstr "important"
+msgid "get client feedback"
+msgstr "get client feedback"
 
 #: workflow-and-value.graffle/support:0
 msgid "hold: requires support contract"
@@ -224,6 +224,10 @@ msgid "test"
 msgstr "test"
 
 #: workflow-and-value.graffle/wip-and-value:0
+msgid "produce"
+msgstr "produce"
+
+#: workflow-and-value.graffle/wip-and-value:0
 msgid "deliver"
 msgstr "deliver"
 
@@ -234,7 +238,3 @@ msgstr "WIP Circle A"
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "order"
 msgstr "order"
-
-#: workflow-and-value.graffle/wip-and-value:0
-msgid "produce"
-msgstr "produce"

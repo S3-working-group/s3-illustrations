@@ -8,17 +8,17 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [Back](index-en.html)
 
-## cdm-condensed.png
+## consent-decision-making.png
 
-[![](/img/en/agreements/cdm-condensed.png)](/img/en/agreements/cdm-condensed.png)
+[![](/img/en/agreements/consent-decision-making.png)](/img/en/agreements/consent-decision-making.png)
 
 ## evaluate-agreements.png
 
 [![](/img/en/agreements/evaluate-agreements.png)](/img/en/agreements/evaluate-agreements.png)
 
-## proposal-forming-medium.png
+## proposal-forming.png
 
-[![](/img/en/agreements/proposal-forming-medium.png)](/img/en/agreements/proposal-forming-medium.png)
+[![](/img/en/agreements/proposal-forming.png)](/img/en/agreements/proposal-forming.png)
 
 ## resolve-objections-process.png
 

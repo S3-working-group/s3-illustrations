@@ -2,49 +2,45 @@
 msgid ""
 msgstr ""
 
-#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/consent-decision-making:0
 msgid "Celebrate Agreement"
 msgstr "Celebrate Agreement"
 
-#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/consent-decision-making:0
 msgid "Brief Response"
 msgstr "Brief Response"
 
-#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/consent-decision-making:0
 msgid "Resolve Objections"
 msgstr "Resolve Objections"
 
-#: agreements.graffle/cdm-condensed:0
-msgid "(Consider Concerns)"
-msgstr "(Consider Concerns)"
-
-#: agreements.graffle/cdm-condensed:0
-#: agreements.graffle/proposal-forming-medium:0
-msgid "Consent to Driver"
-msgstr "Consent to Driver"
-
-#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
-msgid "🎉"
-msgstr "🎉"
-
-#: agreements.graffle/cdm-condensed:0
-msgid "Present Proposal"
-msgstr "Present Proposal"
-
-#: agreements.graffle/cdm-condensed:0 agreements.graffle/selection:0
-msgid "Harvest Objections"
-msgstr "Harvest Objections"
-
-#: agreements.graffle/cdm-condensed:0
-#: agreements.graffle/proposal-forming-medium:0 agreements.graffle/selection:0
+#: agreements.graffle/consent-decision-making:0
+#: agreements.graffle/proposal-forming:0 agreements.graffle/selection:0
 msgid "⟳"
 msgstr "⟳"
 
-#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/consent-decision-making:0
+#: agreements.graffle/proposal-forming:0
+msgid "Consent to Driver"
+msgstr "Consent to Driver"
+
+#: agreements.graffle/consent-decision-making:0 agreements.graffle/selection:0
+msgid "🎉"
+msgstr "🎉"
+
+#: agreements.graffle/consent-decision-making:0 agreements.graffle/selection:0
+msgid "Check for Objections"
+msgstr "Check for Objections"
+
+#: agreements.graffle/consent-decision-making:0
+msgid "(Consider Concerns)"
+msgstr "(Consider Concerns)"
+
+#: agreements.graffle/consent-decision-making:0
 msgid "Clarifying Questions"
 msgstr "Clarifying Questions"
 
-#: agreements.graffle/cdm-condensed:0
+#: agreements.graffle/consent-decision-making:0
 msgid "Present Driver"
 msgstr "Present Driver"
 
@@ -61,8 +57,8 @@ msgid "follow-up"
 msgstr "follow-up"
 
 #: agreements.graffle/evaluate-agreements:0
-msgid "update agreement"
-msgstr "update agreement"
+msgid "evolve agreement"
+msgstr "evolve agreement"
 
 #: agreements.graffle/evaluate-agreements:0
 msgid "review agreement"
@@ -84,37 +80,29 @@ msgstr ""
 msgid "preparation"
 msgstr "preparation"
 
-#: agreements.graffle/proposal-forming-medium:0
+#: agreements.graffle/proposal-forming:0
 msgid "Design Proposal(s)"
 msgstr "Design Proposal(s)"
 
-#: agreements.graffle/proposal-forming-medium:0
+#: agreements.graffle/proposal-forming:0
 msgid "Information Gathering Questions"
 msgstr "Information Gathering Questions"
 
-#: agreements.graffle/proposal-forming-medium:0
+#: agreements.graffle/proposal-forming:0
+msgid "Choose Tuners"
+msgstr "Choose Tuners"
+
+#: agreements.graffle/proposal-forming:0
 msgid "Questions about Driver"
 msgstr "Questions about Driver"
 
-#: agreements.graffle/proposal-forming-medium:0
-msgid "Select Tuners"
-msgstr "Select Tuners"
-
-#: agreements.graffle/proposal-forming-medium:0
-msgid "Collect Ideas"
-msgstr "Collect Ideas"
-
-#: agreements.graffle/proposal-forming-medium:0
+#: agreements.graffle/proposal-forming:0
 msgid "Prioritize Considerations"
 msgstr "Prioritize Considerations"
 
-#: agreements.graffle/proposal-forming-medium:0
+#: agreements.graffle/proposal-forming:0
 msgid "Record Considerations"
 msgstr "Record Considerations"
-
-#: agreements.graffle/resolve-objections:0
-msgid "defer"
-msgstr "defer"
 
 #: agreements.graffle/resolve-objections:0
 msgid "ask “who can resolve this?”"
@@ -147,6 +135,10 @@ msgstr ""
 "(repeat until resolved)"
 
 #: agreements.graffle/resolve-objections:0
+msgid "co-create a new proposal"
+msgstr "co-create a new proposal"
+
+#: agreements.graffle/resolve-objections:0
 msgid "individual"
 msgstr "individual"
 
@@ -171,10 +163,6 @@ msgstr ""
 "you solve this?”"
 
 #: agreements.graffle/resolve-objections:0
-msgid "refer driver to proposal forming"
-msgstr "refer driver to proposal forming"
-
-#: agreements.graffle/resolve-objections:0
 msgid "timeboxed group discussion"
 msgstr "timeboxed group discussion"
 
@@ -183,12 +171,16 @@ msgid "re-work – send back to superset/subset circle"
 msgstr "re-work – send back to superset/subset circle"
 
 #: agreements.graffle/resolve-objections:0
-msgid "form group to review, research, revise"
-msgstr "form group to review, research, revise"
+msgid ""
+"Resolve objections\n"
+"one at a time \n"
+msgstr ""
+"Resolve objections\n"
+"one at a time \n"
 
 #: agreements.graffle/resolve-objections:0
-msgid "Resolve objections \n"
-msgstr "Resolve objections \n"
+msgid "form group to review, research, revise"
+msgstr "form group to review, research, revise"
 
 #: agreements.graffle/resolve-objections:0
 msgid "drop the proposal"
@@ -203,45 +195,80 @@ msgstr ""
 "amends proposal"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid "amend proposal (or decide to defer/drop)"
-msgstr "amend proposal (or decide to defer/drop)"
+msgid "Resolve Objections To Amendment Of Amendment"
+msgstr "Resolve Objections To Amendment Of Amendment"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid ""
-"hear and qualify  "
-"one objection"
-msgstr ""
-"hear and qualify  "
-"one objection"
+msgid "Any objections to amendment of amendment?"
+msgstr "Any objections to amendment of amendment?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Propose amendment (or defer/start over)"
+msgstr "Propose amendment (or defer/start over)"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Resolve Objections To Amendment"
+msgstr "Resolve Objections To Amendment"
 
 #: agreements.graffle/resolve-objections-process:0
 msgid "yes"
 msgstr "yes"
 
 #: agreements.graffle/resolve-objections-process:0
+msgid "…"
+msgstr "…"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid ""
+"Any more "
+"objections to amendment?"
+msgstr ""
+"Any more "
+"objections to amendment?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Hear and qualify one objection"
+msgstr "Hear and qualify one objection"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Any objections to amendment?"
+msgstr "Any objections to amendment?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "Celebrate!"
+msgstr "Celebrate!"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid "A process for resolving objections"
+msgstr "A process for resolving objections"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid ""
+"Any more "
+"objections?"
+msgstr ""
+"Any more "
+"objections?"
+
+#: agreements.graffle/resolve-objections-process:0
+msgid ""
+"Propose amendment\n"
+"to  amendment"
+msgstr ""
+"Propose amendment\n"
+"to  amendment"
+
+#: agreements.graffle/resolve-objections-process:0
 msgid "no"
 msgstr "no"
 
 #: agreements.graffle/resolve-objections-process:0
-msgid "any objections to amendment?"
-msgstr "any objections to amendment?"
-
-#: agreements.graffle/resolve-objections-process:0
-#: agreements.graffle/selection:0
-msgid "Celebrate"
-msgstr "Celebrate"
-
-#: agreements.graffle/resolve-objections-process:0
-msgid "resolve objections to amendment"
-msgstr "resolve objections to amendment"
-
-#: agreements.graffle/resolve-objections-process:0
 msgid ""
-"any more "
-"objections?"
+"Hear and qualify  "
+"one objection"
 msgstr ""
-"any more "
-"objections?"
+"Hear and qualify  "
+"one objection"
 
 #: agreements.graffle/selection:0
 msgid "Information Gathering"
@@ -258,6 +285,10 @@ msgstr "Reasons for Nominations"
 #: agreements.graffle/selection:0
 msgid "Address and Resolve"
 msgstr "Address and Resolve"
+
+#: agreements.graffle/selection:0
+msgid "Celebrate"
+msgstr "Celebrate"
 
 #: agreements.graffle/selection:0
 msgid "Record Nominations"

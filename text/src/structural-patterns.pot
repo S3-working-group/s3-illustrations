@@ -50,6 +50,15 @@ msgstr "domain C"
 msgid "domain B"
 msgstr "domain B"
 
+#: structural-patterns.graffle/helping-team:0
+msgid "helping team"
+msgstr "helping team"
+
+#: structural-patterns.graffle/helping-team:0
+#: structural-patterns.graffle/open-domain:0
+msgid "delegator"
+msgstr "delegator"
+
 #: structural-patterns.graffle/macro-and-meta-combined:0
 msgid ""
 "service \n"
@@ -78,9 +87,9 @@ msgstr ""
 msgid "fractal organization"
 msgstr "fractal organization"
 
-#: structural-patterns.graffle/service-organization-text:0
-msgid "representative of … "
-msgstr "representative of … "
+#: structural-patterns.graffle/open-domain:0
+msgid "open domain"
+msgstr "open domain"
 
 #: structural-patterns.graffle/service-organization-text:0
 msgid ""

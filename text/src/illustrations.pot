@@ -4,21 +4,17 @@ msgstr ""
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
 #: illustrations.graffle/balance-autonomy-collaboration-alt:0
-msgid "collaboration"
-msgstr "collaboration"
+msgid "autonomy"
+msgstr "autonomy"
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
 #: illustrations.graffle/balance-autonomy-collaboration-alt:0
-msgid "autonomy"
-msgstr "autonomy"
+msgid "collaboration"
+msgstr "collaboration"
 
 #: illustrations.graffle/balance-equivalence-effectiveness:0
 msgid "equivalence"
 msgstr "equivalence"
-
-#: illustrations.graffle/balance-equivalence-effectiveness:0
-msgid "effectiveness"
-msgstr "effectiveness"
 
 #: illustrations.graffle/logbook:0
 msgid "Logbook"

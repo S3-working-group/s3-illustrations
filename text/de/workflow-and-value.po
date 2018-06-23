@@ -4,18 +4,22 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30-illustrations\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /text/src/workflow-and-value.pot\n"
+"X-Crowdin-File: /update-2018-06/text/src/workflow-and-value.pot\n"
 "Project-Id-Version: sociocracy-30-illustrations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+"PO-Revision-Date: 2018-06-22T17:31:42+0000\n"
 
 #: workflow-and-value.graffle/align-flow:0
 #: workflow-and-value.graffle/types-of-flow:0
 msgid "flow of value"
 msgstr "Wertfluss"
+
+#: workflow-and-value.graffle/align-flow:0
+msgid "teams or individuals"
+msgstr "Organisationseinheit"
 
 #: workflow-and-value.graffle/align-flow:0
 msgid "not aligned"
@@ -30,21 +34,21 @@ msgstr "Informationsfluss"
 msgid "aligned"
 msgstr "angeglichen"
 
-#: workflow-and-value.graffle/card:0
-msgid "★★"
-msgstr "★★"
+#: workflow-and-value.graffle/align-flow:0
+msgid "work item"
+msgstr "Work Items"
 
 #: workflow-and-value.graffle/card:0
 msgid "due: 1.4.2017"
 msgstr "fällig: 1.4.2017"
 
 #: workflow-and-value.graffle/card:0
-msgid "Update the fiddly thing so it doesn’t not break when somebody looks at it sideways."
-msgstr "Das frickelige Ding befestigen, damit es nicht zerbricht, wenn es jemand schief ansieht."
+msgid "★★"
+msgstr "★★"
 
 #: workflow-and-value.graffle/card:0
-msgid "30.3.2017"
-msgstr "30.3.2017"
+msgid "Update the fiddly thing so it doesn’t not break when somebody looks at it sideways."
+msgstr "Das frickelige Ding befestigen, damit es nicht zerbricht, wenn es jemand schief ansieht."
 
 #: workflow-and-value.graffle/card:0
 msgid "#37"
@@ -125,10 +129,6 @@ msgid "questions"
 msgstr "Fragen"
 
 #: workflow-and-value.graffle/support:0
-msgid "get client feedback"
-msgstr "Kundenfeedback einholen"
-
-#: workflow-and-value.graffle/support:0
 msgid "confirm solution"
 msgstr "Lösung bestätigen"
 
@@ -137,8 +137,8 @@ msgid "problems"
 msgstr "Probleme"
 
 #: workflow-and-value.graffle/support:0
-msgid "important"
-msgstr "wichtig"
+msgid "get client feedback"
+msgstr "Kundenfeedback einholen"
 
 #: workflow-and-value.graffle/support:0
 msgid "hold: requires support contract"
@@ -226,6 +226,10 @@ msgid "test"
 msgstr "Test"
 
 #: workflow-and-value.graffle/wip-and-value:0
+msgid "produce"
+msgstr "bauen"
+
+#: workflow-and-value.graffle/wip-and-value:0
 msgid "deliver"
 msgstr "ausliefern"
 
@@ -236,8 +240,4 @@ msgstr "WIP Kreis A"
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "order"
 msgstr "Auftrag"
-
-#: workflow-and-value.graffle/wip-and-value:0
-msgid "produce"
-msgstr "bauen"
 

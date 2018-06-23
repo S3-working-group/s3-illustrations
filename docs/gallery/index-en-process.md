@@ -12,17 +12,17 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/en/process/adapt-pattern-to-context.png)](/img/en/process/adapt-pattern-to-context.png)
 
+## describe-organizational-drivers.png
+
+[![](/img/en/process/describe-organizational-drivers.png)](/img/en/process/describe-organizational-drivers.png)
+
 ## driver-mapping.png
 
 [![](/img/en/process/driver-mapping.png)](/img/en/process/driver-mapping.png)
 
-## navigate-via-tension-slides.png
+## navigate-describe-respond.png
 
-[![](/img/en/process/navigate-via-tension-slides.png)](/img/en/process/navigate-via-tension-slides.png)
-
-## navigate-via-tension.png
-
-[![](/img/en/process/navigate-via-tension.png)](/img/en/process/navigate-via-tension.png)
+[![](/img/en/process/navigate-describe-respond.png)](/img/en/process/navigate-describe-respond.png)
 
 ## opening-salaries.png
 
