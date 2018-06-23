@@ -4,31 +4,27 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30-illustrations\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /text/src/illustrations.pot\n"
+"X-Crowdin-File: /update-2018-06/text/src/illustrations.pot\n"
 "Project-Id-Version: sociocracy-30-illustrations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-02-16 08:25-0500\n"
-
-#: illustrations.graffle/balance-autonomy-collaboration:0
-#: illustrations.graffle/balance-autonomy-collaboration-alt:0
-msgid "collaboration"
-msgstr "Zusammenarbeit"
+"PO-Revision-Date: 2018-06-22T17:31:41+0000\n"
 
 #: illustrations.graffle/balance-autonomy-collaboration:0
 #: illustrations.graffle/balance-autonomy-collaboration-alt:0
 msgid "autonomy"
 msgstr "Autonomie"
 
+#: illustrations.graffle/balance-autonomy-collaboration:0
+#: illustrations.graffle/balance-autonomy-collaboration-alt:0
+msgid "collaboration"
+msgstr "Zusammenarbeit"
+
 #: illustrations.graffle/balance-equivalence-effectiveness:0
 msgid "equivalence"
 msgstr "Gleichstellung"
-
-#: illustrations.graffle/balance-equivalence-effectiveness:0
-msgid "effectiveness"
-msgstr "Effektivität"
 
 #: illustrations.graffle/logbook:0
 msgid "Logbook"

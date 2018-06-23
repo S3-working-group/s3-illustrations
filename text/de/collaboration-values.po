@@ -4,13 +4,13 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30-illustrations\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /text/src/collaboration-values.pot\n"
+"X-Crowdin-File: /update-2018-06/text/src/collaboration-values.pot\n"
 "Project-Id-Version: sociocracy-30-illustrations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+"PO-Revision-Date: 2018-06-22T17:31:40+0000\n"
 
 #: collaboration-values.graffle/artful-participation:0
 msgid "“Is my behavior in this \n"
@@ -23,7 +23,6 @@ msgstr "“Ist mein Verhalten der beste\n"
 #: collaboration-values.graffle/chosen-values:0
 #: collaboration-values.graffle/values-7principles:0
 #: collaboration-values.graffle/values-step1:0
-#: collaboration-values.graffle/values-step2:0
 #: collaboration-values.graffle/values-step3:0
 msgid "collaboration"
 msgstr "Zusammenarbeit"
@@ -34,12 +33,12 @@ msgid "chosen values"
 msgstr "Gewählte Werte"
 
 #: collaboration-values.graffle/s3-organization:0
-msgid "driver"
-msgstr "Treiber"
-
-#: collaboration-values.graffle/s3-organization:0
 msgid "the seven principles"
 msgstr "die sieben Prinzipien"
+
+#: collaboration-values.graffle/s3-organization:0
+msgid "driver"
+msgstr "Treiber"
 
 #: collaboration-values.graffle/s3-organization:0
 msgid "strategy"

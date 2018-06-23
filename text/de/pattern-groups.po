@@ -4,13 +4,13 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: sociocracy-30-illustrations\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /text/src/pattern-groups.pot\n"
+"X-Crowdin-File: /update-2018-06/text/src/pattern-groups.pot\n"
 "Project-Id-Version: sociocracy-30-illustrations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Last-Translator: sociocracy30 <sociocracy30@gmail.com>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-02-16 08:25-0500\n"
+"PO-Revision-Date: 2018-06-22T17:31:41+0000\n"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Those Affected Decide"
@@ -25,16 +25,12 @@ msgid "Resolve Objections"
 msgstr "Einwände integrieren"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Describe Drivers"
-msgstr "Treiber beschreiben"
+msgid "Co-Create Proposals"
+msgstr "Vorschläge gemeinsam gestalten"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Proposal Forming"
 msgstr "Proposal Forming"
-
-#: pattern-groups.graffle/group-1:0
-msgid "Evaluate Agreements"
-msgstr "Vereinbarungen überprüfen"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Driver Mapping"
@@ -49,20 +45,24 @@ msgid "Role Selection"
 msgstr "Wahl"
 
 #: pattern-groups.graffle/group-1:0
-msgid "Consent Decision Making"
-msgstr "Konsent-Entscheidung"
-
-#: pattern-groups.graffle/group-1:0
 msgid "Objection"
 msgstr "Einwand"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Evaluate And Evolve Agreements"
+msgstr "Vereinbarungen entwickeln"
+
+#: pattern-groups.graffle/group-1:0
+msgid "Describe Organizational Drivers"
+msgstr "Organisationstreiber beschreiben"
 
 #: pattern-groups.graffle/group-1:0
 msgid "Navigate Via Tension"
 msgstr "Navigiere nach Spannung"
 
 #: pattern-groups.graffle/group-10:0
-msgid "Open Systems"
-msgstr "Offene Systeme"
+msgid "Service Circle"
+msgstr "Servicekreis"
 
 #: pattern-groups.graffle/group-10:0
 msgid "Fractal Organization"
@@ -85,20 +85,8 @@ msgid "Peach Organization"
 msgstr "Pfirsichorganisation"
 
 #: pattern-groups.graffle/group-10:0
-msgid "Open Domain"
-msgstr "Offene Domäne"
-
-#: pattern-groups.graffle/group-10:0
-msgid "Helping Team"
-msgstr "Hilfsteam"
-
-#: pattern-groups.graffle/group-10:0
 msgid "Service Organization"
 msgstr "Service-Organisation"
-
-#: pattern-groups.graffle/group-10:0
-msgid "Service Circle"
-msgstr "Servicekreis"
 
 #: pattern-groups.graffle/group-2:0
 msgid "Development Plan"
@@ -123,10 +111,6 @@ msgstr "Um Hilfe bitten"
 #: pattern-groups.graffle/group-3:0
 msgid "Governance Facilitator"
 msgstr "Governance-Moderator"
-
-#: pattern-groups.graffle/group-3:0
-msgid "Enablers Of Co-Creation"
-msgstr "Mitgestaltung ermöglichen"
 
 #: pattern-groups.graffle/group-3:0
 msgid "Contracting And Accountability"
@@ -161,16 +145,20 @@ msgid "Artful Participation"
 msgstr "Kunstvolle Teilnahme"
 
 #: pattern-groups.graffle/group-4:0
-msgid "Intended Outcome"
-msgstr "angestrebtes Ergebnis"
-
-#: pattern-groups.graffle/group-4:0
 msgid "Evaluation Criteria"
 msgstr "Evaluationskriterien"
 
 #: pattern-groups.graffle/group-4:0
+msgid "Clarify Intended Outcome"
+msgstr "Das angestrebte Ergebnis klären"
+
+#: pattern-groups.graffle/group-4:0
 msgid "Agreement"
 msgstr "Vereinbarung"
+
+#: pattern-groups.graffle/group-4:0
+msgid "Describe Deliverables"
+msgstr "Leistungen definieren"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Defining Agreements"
@@ -187,10 +175,6 @@ msgstr "Logbuch"
 #: pattern-groups.graffle/group-4:0
 msgid "Strategy"
 msgstr "Strategie"
-
-#: pattern-groups.graffle/group-4:0
-msgid "Describe Deliverables"
-msgstr "Leistungen definieren"
 
 #: pattern-groups.graffle/group-4:0
 msgid "Domain Description"
@@ -213,12 +197,12 @@ msgid "Focused Interactions"
 msgstr "Fokussierte Interaktionen"
 
 #: pattern-groups.graffle/group-5:0
-msgid "Coordination Meeting"
-msgstr "Koordinationsmeeting"
-
-#: pattern-groups.graffle/group-5:0
 msgid "Daily Standup"
 msgstr "Daily Standup"
+
+#: pattern-groups.graffle/group-5:0
+msgid "Coordination Meeting"
+msgstr "Koordinationsmeeting"
 
 #: pattern-groups.graffle/group-6:0
 msgid "Evaluate\n"
@@ -234,6 +218,14 @@ msgid "Meeting Host"
 msgstr "Gastgeber(in)"
 
 #: pattern-groups.graffle/group-6:0
+msgid "Check In"
+msgstr ""
+
+#: pattern-groups.graffle/group-6:0
+msgid "Prepare For Meetings"
+msgstr "Bereite Meetings vor"
+
+#: pattern-groups.graffle/group-6:0
 msgid "Meeting Practices"
 msgstr "Effektive Meetings"
 
@@ -245,6 +237,10 @@ msgstr "Steuerungs-Backlog"
 msgid "Facilitate\n"
 "Meetings"
 msgstr "Meetings moderieren"
+
+#: pattern-groups.graffle/group-7:0
+msgid "Timebox Activities"
+msgstr "Timebox"
 
 #: pattern-groups.graffle/group-7:0
 msgid "Backlog"
@@ -280,6 +276,10 @@ msgid "Limit Work In Progress"
 msgstr "Laufende Arbeit begrenzen"
 
 #: pattern-groups.graffle/group-8:0
+msgid "Open Systems"
+msgstr "Offene Systeme"
+
+#: pattern-groups.graffle/group-8:0
 msgid "Role"
 msgstr "Rolle"
 
@@ -294,7 +294,7 @@ msgstr "Einfluss delegieren"
 
 #: pattern-groups.graffle/group-8:0
 msgid "Representative"
-msgstr "RepräsentantI(in)"
+msgstr "Repräsentant(in)"
 
 #: pattern-groups.graffle/group-8:0
 msgid "Building Organizations"
@@ -308,9 +308,13 @@ msgstr "Verbindungen"
 msgid "Double Linking"
 msgstr "Doppelte Verbindung"
 
-#: pattern-groups.graffle/group-9:0
-msgid "Open S3 Adoption"
-msgstr "S3 per Open-Space"
+#: pattern-groups.graffle/group-8:0
+msgid "Open Domain"
+msgstr "Offene Domäne"
+
+#: pattern-groups.graffle/group-8:0
+msgid "Helping Team"
+msgstr "Hilfsteam"
 
 #: pattern-groups.graffle/group-9:0
 msgid "CI Of Work Process"
@@ -327,6 +331,11 @@ msgstr "Patterns an Kontext anpassen"
 #: pattern-groups.graffle/group-9:0
 msgid "Pull-System For Org. Change"
 msgstr "Pull-System zur Organisationsentwicklung"
+
+#: pattern-groups.graffle/group-9:0
+msgid "Open Space\n"
+"For Change"
+msgstr "Den Raum für Veränderung öffnen"
 
 #: pattern-groups.graffle/group-9:0
 msgid "Invite Change"
