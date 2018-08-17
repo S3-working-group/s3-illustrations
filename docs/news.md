@@ -4,6 +4,14 @@ title: News
 
 # News and Updates
 
+
+## August 17, 2018
+
+* updated `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow` to show flow of value and information in relation to a customer
+* retouched `workflow-and-value/card` and `workflow-and-value/simple-process`
+*  updated `structural-patterns/fractal-organization`  to include 3rd tier and explain constituents
+* updated  `pattern-groups/group-3`  and `framework/pattern-map` to include new pattern name  pattern names
+*  updated `process/navigate-describe-respond`: added feedback loop to response to driver
 ## June 17, 2018 
 
 A major update with all the changes made for the upcoming release of ["S3 - A Practical Guide"](https://sociocracy30.org/guide).
@@ -11,7 +19,7 @@ A major update with all the changes made for the upcoming release of ["S3 - A Pr
 * exported all illustrations with OmniGraffle 7.2 (slight changes in rendering of fonts and edges)
 * updated `driver-domain/drivers` to reflect the four aspects of drivers
  * removed `process/navigate-via-tension-slides` and `process/navigate-via-tension`
-* added `process/navigate-descrive-respond`, which contains _Navigate Via Tension_, _Respond to Organizational Drivers_ and _Describe Organizational Drivers_ (which also has a separate illustration: `process/describe-organizational-drivers` )
+* added `process/navigate-describe-respond`, which contains _Navigate Via Tension_, _Respond to Organizational Drivers_ and _Describe Organizational Drivers_ (which also has a separate illustration: `process/describe-organizational-drivers` )
 * updated `process/resolve-objections` and `process/resolve-objections-process` for more clarity
 * updated `templates/agreement-template` and `templates/proposal-template`: aligned both templates with each other
 * added legend to `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow`
