@@ -234,10 +234,6 @@ msgid "Double Linking"
 msgstr "Double Linking"
 
 #: framework.graffle/pattern-map:0
-msgid "Contracting And Accountability"
-msgstr "Contracting And Accountability"
-
-#: framework.graffle/pattern-map:0
 msgid "Pull-System For Work"
 msgstr "Pull-System For Work"
 
@@ -442,6 +438,10 @@ msgstr ""
 #: framework.graffle/pattern-map:0
 msgid "Principles"
 msgstr "Principles"
+
+#: framework.graffle/pattern-map:0
+msgid "Contracts For Successful Collaboration"
+msgstr "Contracts For Successful Collaboration"
 
 #: framework.graffle/pattern-map:0
 msgid "Helping Team"
