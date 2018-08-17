@@ -3,45 +3,53 @@ msgid ""
 msgstr ""
 
 #: workflow-and-value.graffle/align-flow:0
+msgid "flow of information not aligned to flow of value"
+msgstr "flow of information not aligned to flow of value"
+
+#: workflow-and-value.graffle/align-flow:0
 #: workflow-and-value.graffle/types-of-flow:0
 msgid "flow of value"
 msgstr "flow of value"
 
 #: workflow-and-value.graffle/align-flow:0
-msgid "teams or individuals"
-msgstr "teams or individuals"
+msgid ""
+"flow of information \n"
+"(and influence)"
+msgstr ""
+"flow of information \n"
+"(and influence)"
 
 #: workflow-and-value.graffle/align-flow:0
-msgid "not aligned"
-msgstr "not aligned"
+msgid "deliverables"
+msgstr "deliverables"
 
 #: workflow-and-value.graffle/align-flow:0
-msgid "flow of information"
-msgstr "flow of information"
+msgid "flow of information supports flow of value"
+msgstr "flow of information supports flow of value"
 
 #: workflow-and-value.graffle/align-flow:0
-msgid "aligned"
-msgstr "aligned"
+msgid "customer"
+msgstr "customer"
 
 #: workflow-and-value.graffle/align-flow:0
-msgid "work item"
-msgstr "work item"
+msgid "groups or individuals"
+msgstr "groups or individuals"
 
 #: workflow-and-value.graffle/card:0
-msgid "due: 1.4.2017"
-msgstr "due: 1.4.2017"
+msgid "due: 1.4.2019"
+msgstr "due: 1.4.2019"
+
+#: workflow-and-value.graffle/card:0
+msgid ""
+"Update the fiddly thing so it no longer breaks when somebody looks at it "
+"sideways."
+msgstr ""
+"Update the fiddly thing so it no longer breaks when somebody looks at it "
+"sideways."
 
 #: workflow-and-value.graffle/card:0
 msgid "★★"
 msgstr "★★"
-
-#: workflow-and-value.graffle/card:0
-msgid ""
-"Update the fiddly thing so it doesn’t not break when somebody looks at it "
-"sideways."
-msgstr ""
-"Update the fiddly thing so it doesn’t not break when somebody looks at it "
-"sideways."
 
 #: workflow-and-value.graffle/card:0
 msgid "#37"
@@ -99,7 +107,6 @@ msgid "doing"
 msgstr "doing"
 
 #: workflow-and-value.graffle/scaling-process:0
-#: workflow-and-value.graffle/simple-process:0
 msgid "to do"
 msgstr "to do"
 
@@ -115,6 +122,10 @@ msgstr "circle B"
 msgid "work items"
 msgstr "work items"
 
+#: workflow-and-value.graffle/simple-process:0
+msgid "Backlog"
+msgstr "Backlog"
+
 #: workflow-and-value.graffle/support:0
 msgid "in progress"
 msgstr "in progress"
@@ -122,6 +133,10 @@ msgstr "in progress"
 #: workflow-and-value.graffle/support:0
 msgid "questions"
 msgstr "questions"
+
+#: workflow-and-value.graffle/support:0
+msgid "get client feedback"
+msgstr "get client feedback"
 
 #: workflow-and-value.graffle/support:0
 msgid "confirm solution"
@@ -132,10 +147,6 @@ msgid "problems"
 msgstr "problems"
 
 #: workflow-and-value.graffle/support:0
-msgid "get client feedback"
-msgstr "get client feedback"
-
-#: workflow-and-value.graffle/support:0
 msgid "hold: requires support contract"
 msgstr "hold: requires support contract"
 
@@ -144,12 +155,12 @@ msgid "tasks"
 msgstr "tasks"
 
 #: workflow-and-value.graffle/swim-lanes:0
-msgid "Isaac"
-msgstr "Isaac"
-
-#: workflow-and-value.graffle/swim-lanes:0
 msgid "ready"
 msgstr "ready"
+
+#: workflow-and-value.graffle/swim-lanes:0
+msgid "Isaac"
+msgstr "Isaac"
 
 #: workflow-and-value.graffle/swim-lanes:0
 msgid "review"
@@ -200,10 +211,6 @@ msgid "Circle C"
 msgstr "Circle C"
 
 #: workflow-and-value.graffle/wip-and-value:0
-msgid "Circle D"
-msgstr "Circle D"
-
-#: workflow-and-value.graffle/wip-and-value:0
 msgid "identify leads"
 msgstr "identify leads"
 
@@ -230,6 +237,10 @@ msgstr "produce"
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "deliver"
 msgstr "deliver"
+
+#: workflow-and-value.graffle/wip-and-value:0
+msgid "Circle D"
+msgstr "Circle D"
 
 #: workflow-and-value.graffle/wip-and-value:0
 msgid "WIP Circle A"

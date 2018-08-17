@@ -152,6 +152,10 @@ msgid "Drop it"
 msgstr "Drop it"
 
 #: process.graffle/navigate-describe-respond:0
+msgid "Respond"
+msgstr "Respond"
+
+#: process.graffle/navigate-describe-respond:0
 msgid "Understand driver"
 msgstr "Understand driver"
 

@@ -19,36 +19,48 @@ msgid "2nd tier"
 msgstr "2nd tier"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "A"
-msgstr "A"
+msgid "cross-functional\n"
+msgstr "cross-functional\n"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "C"
-msgstr "C"
+msgid "function  A"
+msgstr "function  A"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "B"
-msgstr "B"
+msgid "function B"
+msgstr "function B"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "D"
-msgstr "D"
+msgid "function C"
+msgstr "function C"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "domain D"
-msgstr "domain D"
+msgid "function A"
+msgstr "function A"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "domain A"
-msgstr "domain A"
+msgid "function D"
+msgstr "function D"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "domain C"
-msgstr "domain C"
+msgid "1st tier"
+msgstr "1st tier"
 
 #: structural-patterns.graffle/fractal-organization:0
-msgid "domain B"
-msgstr "domain B"
+msgid "delegate circle for \n"
+msgstr "delegate circle for \n"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "a constituent"
+msgstr "a constituent"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "3rd tier"
+msgstr "3rd tier"
+
+#: structural-patterns.graffle/fractal-organization:0
+msgid "delegate circle"
+msgstr "delegate circle"
 
 #: structural-patterns.graffle/helping-team:0
 msgid "helping team"

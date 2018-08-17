@@ -103,16 +103,16 @@ msgid "Governance Facilitator"
 msgstr "Governance Facilitator"
 
 #: pattern-groups.graffle/group-3:0
-msgid "Contracting And Accountability"
-msgstr "Contracting And Accountability"
-
-#: pattern-groups.graffle/group-3:0
 msgid "Agree On Values"
 msgstr "Agree On Values"
 
 #: pattern-groups.graffle/group-3:0
 msgid "Breaking Agreements"
 msgstr "Breaking Agreements"
+
+#: pattern-groups.graffle/group-3:0
+msgid "Contract For Successful Collaboration"
+msgstr "Contract For Successful Collaboration"
 
 #: pattern-groups.graffle/group-3:0
 msgid "Transparent Salary"
