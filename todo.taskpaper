@@ -7,6 +7,7 @@ TODO:
 	✔ list old releases in news @done (18-04-20 16:56)
 	✔ add tranlsations to index,md @done (18-04-20 15:47)
 	✔ test the site @done (18-04-20 16:56)
+	- add arrow in process illustration: retro ➤ governance backlog @done(2018-09-21)
 	fix Error when exporting translations:
 		ls -b graffle/src | xargs -I {} ogtranslate extract  "graffle/src/{}"
 		opening /Users/beb/Dropbox/projects/S3/resources/s3-illustrations/graffle/src/models-of-management.graffle
