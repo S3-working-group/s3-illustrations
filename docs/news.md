@@ -4,6 +4,10 @@ title: News
 
 # News and Updates
 
+## March 12, 2019
+
+* aligned several German translations for pattern names
+
 ## September 21, 2018
 
 * replaced "group" with "team"
