@@ -4,6 +4,18 @@ title: News
 
 # News and Updates
 
+## March 12, 2019
+
+* aligned several German translations for pattern names
+
+## September 21, 2018
+
+* replaced "group" with "team"
+* renamed a pattern group
+* updated illustrations for linking and double linking
+* added links to pattern map
+* removed term "driver statement" from process illustration
+* updated templates for domain description
 
 ## August 17, 2018
 
