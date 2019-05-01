@@ -4,6 +4,12 @@ title: News
 
 # News and Updates
 
+## May 01, 2019
+
+* new illustration: `agreements/qualify-objection-process`
+* retouched `agreements/resolve-objections-process`
+* retouched  `agreements/role-selection`
+
 ## March 12, 2019
 
 * aligned several German translations for pattern names
