@@ -8,7 +8,10 @@ TODO:
 	✔ add tranlsations to index,md @done (18-04-20 15:47)
 	✔ test the site @done (18-04-20 16:56)
 	- add arrow in process illustration: retro ➤ governance backlog @done(2018-09-21)
-	
+	German Translations:
+		- last english illustrations (role selection, qualify objections) @done
+		- Prinzip: Verantwortung -> Verantwortlichkeit (auch in Patternmap) @done
+		- Prinzip: Verantwortung -> Verantwortlichkeit (in neuer Patternmap im Branch nachziehen)
 	Port the whole thing to JavaScript:
 		https://omni-automation.com/jxa-applescript.html
 		https://discourse.omnigroup.com/t/javascript-for-automation-question/14754/6
