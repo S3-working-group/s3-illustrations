@@ -4,6 +4,12 @@ title: News
 
 # News and Updates
 
+## May 10
+
+* German translation for `agreements/qualify-objection-process`
+* aligned pattern map and `framework/principles` with latest German translations
+
+
 ## May 01, 2019
 
 * new illustration: `agreements/qualify-objection-process`
