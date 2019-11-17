@@ -1,12 +1,13 @@
-
-
 site:
 	-rm -r docs/img/en
 	mkdir docs/img/en
-	cp -r png/en/140dpi/* docs/img/en
+	cp -r png/en/* docs/img/en
 	-rm -r docs/img/de
 	mkdir docs/img/de
-	cp -r png/de/140dpi/* docs/img/de
+	cp -r png/de/* docs/img/de
+	-rm -r docs/img/fr
+	mkdir docs/img/fr
+	cp -r png/fr/* docs/img/fr
 
 	-rm docs/gallery/*
 	python make_galleries.py
@@ -18,6 +19,9 @@ downloads:
 
 	-rm docs/s3-illustrations-de.zip
 	zip -r docs/s3-illustrations-de.zip png/de LICENSE readme.txt
+
+	-rm docs/s3-illustrations-fr.zip
+	zip -r docs/s3-illustrations-fr.zip png/fr LICENSE readme.txt
 
 crowdin:
 	#  crowdin --identity ~/crowdin-s3-illustrations.yaml upload sources  --dryrun
@@ -38,19 +42,19 @@ export-src:
 	echo "workon omnigraffle_export"
 
 	# export png
-	ls -b graffle/src | xargs -I {} ogexport png "graffle/src/{}" png/en/140dpi @140dpi.ini
+	ls -b graffle/src | xargs -I {} ogexport png "graffle/src/{}" png/en/ @140dpi.ini
 
 	# export png with transparent background
-	ls -b graffle/src | xargs -I {} ogexport png "graffle/src/{}" png/en/140dpi-transp @140dpi-transp.ini
+	# ls -b graffle/src | xargs -I {} ogexport png "graffle/src/{}" png/en/140dpi-transp @140dpi-transp.ini
 
 export: 
 	echo "workon omnigraffle_export"
 
 	# export png
-	ls -b "graffle/$(lang)" | xargs -I {} ogexport png "graffle/$(lang)/{}" "png/$(lang)/140dpi" @140dpi.ini
+	ls -b "graffle/$(lang)" | xargs -I {} ogexport png "graffle/$(lang)/{}" "png/$(lang)" @140dpi.ini
 
 	# export png with transparent background
-	ls -b "graffle/$(lang)" | xargs -I {} ogexport png "graffle/$(lang)/{}" "png/$(lang)/140dpi-transp" @140dpi-transp.ini
+	# ls -b "graffle/$(lang)" | xargs -I {} ogexport png "graffle/$(lang)/{}" "png/$(lang)/140dpi-transp" @140dpi-transp.ini
 
 dump-colors-and-fonts:
 	# untested

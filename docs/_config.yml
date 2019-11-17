@@ -17,12 +17,14 @@ author: Bernhard Bockelbrink
 twitter_username: b_bockelbrink
 github_username:  bboc
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-relative-links
-  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
