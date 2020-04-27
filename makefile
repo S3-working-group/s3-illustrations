@@ -81,6 +81,7 @@ jsexport:
 	# usage: ./ogexport.js <source> <format> <target> <property_1=value_1>...<property_n>=<value_n>
 	# e.g.  ./ogexport.js /Users/beb/dev/ogtool/JXA/test-data/test-data.graffle PNG /Users/beb/tmp/fat scale=2 resolution=2
 	# full path to document and export is required because this JS stuff sucks, define them in make-conf-local
+	-mkdir png/en-tmp
 
 	$(EXPORTSCRIPT) $(SOURCEPATH)/src/agreements.graffle PNG $(EXPORTPATH)/agreements scale=2 resolution=2 scope="entire document"
 	$(EXPORTSCRIPT) $(SOURCEPATH)/src/circle.graffle PNG $(EXPORTPATH)/circle scale=2 resolution=2 scope="entire document"
