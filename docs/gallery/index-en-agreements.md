@@ -20,6 +20,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/en/agreements/proposal-forming.png)](/img/en/agreements/proposal-forming.png)
 
+## qualify-objection-process.png
+
+[![](/img/en/agreements/qualify-objection-process.png)](/img/en/agreements/qualify-objection-process.png)
+
 ## resolve-objections-process.png
 
 [![](/img/en/agreements/resolve-objections-process.png)](/img/en/agreements/resolve-objections-process.png)

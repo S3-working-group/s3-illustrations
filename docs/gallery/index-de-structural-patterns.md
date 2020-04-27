@@ -8,6 +8,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [Back](index-de.html)
 
+## circles-and-links-vertical.png
+
+[![](/img/de/structural-patterns/circles-and-links-vertical.png)](/img/de/structural-patterns/circles-and-links-vertical.png)
+
 ## circles-and-links.png
 
 [![](/img/de/structural-patterns/circles-and-links.png)](/img/de/structural-patterns/circles-and-links.png)
