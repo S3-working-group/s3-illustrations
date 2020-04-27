@@ -4,7 +4,48 @@ title: News
 
 # News and Updates
 
-## May 10
+
+## April 26, 2020
+
+- revised and updated colors for better readability:
+    - `evolution/domain-driver-strategy-exeriments`
+    - `agreements/evaluate-agreements`
+    - `driver-domain/driver-response-full`
+- added `templates/need-card`
+- updated pattern names in 
+    - `framework/pattern-map`
+    - `agreements/qualify-objection-process`
+    -  `pattern-groups/group-1` and `pattern-groups/group-3GeorgeGeorge`
+- revised text: 
+    - `templates/agreement-template`
+    - `templates/proposal-template`
+    - `templates/domain-template.png`
+- updated colors  for better readability:
+    - `agreements/resolve-objections.png`
+    - `driver-domain/driver`
+    - `driver-domain/tension-driver-response` 
+    - `driver-domain/driver-response`
+    - `driver-domain/driver-short`
+    - `evolution/agreement-lifecycle-long`
+    - `evolution/agreement-lifecycle`
+    -`evolution/development-process`
+    - `evolution/driver-agreement-improvement`
+    - `evolution/driver-domain-selection-development`
+    - `evolution/driver-role-selection-development`
+    - `evolution/kaizen-values`
+    - `evolution/kaizen`
+    - `evolution/peer-development-process`
+    - `framework/s3-pattern-groups-alt` 
+    - `framework/s3-pattern-groups`
+
+## Feb 24, 2020
+
+- updated `templates/domain-template` 
+- added `templates`
+- added `process/driver mapping flowchart`
+- replaced " "practical guide" with "social technology" in pattern map
+
+## May 10, 2019
 
 * German translation for `agreements/qualify-objection-process`
 * aligned pattern map and `framework/principles` with latest German translations
