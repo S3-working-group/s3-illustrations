@@ -24,6 +24,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/en/templates/domain-template.png)](/img/en/templates/domain-template.png)
 
+## need-card.png
+
+[![](/img/en/templates/need-card.png)](/img/en/templates/need-card.png)
+
 ## outcome-and-criteria.png
 
 [![](/img/en/templates/outcome-and-criteria.png)](/img/en/templates/outcome-and-criteria.png)

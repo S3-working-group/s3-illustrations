@@ -21,7 +21,7 @@ site:
 
 	-rm docs/gallery/*
 	python make_galleries.py
-	cd docs;jekyll build
+	cd docs; bundle exec jekyll build
 
 downloads:
 	-rm docs/s3-illustrations-en.zip
@@ -100,6 +100,3 @@ jsexport:
 	$(EXPORTSCRIPT) $(SOURCEPATH)/src/structural-patterns.graffle PNG $(EXPORTPATH)/structural-patterns scale=2 resolution=2 scope="entire document"
 	$(EXPORTSCRIPT) $(SOURCEPATH)/src/templates.graffle PNG $(EXPORTPATH)/templates scale=2 resolution=2 scope="entire document"
 	$(EXPORTSCRIPT) $(SOURCEPATH)/src/workflow-and-value.graffle PNG $(EXPORTPATH)/workflow-and-value scale=2 resolution=2 scope="entire document"
-
-
-
