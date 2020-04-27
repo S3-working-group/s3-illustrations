@@ -1,0 +1,4 @@
+
+EXPORTSCRIPT=/Users/beb/dev/omnigraffle-tools/ogtool/ogexport.js
+SOURCEPATH=/Users/beb/Dropbox/S3/resources/s3-illustrations/graffle
+EXPORTPATH=/Users/beb/Dropbox/S3/resources/s3-illustrations/png/en-tmp
