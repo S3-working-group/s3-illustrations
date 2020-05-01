@@ -10,8 +10,8 @@
 		AAABAAAAGgAAAAAAAqACAAQAAAABAAAIAKADAAQAAAABAAAE6gAAAAD/7QA4
 		UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCy
 		BOmACZjs+EJ+/+ICIElDQ19QUk9GSUxFAAEBAAACEGFwcGwEAAAAbW50clJH
-		QiBYWVogB+QABAAeABcAEwATYWNzcEFQUEwAAAAAQVBQTAAAAAAAAAAAAAAA
-		AAAAAAAAAPbWAAEAAAAA0y1hcHBssVEY4EUPbiSJb2kByutBlQAAAAAAAAAA
+		QiBYWVogB+QABQABABIAGgAMYWNzcEFQUEwAAAAAQVBQTAAAAAAAAAAAAAAA
+		AAAAAAAAAPbWAAEAAAAA0y1hcHBsN9f0QdZ/0KqyP3tBLssM/AAAAAAAAAAA
 		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKZGVzYwAAAPwAAABiY3BydAAAAWAA
 		AAAjd3RwdAAAAYQAAAAUclhZWgAAAZgAAAAUZ1hZWgAAAawAAAAUYlhZWgAA
 		AcAAAAAUclRSQwAAAdQAAAAQY2hhZAAAAeQAAAAsYlRSQwAAAdQAAAAQZ1RS
@@ -5743,7 +5743,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2020-05-01 13:34:45 +0000</string>
+	<string>2020-05-01 22:40:21 +0000</string>
 	<key>Modifier</key>
 	<string>Bernhard Bockelbrink</string>
 	<key>MovementHandleVisible</key>
@@ -28388,7 +28388,7 @@ To do}</string>
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{676.5006141226786, 166.59926467391085}, {194, 196}}</string>
+					<string>{{674.17736042566798, 175.2525729026199}, {194, 196}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -28408,7 +28408,7 @@ To do}</string>
 					<key>ID</key>
 					<integer>3</integer>
 					<key>Rotation</key>
-					<real>319</real>
+					<real>339</real>
 					<key>Shape</key>
 					<string>NoteShape</string>
 					<key>Style</key>
@@ -28418,11 +28418,11 @@ To do}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.25377479195594788</real>
+								<real>0.70588200000000001</real>
 								<key>g</key>
-								<real>0.57652097940444946</real>
+								<real>0.83137300000000003</real>
 								<key>r</key>
-								<real>1.0077583789825439</real>
+								<real>0.98039200000000004</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -28445,12 +28445,12 @@ To do}</string>
 \f0\fs50 \cf0 BLOCKED: \
 ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{376, 38}, {2, 0.125}}</string>
+					<string>{{373.5, 48}, {2, 0.125}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>HFlip</key>
@@ -28489,7 +28489,7 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{693, 441}, {292, 208}}</string>
+					<string>{{679.9140625, 452}, {292, 207}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28535,21 +28535,21 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Light;}
-{\colortbl;\red255\green255\blue255;\red255\green82\blue79;}
-{\*\expandedcolortbl;;\csgenericrgb\c100000\c32157\c30980;}
+{\colortbl;\red255\green255\blue255;\red253\green127\blue51;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c57647\c25490;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
 \f0\fs282 \cf2 \'a1\'ef\'a1\'ef}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{20, 547}, {126, 93}}</string>
+					<string>{{34.5, 554.63636355754761}, {126, 92}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28595,19 +28595,19 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 OpenSans;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+{\colortbl;\red255\green255\blue255;\red57\green55\blue105;}
+{\*\expandedcolortbl;;\cssrgb\c28848\c29060\c48735;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs120 \cf0 #37}</string>
+\f0\fs120 \cf2 #37}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{103, 156}, {762, 338}}</string>
+					<string>{{100.5, 166}, {762, 338}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28653,19 +28653,19 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 OpenSans;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+{\colortbl;\red255\green255\blue255;\red57\green55\blue105;}
+{\*\expandedcolortbl;;\cssrgb\c28848\c29060\c48735;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs120 \cf0 Update the fiddly thing so it no longer breaks when somebody looks at it sideways.}</string>
+\f0\fs120 \cf2 Update the fiddly thing so it no longer breaks when somebody looks at it sideways.}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{639.29296875, 27.999999999999993}, {342.4140625, 81}}</string>
+					<string>{{629.5, 34.363636442452382}, {342.4140625, 81}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28711,8 +28711,8 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 OpenSans;}
-{\colortbl;\red255\green255\blue255;\red255\green82\blue79;}
-{\*\expandedcolortbl;;\csgenericrgb\c100000\c32157\c30980;}
+{\colortbl;\red255\green255\blue255;\red253\green127\blue51;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c57647\c25490;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
@@ -28725,7 +28725,7 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{28, 27.999999999999993}, {246, 82}}</string>
+					<string>{{34.5, 34.363636442452389}, {245.802734375, 81}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28771,21 +28771,21 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
 {\fonttbl\f0\fnil\fcharset0 OpenSans;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
+{\colortbl;\red255\green255\blue255;\red57\green55\blue105;}
+{\*\expandedcolortbl;;\cssrgb\c28848\c29060\c48735;}
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs104 \cf0 30.3.2018}</string>
+\f0\fs104 \cf2 30.3.2018}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{13, 11}, {979, 638}}</string>
+					<string>{{10.5, 21}, {979, 638}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -28797,17 +28797,24 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.22352370619773865</real>
+								<real>0.95686300000000002</real>
 								<key>g</key>
-								<real>0.97552436590194702</real>
+								<real>0.95294100000000004</real>
 								<key>r</key>
-								<real>0.99974077939987183</real>
+								<real>0.85097999999999996</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
 						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>CornerRadius</key>
+							<real>38</real>
 							<key>Draws</key>
 							<string>NO</string>
 						</dict>
@@ -31038,7 +31045,7 @@ Identify Leads}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>0</integer>
+		<integer>8</integer>
 		<key>Frame</key>
 		<string>{{-0, -0}, {1920, 1057}}</string>
 		<key>ShowInfo</key>
@@ -31052,10 +31059,10 @@ Identify Leads}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-629.09089545573113, -518.18180695052956}, {2259.9999510158204, 1718.181780941231}}</string>
+		<string>{{-629.99997550790965, -519.09089047061502}, {2259.9999510158204, 1718.181780941231}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
-			<string>com.omnigroup.OmniGraffle.inspectorGroup.canvas</string>
+			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
 		</array>
 		<key>ZoomValues</key>
 		<array>
