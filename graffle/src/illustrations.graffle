@@ -3221,7 +3221,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -3316,7 +3316,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -3398,7 +3398,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<true/>
@@ -3447,7 +3447,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -3511,7 +3511,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -3583,7 +3583,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -3803,7 +3803,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -3898,7 +3898,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -3980,7 +3980,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<true/>
@@ -4029,7 +4029,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -4093,7 +4093,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -4165,7 +4165,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -4385,7 +4385,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -4480,7 +4480,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>HeadArrow</key>
 							<string>FilledArrow</string>
@@ -4562,7 +4562,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<true/>
@@ -4611,7 +4611,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -4673,7 +4673,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -4743,7 +4743,7 @@
 								<key>r</key>
 								<real>0.50398468971252441</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -6504,7 +6504,7 @@
 								<key>r</key>
 								<real>1.0077583789825439</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -6605,7 +6605,7 @@
 								<key>r</key>
 								<real>0.75612032413482666</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -6679,7 +6679,7 @@
 								<key>r</key>
 								<real>0.25055360794067383</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -6721,7 +6721,7 @@
 								<key>r</key>
 								<real>0.33811551332473755</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -6765,7 +6765,7 @@
 								<key>r</key>
 								<real>0.33811551332473755</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 						</dict>
 						<key>shadow</key>
@@ -7562,7 +7562,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<false/>
@@ -7652,7 +7652,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<false/>
@@ -7742,7 +7742,7 @@
 								<key>r</key>
 								<real>0.33342811465263367</real>
 								<key>space</key>
-								<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+								<string>srgb</string>
 							</dict>
 							<key>Legacy</key>
 							<false/>
@@ -7847,7 +7847,7 @@
 										<key>r</key>
 										<real>1.0095829963684082</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 									<key>Legacy</key>
 									<false/>
@@ -7902,7 +7902,7 @@
 										<key>r</key>
 										<real>0.33342811465263367</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -7944,7 +7944,7 @@
 										<key>r</key>
 										<real>0.33342811465263367</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8027,7 +8027,7 @@
 										<key>r</key>
 										<real>0.75612032413482666</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 									<key>MiddleFraction</key>
 									<real>0.72222220897674561</real>
@@ -8048,7 +8048,7 @@
 										<key>r</key>
 										<real>0.33342811465263367</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 									<key>Width</key>
 									<real>2.9999054617524337</real>
@@ -8082,7 +8082,7 @@
 										<key>r</key>
 										<real>0.75612032413482666</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 									<key>GradientCenter</key>
 									<string>{0, -0.26666699999999999}</string>
@@ -8105,7 +8105,7 @@
 										<key>r</key>
 										<real>0.33342811465263367</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 									<key>Width</key>
 									<real>2.9999054617524337</real>
@@ -8185,7 +8185,7 @@
 										<key>r</key>
 										<real>1.0077583789825439</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8227,7 +8227,7 @@
 										<key>r</key>
 										<real>1.0077583789825439</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8283,7 +8283,7 @@
 										<key>r</key>
 										<real>1.0077583789825439</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8373,7 +8373,7 @@
 										<key>r</key>
 										<real>0.60766786336898804</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8431,7 +8431,7 @@
 										<key>r</key>
 										<real>0.60766786336898804</real>
 										<key>space</key>
-										<string>9eaea0911d89d63e39e95f2e2116eaec7e0bb91e</string>
+										<string>srgb</string>
 									</dict>
 								</dict>
 								<key>shadow</key>
@@ -8539,9 +8539,9 @@
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>4</integer>
+		<integer>2</integer>
 		<key>Frame</key>
-		<string>{{-0, -0}, {1920, 1057}}</string>
+		<string>{{1, 0}, {1920, 1057}}</string>
 		<key>ShowInfo</key>
 		<true/>
 		<key>ShowRuler</key>
@@ -8553,7 +8553,7 @@
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, -2.0454545454544761}, {386.07954545454544, 268.46590909090912}}</string>
+		<string>{{-204, -313}, {1359, 945}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.document</string>
