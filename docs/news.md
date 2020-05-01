@@ -4,6 +4,11 @@ title: News
 
 # News and Updates
 
+## May 1, 2020
+
+- added new pattern map that exports from artboards
+- added illustrations that display patterns for individuals, ,teams, managers and executive teams
+
 ## March 12, 2019
 
 * aligned several German translations for pattern names
