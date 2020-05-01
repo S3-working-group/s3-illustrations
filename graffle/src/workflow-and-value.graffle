@@ -18954,7 +18954,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2020-05-01 13:04:32 +0000</string>
+	<string>2020-05-01 13:14:00 +0000</string>
 	<key>Modifier</key>
 	<string>Bernhard Bockelbrink</string>
 	<key>MovementHandleVisible</key>
@@ -22514,7 +22514,7 @@
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs60 \cf2 flow of\
+\f0\fs60 \cf2 Flow of\
 information}</string>
 						<key>TextAlongPathGlyphAnchor</key>
 						<string>center</string>
@@ -22524,7 +22524,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{207, 382}, {188, 52}}</string>
+					<string>{{204.828125, 382}, {192.34375, 51}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -22581,9 +22581,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs60 \cf2 flow of value}</string>
+\f0\fs60 \cf2 Flow of value}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -28189,7 +28189,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{826.50000000000011, 354.25104369523854}, {460, 42}}</string>
+					<string>{{824.94775390625011, 354.25104369523854}, {463.1044921875, 42}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28246,16 +28246,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs46 \cf2 flow of information supports flow of value}</string>
+\f0\fs46 \cf2 Flow of information supports flow of value}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{65.000000000000114, 354.25104369523854}, {512, 42}}</string>
+					<string>{{63.157226562500114, 354.25104369523854}, {515.685546875, 42}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28312,16 +28312,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs46 \cf2 flow of information not aligned to flow of value}</string>
+\f0\fs46 \cf2 Flow of information not aligned to flow of value}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{978.20362912380483, 458.17534722222234}, {186, 36}}</string>
+					<string>{{978.20362912380483, 458.17534722222234}, {189.1826171875, 34}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28380,9 +28380,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs36 \cf2 groups or individuals}</string>
+\f0\fs36 \cf2 Groups or individuals}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -28446,7 +28446,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{801.08631708723635, 456.52604166666691}, {90, 36}}</string>
+					<string>{{801.08631708723635, 456.52604166666691}, {92.40625, 34}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28505,16 +28505,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs36 \cf2 customer}</string>
+\f0\fs36 \cf2 Customer}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{364.20362912380472, 448}, {111, 36}}</string>
+					<string>{{364.20362912380472, 448}, {112.708984375, 34}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28573,9 +28573,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs36 \cf2 deliverables}</string>
+\f0\fs36 \cf2 Deliverables}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -28694,7 +28694,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{542.20362912380472, 448}, {176, 58}}</string>
+					<string>{{542.20362912380472, 457}, {178.85546875, 58}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28753,10 +28753,10 @@ information}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs36 \cf2 flow of information \
+\f0\fs36 \cf2 Flow of information \
 (and influence)}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -28845,7 +28845,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{164.21525703078203, 448}, {117, 36}}</string>
+					<string>{{164.21525703078203, 448}, {119.40625, 34}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -28904,9 +28904,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\partightenfactor0
 
-\f0\fs36 \cf2 flow of value}</string>
+\f0\fs36 \cf2 Flow of value}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -30040,7 +30040,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{738, 57.03773584905673}, {123, 75}}</string>
+					<string>{{735.56640625, 57.03773584905673}, {127.8671875, 74}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30097,16 +30097,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs94 \cf2 done}</string>
+\f0\fs94 \cf2 Done}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{359, 59.444444665202354}, {132, 74}}</string>
+					<string>{{356.80615234375, 59.444444665202354}, {136.3876953125, 72}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30163,16 +30163,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs92 \cf2 doing}</string>
+\f0\fs92 \cf2 Doing}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{56.799999999999955, 59.444444665202354}, {175, 74}}</string>
+					<string>{{56.273144531249955, 59.444444665202354}, {176.0537109375, 72}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30229,16 +30229,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs92 \cf2 backlog}</string>
+\f0\fs92 \cf2 Backlog}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{307, 520}, {211, 64}}</string>
+					<string>{{304.601318359375, 520}, {215.79736328125, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30295,9 +30295,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 work items}</string>
+\f0\fs78 \cf2 Work items}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -30514,7 +30514,7 @@ information}</string>
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{525.94999999999993, 497.44989525599647}, {152, 64}}</string>
+					<string>{{510.06645507812493, 497.44989525599647}, {183.76708984375, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30606,9 +30606,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 blocked}</string>
+\f0\fs78 \cf2 BLOCKED}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -30693,7 +30693,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{510.94999999999993, 34.444444665202354}, {182, 64}}</string>
+					<string>{{508.36210937499993, 34.444444665202354}, {187.17578125, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -30750,9 +30750,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 negotiate}</string>
+\f0\fs78 \cf2 Negotiate}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -31488,7 +31488,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{811.16812095850173, 34.444444665202361}, {104, 64}}</string>
+					<string>{{809.26577720850173, 34.444444665202361}, {107.8046875, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -31545,16 +31545,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 done}</string>
+\f0\fs78 \cf2 Done}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{211, 34.444444665202354}, {241, 64}}</string>
+					<string>{{208.43359375, 34.444444665202354}, {246.1328125, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -31611,16 +31611,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 create quote}</string>
+\f0\fs78 \cf2 Create quote}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{55.400000000000006, 34.444444665202354}, {106, 64}}</string>
+					<string>{{50.241552734375006, 34.444444665202354}, {116.31689453125, 63}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -31677,9 +31677,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs78 \cf2 leads}</string>
+\f0\fs78 \cf2 Leads}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -32076,7 +32076,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{653.5, 706}, {101, 63}}</string>
+					<string>{{651.34228515625, 706}, {105.3154296875, 62}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -32133,9 +32133,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs76 \cf2 tasks}</string>
+\f0\fs76 \cf2 Tasks}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -32322,7 +32322,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{358, 697}, {126, 61}}</string>
+					<string>{{356.7060546875, 697}, {128.587890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -32379,9 +32379,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 stories}</string>
+\f0\fs74 \cf2 Stories}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -33433,7 +33433,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1495.8, 342}, {97.200000000000003, 72}}</string>
+					<string>{{1495.8, 351}, {97.200000000000003, 72}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -33488,7 +33488,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1495.8, 234}, {97.200000000000003, 72}}</string>
+					<string>{{1495.8, 243}, {97.200000000000003, 72}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -33543,7 +33543,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1495.8, 126}, {97.200000000000003, 72}}</string>
+					<string>{{1495.8, 135}, {97.200000000000003, 72}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -33653,7 +33653,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1493.5, 27}, {99, 61}}</string>
+					<string>{{1491.60546875, 27}, {102.7890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -33710,9 +33710,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 done}</string>
+\f0\fs74 \cf2 Done}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -34294,8 +34294,8 @@ information}</string>
 						</dict>
 						<key>shadow</key>
 						<dict>
-							<key>Draws</key>
-							<string>NO</string>
+							<key>Beneath</key>
+							<string>YES</string>
 						</dict>
 						<key>stroke</key>
 						<dict>
@@ -34900,7 +34900,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1352.5, 45}, {108, 61}}</string>
+					<string>{{1350.670166015625, 45}, {111.65966796875, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -34957,16 +34957,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 doing}</string>
+\f0\fs74 \cf2 Doing}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1223, 45}, {108, 61}}</string>
+					<string>{{1219.237060546875, 45}, {115.52587890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35023,16 +35023,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 ready}</string>
+\f0\fs74 \cf2 Ready}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1275.5, -9}, {138, 61}}</string>
+					<string>{{1276.132080078125, -6.3752012882439431}, {136.73583984375, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35089,9 +35089,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 publish}</string>
+\f0\fs74 \cf2 Publish}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -35262,7 +35262,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{1082.5, 45}, {108, 61}}</string>
+					<string>{{1080.670166015625, 45}, {111.65966796875, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35319,16 +35319,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 doing}</string>
+\f0\fs74 \cf2 Doing}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{953, 45}, {108, 61}}</string>
+					<string>{{949.237060546875, 45}, {115.52587890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35385,16 +35385,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 ready}</string>
+\f0\fs74 \cf2 Ready}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{963.5, -9}, {204, 61}}</string>
+					<string>{{962.101318359375, -5.7741935483877569}, {206.79736328125, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35451,9 +35451,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 acceptance}</string>
+\f0\fs74 \cf2 Acceptance}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -35708,7 +35708,7 @@ information}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{815.86447192356513, 102.2258064268035}, {99, 61}}</string>
+					<string>{{813.96994067356513, 102.2258064268035}, {102.7890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35765,16 +35765,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 done}</string>
+\f0\fs74 \cf2 Done}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{653.5, 101.548387146393}, {122, 61}}</string>
+					<string>{{649.709228515625, 101.548387146393}, {129.58154296875, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35831,16 +35831,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 review}</string>
+\f0\fs74 \cf2 Review}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{503.00390956783656, 101.548387146393}, {129, 61}}</string>
+					<string>{{500.62646816158656, 101.548387146393}, {133.7548828125, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35897,16 +35897,16 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 writing}</string>
+\f0\fs74 \cf2 Writing}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{363.74230085261047, 101.548387146393}, {99, 61}}</string>
+					<string>{{361.83873639948547, 101.548387146393}, {102.80712890625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -35963,9 +35963,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 tasks}</string>
+\f0\fs74 \cf2 Tasks}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -36391,14 +36391,14 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 writing}</string>
+\f0\fs74 \cf2 Writing}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{234, 171}, {99, 61}}</string>
+					<string>{{234.0205078125, 171}, {98.958984375, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -36457,14 +36457,14 @@ information}</string>
 
 \f0\fs74 \cf2 Carla}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{45, 18}, {143, 61}}</string>
+					<string>{{44.717529296875, 18}, {143.56494140625, 61}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -36521,9 +36521,9 @@ information}</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs74 \cf2 backlog}</string>
+\f0\fs74 \cf2 Backlog}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -36818,9 +36818,9 @@ information}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-done}</string>
+Done}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -36902,9 +36902,9 @@ done}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-confirm solution}</string>
+Confirm solution}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -36986,9 +36986,9 @@ confirm solution}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-get client feedback}</string>
+Get client feedback}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -37070,9 +37070,9 @@ get client feedback}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-in progress}</string>
+In progress}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -37154,9 +37154,9 @@ in progress}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-hold: requires support contract}</string>
+Hold: Requires support contract}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -37238,9 +37238,9 @@ hold: requires support contract}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-problems}</string>
+Problems}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -37322,9 +37322,9 @@ problems}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
-questions}</string>
+Questions}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -37408,7 +37408,7 @@ questions}</string>
 \f0\fs78 \cf2 \expnd0\expndtw0\kerning0
 important}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -42179,7 +42179,7 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{642, 27.999999999999993}, {337, 82}}</string>
+					<string>{{639.29296875, 27.999999999999993}, {342.4140625, 81}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -42230,9 +42230,9 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 \deftab720
 \pard\pardeftab720\qc\partightenfactor0
 
-\f0\fs104 \cf2 due: 1.4.2019}</string>
+\f0\fs104 \cf2 Due: 1.4.2019}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -42442,7 +42442,7 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{389.53694446722517, 308.65332560840562}, {184, 42}}</string>
+					<string>{{389.98372181097517, 308.65332560840562}, {183.1064453125, 42}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -42514,7 +42514,7 @@ ask Carl about deployment, he\'92s  on on holiday. }</string>
 \f0\fs46 \cf2 \expnd0\expndtw0\kerning0
 Work in Progess}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -42610,7 +42610,7 @@ Work in Progess}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{97.303921568627629, 241.33333333333599}, {138, 42}}</string>
+					<string>{{97.368862974877629, 241.33333333333599}, {137.8701171875, 42}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -42672,7 +42672,7 @@ Work in Progess}</string>
 \f0\fs46 \cf2 \expnd0\expndtw0\kerning0
 WIP Team A}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 					<key>Wrap</key>
 					<string>NO</string>
@@ -43936,9 +43936,9 @@ WIP Team A}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-deliver}</string>
+Deliver}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44004,9 +44004,9 @@ deliver}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-test}</string>
+Test}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44072,9 +44072,9 @@ test}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-produce}</string>
+Produce}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44140,9 +44140,9 @@ produce}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-order}</string>
+Order}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44208,9 +44208,9 @@ order}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-negotiate}</string>
+Negotiate}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44276,9 +44276,9 @@ negotiate}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-establish interest}</string>
+Establish Interest}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44344,9 +44344,9 @@ establish interest}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs44 \cf2 \expnd0\expndtw0\kerning0
-identify leads}</string>
+Identify Leads}</string>
 						<key>TextAlongPathGlyphAnchor</key>
-						<string>left</string>
+						<string>center</string>
 					</dict>
 				</dict>
 				<dict>
@@ -44552,7 +44552,7 @@ identify leads}</string>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>1</integer>
+		<integer>5</integer>
 		<key>Frame</key>
 		<string>{{-0, -0}, {1920, 1057}}</string>
 		<key>ShowInfo</key>
@@ -44566,10 +44566,10 @@ identify leads}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-265.76576576576565, -195.67567567567579}, {1119.8198198198197, 851.35135135135147}}</string>
+		<string>{{-296.42857142857088, -425}, {2219.6428571428573, 1687.5000000000002}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
-			<string>com.omnigroup.OmniGraffle.inspectorGroup.document</string>
+			<string>com.omnigroup.OmniGraffle.inspectorGroup.object</string>
 		</array>
 		<key>ZoomValues</key>
 		<array>
@@ -44585,27 +44585,27 @@ identify leads}</string>
 			</array>
 			<array>
 				<string>align-flow</string>
-				<real>1.3812949640287771</real>
+				<real>1.3799999999999999</real>
 				<real>1</real>
 			</array>
 			<array>
 				<string>simple-process</string>
-				<real>0.36000001430511475</real>
+				<real>0.35999999999999999</real>
 				<real>0.35999999999999999</real>
 			</array>
 			<array>
 				<string>sales</string>
-				<real>0.36000001430511475</real>
+				<real>0.35999999999999999</real>
 				<real>1</real>
 			</array>
 			<array>
 				<string>swim-lanes</string>
-				<real>0.31000000238418579</real>
+				<real>0.55999999999999994</real>
 				<real>0.31</real>
 			</array>
 			<array>
 				<string>support</string>
-				<real>0.31000000238418579</real>
+				<real>0.0</real>
 				<real>0.31</real>
 			</array>
 			<array>
@@ -44620,7 +44620,7 @@ identify leads}</string>
 			</array>
 			<array>
 				<string>wip-and-value</string>
-				<real>0.50999999046325684</real>
+				<real>0.51000000000000001</real>
 				<real>0.51000000000000001</real>
 			</array>
 		</array>
