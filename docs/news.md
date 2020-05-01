@@ -8,6 +8,7 @@ title: News
 
 - added new pattern map that exports from artboards
 - added illustrations that display patterns for individuals, ,teams, managers and executive teams
+- revised all illustrations in `workflow-and-value` for better readability
 
 ## April 26, 2020
 
