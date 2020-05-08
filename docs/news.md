@@ -4,13 +4,19 @@ title: News
 
 # News and Updates
 
+## May 8, 2020
+
+- updated all English illustrations to new color scheme
+- aligned design of all English illustrations
+
 ## May 1, 2020
 
 - added new pattern map that exports from artboards
 - added illustrations that display patterns for individuals, ,teams, managers and executive teams
 - revised all illustrations in `workflow-and-value` for better readability
 - removed ~40 illustrations that are no longer used in the practical guide so translation will be simpler from English, German and French source files
-
+- updated all flowcharts to new design
+- 
 
 ## April 26, 2020
 
