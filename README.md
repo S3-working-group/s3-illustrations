@@ -4,7 +4,9 @@ This package contains 130 illustrations for [Sociocracy 3.0](https://sociocracy3
 
 Go to the [project's GitHub page](https://illustrations.sociocracy30.org) to download or browse the illustrations.
 
-Illustrations are available as PNG files with 140 dpi, both with white and transparent backgrounds. Currently there is English and German versions of each illustration, French and Hebrew versions coming soon. If you want to contribute to translating the illustrations into your language, please visit <https://sociocracy30.org/translations/> 
+The illustrations are available as PNG files with 140 dpi in English, French and German versions, more languages will be available soon. 
+
+If you want to contribute to translating the illustrations into your language, please visit <https://sociocracy30.org/translations/> 
 
 
 This project is maintained by [Bernhard Bockelbrink](https://evolving-collaboration/about-me/).
