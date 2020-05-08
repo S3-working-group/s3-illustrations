@@ -16,4 +16,10 @@ TODO:
 		
 	French translations:
 		- add new pattern map
-	
+
+Sketch:
+	- test import of SVG
+		- why are the arrow heads missing? is that a problem of Sketch, SVG or OmniGraffle
+	- test crowdin import/export
+		- decide how to set up documents and pages so that this is going to be cool.
+	- Sketch has a binary format (no diffs!), how to version (there's special services for that, is git also ok?)
