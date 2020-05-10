@@ -16,18 +16,6 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/fr/driver-domain/driver-response-full.png)](/img/fr/driver-domain/driver-response-full.png)
 
-## driver-response.png
-
-[![](/img/fr/driver-domain/driver-response.png)](/img/fr/driver-domain/driver-response.png)
-
-## driver-short.png
-
-[![](/img/fr/driver-domain/driver-short.png)](/img/fr/driver-domain/driver-short.png)
-
-## driver-strategy-agreements-domain.png
-
-[![](/img/fr/driver-domain/driver-strategy-agreements-domain.png)](/img/fr/driver-domain/driver-strategy-agreements-domain.png)
-
 ## driver.png
 
 [![](/img/fr/driver-domain/driver.png)](/img/fr/driver-domain/driver.png)
@@ -35,10 +23,6 @@ title: The Sociocracy 3.0 Illustration Repository
 ## drivers-and-domains.png
 
 [![](/img/fr/driver-domain/drivers-and-domains.png)](/img/fr/driver-domain/drivers-and-domains.png)
-
-## nested-domains.png
-
-[![](/img/fr/driver-domain/nested-domains.png)](/img/fr/driver-domain/nested-domains.png)
 
 ## tension-driver-response.png
 

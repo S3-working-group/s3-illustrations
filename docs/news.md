@@ -4,12 +4,20 @@ title: News
 
 # News and Updates
 
+
+## May 8, 2020
+
+- updated all English illustrations to new color scheme
+- aligned design of all English illustrations
+
+
 ## May 1, 2020
 
 - added new pattern map that exports from artboards
 - added illustrations that display patterns for individuals, ,teams, managers and executive teams
 - revised all illustrations in `workflow-and-value` for better readability
 - removed ~40 illustrations that are no longer used in the practical guide so translation will be simpler from English, German and French source files
+- updated all flowcharts to new design
 
 
 ## April 26, 2020
@@ -45,12 +53,14 @@ title: News
     - `framework/s3-pattern-groups-alt` 
     - `framework/s3-pattern-groups`
 
+
 ## Feb 24, 2020
 
 - updated `templates/domain-template` 
 - added `templates`
 - added `process/driver mapping flowchart`
 - replaced " "practical guide" with "social technology" in pattern map
+
 
 ## May 10, 2019
 
@@ -64,9 +74,11 @@ title: News
 * retouched `agreements/resolve-objections-process`
 * retouched  `agreements/role-selection`
 
+
 ## March 12, 2019
 
 * aligned several German translations for pattern names
+
 
 ## September 21, 2018
 
@@ -77,6 +89,7 @@ title: News
 * removed term "driver statement" from process illustration
 * updated templates for domain description
 
+
 ## August 17, 2018
 
 * updated `workflow-and-value/align-flow` and `workflow-and-value/types-of-flow` to show flow of value and information in relation to a customer
@@ -84,6 +97,7 @@ title: News
 *  updated `structural-patterns/fractal-organization`  to include 3rd tier and explain constituents
 * updated  `pattern-groups/group-3`  and `framework/pattern-map` to include new pattern name  pattern names
 *  updated `process/navigate-describe-respond`: added feedback loop to response to driver
+
 ## June 17, 2018 
 
 A major update with all the changes made for the upcoming release of ["S3 - A Practical Guide"](https://sociocracy30.org/guide).
@@ -105,18 +119,22 @@ A major update with all the changes made for the upcoming release of ["S3 - A Pr
     - `driver-domain/domain-primray-sub` to `driver-domain/drivers-and-domains`
     - `process/navigate-via-tension-cheatsheet` to `process/navigate-describe-respond`
 
+
 ## June 8, 2018
 
 * added cheatsheet for _Navigate Via Tension_ and _Describe Drivers_ [English](http://illustrations.sociocracy30.org/img/en/process/navigate-via-tension-cheatsheet.png)/[German](http://illustrations.sociocracy30.org/img/de/process/navigate-via-tension-cheatsheet.png)
+
 
 ## June 4, 2018
 
 * fixed cut-off German text in the illustration for macro and meta structures
 
+
 ## Apr 20, 2018
 
 * set up micro site at <https://illustrations.sociocracy30.org>
 * added downloads as zip files
+
 
 ## Jan 18, 2018
 
@@ -127,17 +145,21 @@ A major update with all the changes made for the upcoming release of ["S3 - A Pr
 
 * added first pass of German translations from [Crowdin](https://crowdin.com/project/sociocracy-30-illustrations)
 
+
 ## Sep 27, 2017
 
 * small fixes to English illustrations
+
 
 ## Jul 10, 2017
 
 * changed fonts in illustrations to [Ubuntu](https://fonts.google.com/specimen/Ubuntu) and [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
+
 ## Oct 27, 2017
 
 * updated English illustrations from latest release of [S3 - A Practical Guide](https://sociocracy30.org/guide)
+
 
 ## Nov 4, 2016 
 
