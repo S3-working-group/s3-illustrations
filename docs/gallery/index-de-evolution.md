@@ -24,10 +24,6 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/de/evolution/domain-driver-strategy-exeriments.png)](/img/de/evolution/domain-driver-strategy-exeriments.png)
 
-## driver-agreement-improvement.png
-
-[![](/img/de/evolution/driver-agreement-improvement.png)](/img/de/evolution/driver-agreement-improvement.png)
-
 ## driver-domain-selection-development.png
 
 [![](/img/de/evolution/driver-domain-selection-development.png)](/img/de/evolution/driver-domain-selection-development.png)
@@ -39,22 +35,6 @@ title: The Sociocracy 3.0 Illustration Repository
 ## experiments-2.png
 
 [![](/img/de/evolution/experiments-2.png)](/img/de/evolution/experiments-2.png)
-
-## experiments-phases.png
-
-[![](/img/de/evolution/experiments-phases.png)](/img/de/evolution/experiments-phases.png)
-
-## experiments.png
-
-[![](/img/de/evolution/experiments.png)](/img/de/evolution/experiments.png)
-
-## kaizen-plain.png
-
-[![](/img/de/evolution/kaizen-plain.png)](/img/de/evolution/kaizen-plain.png)
-
-## kaizen-values.png
-
-[![](/img/de/evolution/kaizen-values.png)](/img/de/evolution/kaizen-values.png)
 
 ## kaizen.png
 

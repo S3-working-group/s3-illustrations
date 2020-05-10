@@ -8,6 +8,10 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [Back](index-fr.html)
 
+## continuous-flow.png
+
+[![](/img/fr/meetings/continuous-flow.png)](/img/fr/meetings/continuous-flow.png)
+
 ## coordination-meeting.png
 
 [![](/img/fr/meetings/coordination-meeting.png)](/img/fr/meetings/coordination-meeting.png)
@@ -19,6 +23,18 @@ title: The Sociocracy 3.0 Illustration Repository
 ## governance-meeting.png
 
 [![](/img/fr/meetings/governance-meeting.png)](/img/fr/meetings/governance-meeting.png)
+
+## iterations.png
+
+[![](/img/fr/meetings/iterations.png)](/img/fr/meetings/iterations.png)
+
+## planning-review-standup.png
+
+[![](/img/fr/meetings/planning-review-standup.png)](/img/fr/meetings/planning-review-standup.png)
+
+## planning-review.png
+
+[![](/img/fr/meetings/planning-review.png)](/img/fr/meetings/planning-review.png)
 
 ## retrospective.png
 

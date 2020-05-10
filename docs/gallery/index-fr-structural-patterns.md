@@ -16,10 +16,6 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/fr/structural-patterns/circles-and-links.png)](/img/fr/structural-patterns/circles-and-links.png)
 
-## coordination-circle.png
-
-[![](/img/fr/structural-patterns/coordination-circle.png)](/img/fr/structural-patterns/coordination-circle.png)
-
 ## delegate-circle.png
 
 [![](/img/fr/structural-patterns/delegate-circle.png)](/img/fr/structural-patterns/delegate-circle.png)
@@ -47,10 +43,6 @@ title: The Sociocracy 3.0 Illustration Repository
 ## macro-and-meta-combined.png
 
 [![](/img/fr/structural-patterns/macro-and-meta-combined.png)](/img/fr/structural-patterns/macro-and-meta-combined.png)
-
-## nested-circle.png
-
-[![](/img/fr/structural-patterns/nested-circle.png)](/img/fr/structural-patterns/nested-circle.png)
 
 ## open-domain.png
 

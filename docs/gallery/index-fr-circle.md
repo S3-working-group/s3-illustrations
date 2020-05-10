@@ -8,10 +8,6 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [Back](index-fr.html)
 
-## circle-driver.png
-
-[![](/img/fr/circle/circle-driver.png)](/img/fr/circle/circle-driver.png)
-
 ## circle.png
 
 [![](/img/fr/circle/circle.png)](/img/fr/circle/circle.png)

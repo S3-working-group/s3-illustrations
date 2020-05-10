@@ -1,44 +1,25 @@
 TODO:
-	✔ make galleries @done (18-04-20 16:12)
-	✔ get flag icons and add to main page and menu @done (18-04-20 16:20)
-	✔ copy images to docs (and clear old folder before) @done (18-04-20 15:36)
-	✔ fix gh page @done (18-04-20 15:47)
-	✔ set up gh url ion github @done (18-04-20 15:47)
-	✔ list old releases in news @done (18-04-20 16:56)
-	✔ add tranlsations to index,md @done (18-04-20 15:47)
-	✔ test the site @done (18-04-20 16:56)
-	- add arrow in process illustration: retro ➤ governance backlog @done(2018-09-21)
-	German Translations:
-		- last english illustrations (role selection, qualify objections) @done
-		- Prinzip: Verantwortung -> Verantwortlichkeit (auch in Patternmap) @done
-		- Prinzip: Verantwortung -> Verantwortlichkeit (in neuer Patternmap im Branch nachziehen)
-	Port the whole thing to JavaScript:
-		https://omni-automation.com/jxa-applescript.html
-		https://discourse.omnigroup.com/t/javascript-for-automation-question/14754/6
-		https://discourse.omnigroup.com/t/testing-omnigraffle-7-3s-built-in-javascript-automation/30035/42
-		https://inside.omnigraffle.com/creating-your-first-cross-platform-plug-in-in-omnigraffle/
-		
+	- new build (delete all exports before, b/c illustrations were removed!)
 	
-	fix Error when exporting translations:
-		ls -b graffle/src | xargs -I {} ogtranslate extract  "graffle/src/{}"
-		opening /Users/beb/Dropbox/projects/S3/resources/s3-illustrations/graffle/src/models-of-management.graffle
-		Traceback (most recent call last):
-			File "/Users/beb/dev/.virtualenvs/ogtool/bin/ogtranslate", line 11, in <module>
-				load_entry_point('ogtool', 'console_scripts', 'ogtranslate')()
-			File "/Users/beb/dev/ogtool/ogtools/translate.py", line 262, in main
-				translator.args.func(translator)
-			File "/Users/beb/dev/ogtool/ogtools/translate.py", line 72, in cmd_extract_translations
-				c.walk(partial(extract_translations, file_name, canvas.name(), translation_memory))
-			File "/Users/beb/dev/ogtool/omnigraffle/data_model.py", line 90, in walk
-				i.walk(callback, skip_invisible_layers, nodes_visited, level + 1)
-			File "/Users/beb/dev/ogtool/omnigraffle/data_model.py", line 90, in walk
-				i.walk(callback, skip_invisible_layers, nodes_visited, level + 1)
-			File "/Users/beb/dev/ogtool/omnigraffle/data_model.py", line 90, in walk
-				i.walk(callback, skip_invisible_layers, nodes_visited, level + 1)
-			File "/Users/beb/dev/ogtool/omnigraffle/data_model.py", line 69, in walk
-				callback(self)
-			File "/Users/beb/dev/ogtool/ogtools/translate.py", line 64, in extract_translations
-				if text.strip():  # add only text with non-whitespace memory
-		AttributeError: 'list' object has no attribute 'strip'
+	Illustrations to retouch:
+		- all flowcharts (which style?)
+		- autonomy - coherence? rename old one (all versions of PG!!), and create new one from the unbalanced one!
+		- principles
+		- design principles
+		- flowcharts:
+			- decide on style for flowcharts
+			- retouch all of them
+		
+			
+	German translations:
+		- Prinzip: Verantwortung -> Verantwortlichkeit (in neuer Patternmap im Branch nachziehen)
+		
+	French translations:
+		- add new pattern map
 
-
+Sketch:
+	- test import of SVG
+		- why are the arrow heads missing? is that a problem of Sketch, SVG or OmniGraffle
+	- test crowdin import/export
+		- decide how to set up documents and pages so that this is going to be cool.
+	- Sketch has a binary format (no diffs!), how to version (there's special services for that, is git also ok?)
