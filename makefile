@@ -22,6 +22,7 @@ define export_language
 	ogexport.js $(SOURCEPATH)/$(1)/circle.graffle $(3) $(EXPORTPATH)/$(2)/circle scale=2 resolution=2 scope="entire document"
 	ogexport.js $(SOURCEPATH)/$(1)/collaboration-values.graffle $(3) $(EXPORTPATH)/$(2)/collaboration-values scale=2 resolution=2 scope="entire document"
 	ogexport.js $(SOURCEPATH)/$(1)/context.graffle $(3) $(EXPORTPATH)/$(2)/context scale=2 resolution=2 scope="entire document"
+	ogexport.js $(SOURCEPATH)/$(1)/csf.graffle $(3) $(EXPORTPATH)/$(2)/csf scale=2 resolution=2 scope="entire document"
 	ogexport.js $(SOURCEPATH)/$(1)/driver-domain.graffle $(3) $(EXPORTPATH)/$(2)/driver-domain scale=2 resolution=2 scope="entire document"
 	ogexport.js $(SOURCEPATH)/$(1)/evolution.graffle $(3) $(EXPORTPATH)/$(2)/evolution scale=2 resolution=2 scope="entire document"
 	ogexport.js $(SOURCEPATH)/$(1)/framework.graffle $(3) $(EXPORTPATH)/$(2)/framework scale=2 resolution=2 scope="entire document"
