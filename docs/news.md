@@ -5,6 +5,12 @@ title: News
 # News and Updates
 
 
+## May 15, 2021
+
+- new template illustration for _Clarify and Develop Domains_
+- updated pattern map
+- added CSF illustrations
+
 ## May 8, 2020
 
 - updated all English illustrations to new color scheme
