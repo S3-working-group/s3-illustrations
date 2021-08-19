@@ -44,9 +44,9 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/en/structural-patterns/macro-and-meta-combined.png)](/img/en/structural-patterns/macro-and-meta-combined.png)
 
-## open-domain.png
+## open-team.png
 
-[![](/img/en/structural-patterns/open-domain.png)](/img/en/structural-patterns/open-domain.png)
+[![](/img/en/structural-patterns/open-team.png)](/img/en/structural-patterns/open-team.png)
 
 ## peach-organization.png
 

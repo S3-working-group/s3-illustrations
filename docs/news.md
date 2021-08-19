@@ -4,12 +4,23 @@ title: News
 
 # News and Updates
 
+## August 15, 2021
+
+- renamed Open Domain to Open Team
+- updated pattern map
 
 ## May 15, 2021
 
 - new template illustration for _Clarify and Develop Domains_
 - updated pattern map
 - added CSF illustrations
+
+
+## February 2021
+
+- renamed ""
+- `process/driver-mapping` driver mapping: revised text
+
 
 ## May 8, 2020
 

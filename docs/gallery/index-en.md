@@ -10,6 +10,7 @@ title: The Sociocracy 3.0 Illustration Repository
 - [circle](/gallery/index-en-circle.html)
 - [collaboration-values](/gallery/index-en-collaboration-values.html)
 - [context](/gallery/index-en-context.html)
+- [csf](/gallery/index-en-csf.html)
 - [driver-domain](/gallery/index-en-driver-domain.html)
 - [evolution](/gallery/index-en-evolution.html)
 - [framework](/gallery/index-en-framework.html)
