@@ -9,6 +9,12 @@ title: News
 - renamed Open Domain to Open Team
 - updated pattern map
 
+
+## June 06, 2021
+
+- CSF updated:
+	- revised text of `csf/ 03 Orientation Slide`,  `csf/06 Transformation Slide`, `csf/07 All principles` and `csf/07a All principles (large)`
+	- 
 ## May 15, 2021
 
 - new template illustration for _Clarify and Develop Domains_
