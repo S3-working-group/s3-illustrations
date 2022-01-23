@@ -4,6 +4,11 @@ title: News
 
 # News and Updates
 
+## January 23, 2022
+
+- updated `framework/s3-pattern-groups` and `framework/pattern-map` with new pattern categories
+- added Reasoned Decision Making to `framework/pattern-map` 
+
 ## August 15, 2021
 
 - renamed Open Domain to Open Team
