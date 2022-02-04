@@ -4,9 +4,8 @@ title: News
 
 # News and Updates
 
+
 ## February 2022
-
-
 
 -   added illustrations for reasoned decision-making:
     -   `agreements/added reasoned-decision-making-alt`
@@ -18,6 +17,20 @@ title: News
     -   `agreements/proposal-forming`
     -   `agreements/resolve-objections`
     -   `agreements/selection`
+    -   `evolution/agreement-lifecycle`
+    -   `evolution/agreement-lifecycle-long`
+    -   `evolution/development-process`
+    -   `evolution/driver-domain-selection-development`
+    -   `evolution/driver-role-selection-development`
+    -   `evolution/experiments`
+    -   `evolution/peer-development-process`
+    -   `meetings/governance-meeting`
+    -   `meetings/coordination-meeting`
+    -   `meetings/evaluate interactions`
+    -   `process/adapt-pattern-to-context`
+    -   `process/driver-mapping`
+    -   `process/opening-salaries`
+    -   `process/peer-review`
 
 
 ## January 23, 2022
