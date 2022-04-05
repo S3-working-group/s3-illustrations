@@ -18,20 +18,20 @@ EXPORTARGS=scale=2 resolution=2 scope="entire document"
 
 # $(call export_language,src,en-tmp,PNG)
 define export_language
-	ogexport.js $(SOURCEPATH)/$(1)/agreements.graffle $(3) $(EXPORTPATH)/$(2)/agreements $(EXPORTARGS)
-	ogexport.js $(SOURCEPATH)/$(1)/circle.graffle $(3) $(EXPORTPATH)/$(2)/circle scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/collaboration-values.graffle $(3) $(EXPORTPATH)/$(2)/collaboration-values scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/context.graffle $(3) $(EXPORTPATH)/$(2)/context scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/csf.graffle $(3) $(EXPORTPATH)/$(2)/csf scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/driver-domain.graffle $(3) $(EXPORTPATH)/$(2)/driver-domain scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/evolution.graffle $(3) $(EXPORTPATH)/$(2)/evolution scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/framework.graffle $(3) $(EXPORTPATH)/$(2)/framework scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/illustrations.graffle $(3) $(EXPORTPATH)/$(2)/illustrations scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/meetings.graffle $(3) $(EXPORTPATH)/$(2)/meetings scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/process.graffle $(3) $(EXPORTPATH)/$(2)/process scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/structural-patterns.graffle $(3) $(EXPORTPATH)/$(2)/structural-patterns scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/templates.graffle $(3) $(EXPORTPATH)/$(2)/templates scale=2 resolution=2 scope="entire document"
-	ogexport.js $(SOURCEPATH)/$(1)/workflow-and-value.graffle $(3) $(EXPORTPATH)/$(2)/workflow-and-value scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/agreements.graffle $(3) $(EXPORTPATH)/$(2)/agreements $(EXPORTARGS)
+	./ogexport.js $(SOURCEPATH)/$(1)/circle.graffle $(3) $(EXPORTPATH)/$(2)/circle scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/collaboration-values.graffle $(3) $(EXPORTPATH)/$(2)/collaboration-values scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/context.graffle $(3) $(EXPORTPATH)/$(2)/context scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/csf.graffle $(3) $(EXPORTPATH)/$(2)/csf scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/driver-domain.graffle $(3) $(EXPORTPATH)/$(2)/driver-domain scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/evolution.graffle $(3) $(EXPORTPATH)/$(2)/evolution scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/framework.graffle $(3) $(EXPORTPATH)/$(2)/framework scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/illustrations.graffle $(3) $(EXPORTPATH)/$(2)/illustrations scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/meetings.graffle $(3) $(EXPORTPATH)/$(2)/meetings scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/process.graffle $(3) $(EXPORTPATH)/$(2)/process scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/structural-patterns.graffle $(3) $(EXPORTPATH)/$(2)/structural-patterns scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/templates.graffle $(3) $(EXPORTPATH)/$(2)/templates scale=2 resolution=2 scope="entire document"
+	./ogexport.js $(SOURCEPATH)/$(1)/workflow-and-value.graffle $(3) $(EXPORTPATH)/$(2)/workflow-and-value scale=2 resolution=2 scope="entire document"
 endef
 
 site:
