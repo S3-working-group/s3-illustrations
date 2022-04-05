@@ -4,7 +4,14 @@ title: News
 
 # News and Updates
 
+## April 2022
 
+-   updated `agreements/resolve-objections` and `agreements/resolve-objections-process`
+
+## March 2022
+
+-   revised `agreements/reasoned-decision-making-table`
+-   `cse/01 Introduction Slide`: added reciprocity
 ## February 2022
 
 -   added illustrations for reasoned decision-making:
