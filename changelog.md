@@ -4,14 +4,25 @@ title: News
 
 # News and Updates
 
+
 ## April 2022
 
--   updated `agreements/resolve-objections` and `agreements/resolve-objections-process`
+-   renamed `agreements/qualify-objection-process` to `agreements/test-arguments-process` 
+-   added `agreements/test-arguments`
+-   updated the following illustrations to align with the extended pattern descriptions:illustrations
+    -   `agreements/resolve-objections`
+    -   `agreements/reasoned-decision-making-table`
+    -   `agreements/resolve-objections-process`
+    -   `agreements/test-arguments-facilitation-guide`
+    -   `agreements/test-arguments-process`
+
 
 ## March 2022
 
 -   revised `agreements/reasoned-decision-making-table`
--   `cse/01 Introduction Slide`: added reciprocity
+-   updated `cse/01 Introduction Slide`: added reciprocity
+
+
 ## February 2022
 
 -   added illustrations for reasoned decision-making:
@@ -44,6 +55,7 @@ title: News
 
 - updated `framework/s3-pattern-groups` and `framework/pattern-map` with new pattern categories
 - added Reasoned Decision Making to `framework/pattern-map`
+
 
 ## August 15, 2021
 
