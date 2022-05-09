@@ -20,9 +20,17 @@ title: The Sociocracy 3.0 Illustration Repository
 
 [![](/img/en/agreements/proposal-forming.png)](/img/en/agreements/proposal-forming.png)
 
-## qualify-objection-process.png
+## reasoned-decision-making-alt.png
 
-[![](/img/en/agreements/qualify-objection-process.png)](/img/en/agreements/qualify-objection-process.png)
+[![](/img/en/agreements/reasoned-decision-making-alt.png)](/img/en/agreements/reasoned-decision-making-alt.png)
+
+## reasoned-decision-making-table.png
+
+[![](/img/en/agreements/reasoned-decision-making-table.png)](/img/en/agreements/reasoned-decision-making-table.png)
+
+## reasoned-decision-making.png
+
+[![](/img/en/agreements/reasoned-decision-making.png)](/img/en/agreements/reasoned-decision-making.png)
 
 ## resolve-objections-process.png
 
@@ -35,5 +43,17 @@ title: The Sociocracy 3.0 Illustration Repository
 ## selection.png
 
 [![](/img/en/agreements/selection.png)](/img/en/agreements/selection.png)
+
+## test-arguments-facilitation-guide.png
+
+[![](/img/en/agreements/test-arguments-facilitation-guide.png)](/img/en/agreements/test-arguments-facilitation-guide.png)
+
+## test-arguments-process.png
+
+[![](/img/en/agreements/test-arguments-process.png)](/img/en/agreements/test-arguments-process.png)
+
+## test-arguments.png
+
+[![](/img/en/agreements/test-arguments.png)](/img/en/agreements/test-arguments.png)
 
 ----[Back](index-en.html)
