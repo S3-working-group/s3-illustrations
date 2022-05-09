@@ -38,12 +38,18 @@ site:
 	-rm -r docs/img/en
 	mkdir docs/img/en
 	cp -r png/en/* docs/img/en
+
 	-rm -r docs/img/de
 	mkdir docs/img/de
 	cp -r png/de/* docs/img/de
+
 	-rm -r docs/img/fr
 	mkdir docs/img/fr
 	cp -r png/fr/* docs/img/fr
+
+	-rm -r docs/img/nl
+	mkdir docs/img/nl
+	cp -r png/nl/* docs/img/nl
 
 	-rm docs/gallery/*
 	python make_galleries.py
@@ -59,6 +65,9 @@ downloads:
 
 	-rm docs/s3-illustrations-fr.zip
 	zip -r docs/s3-illustrations-fr.zip png/fr LICENSE readme.txt
+
+	-rm docs/s3-illustrations-nl.zip
+	zip -r docs/s3-illustrations-nl.zip png/fr LICENSE readme.txt
 
 crowdin:
 	#  crowdin --identity ~/crowdin-s3-illustrations.yaml upload sources  --dryrun
