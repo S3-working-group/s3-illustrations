@@ -47,6 +47,7 @@ site:
 
 	-rm docs/gallery/*
 	python make_galleries.py
+	cp changelog.md docs/news.md
 	cd docs; bundle exec jekyll build
 
 downloads:

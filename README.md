@@ -8,6 +8,7 @@ The illustrations are available as PNG files with 140 dpi in English, French and
 
 If you want to contribute to translating the illustrations into your language, please visit <https://sociocracy30.org/translations/> 
 
+A detailed changelog is available in the file `changelog.md` or [on the website](https://illustrations.sociocracy30.org/news.md]
 
 This project is maintained by [Bernhard Bockelbrink](https://evolving-collaboration/about-me/).
 
